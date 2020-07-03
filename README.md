@@ -1,4 +1,4 @@
-# What makes a popular AI academic repository?
+# What makes a popular academic AI repository?
 This repository is the accompanying repository for our paper "What Makes a popular Academic AI Repository"
 
 Many AI researchers use GitHub repositories to share data, software code and other resources that accompany their publications. 
