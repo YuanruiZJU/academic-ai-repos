@@ -15,10 +15,13 @@ Hence, in our paper, we perform an empirical analysis of the collected academic 
 * Several Python packages including sqlalchemy, gensim, nltk, Beautiful Soup 4, etc. 
 
 ## Data
-1. In the `code_repos` directory, we provide all the academic AI
+In the `code_repos` directory, we provide all the academic AI repositories studied in our paper. Input the following commands to retrieve all the repositories:
 
-
-We provide an [OneDirve url](https://zjueducn-my.sharepoint.com/:u:/g/personal/yrfan_zju_edu_cn/EX5d772FSLFPqO-obR0ux0sBpXd3xqBGBpjyiG4MLL1J7w?e=gNAk0F) for downloading all the AI academic repositories that we collected.
+```
+git clone https://github.com/YuanruiZJU/academic-ai-repos.git
+git submodule init
+git submodule update
+```
 
 ## Replicating our results
 
@@ -31,3 +34,5 @@ We provide an [OneDirve url](https://zjueducn-my.sharepoint.com/:u:/g/personal/y
 ## Checklist for AI Researchers
 
 According to our experimental results, we have the following **checklist for AI researchers when publishing their academic AI repositories**:
+
+![avatar](pictures/checklist.png)
