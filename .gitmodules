@@ -1,0 +1,3438 @@
+[submodule "code_repos/NVIDIA/vid2vid"]
+	path = code_repos/NVIDIA/vid2vid
+	url = https://github.com/NVIDIA/vid2vid
+[submodule "code_repos/DmitryUlyanov/deep-image-prior"]
+	path = code_repos/DmitryUlyanov/deep-image-prior
+	url = https://github.com/DmitryUlyanov/deep-image-prior
+[submodule "code_repos/yunjey/StarGAN"]
+	path = code_repos/yunjey/StarGAN
+	url = https://github.com/yunjey/StarGAN
+[submodule "code_repos/YadiraF/PRNet"]
+	path = code_repos/YadiraF/PRNet
+	url = https://github.com/YadiraF/PRNet
+[submodule "code_repos/cchen156/Learning-to-See-in-the-Dark"]
+	path = code_repos/cchen156/Learning-to-See-in-the-Dark
+	url = https://github.com/cchen156/Learning-to-See-in-the-Dark
+[submodule "code_repos/openai/glow"]
+	path = code_repos/openai/glow
+	url = https://github.com/openai/glow
+[submodule "code_repos/hujie-frank/SENet"]
+	path = code_repos/hujie-frank/SENet
+	url = https://github.com/hujie-frank/SENet
+[submodule "code_repos/melodyguan/enas"]
+	path = code_repos/melodyguan/enas
+	url = https://github.com/melodyguan/enas
+[submodule "code_repos/NVlabs/MUNIT"]
+	path = code_repos/NVlabs/MUNIT
+	url = https://github.com/NVlabs/MUNIT
+[submodule "code_repos/facebookresearch/video-nonlocal-net"]
+	path = code_repos/facebookresearch/video-nonlocal-net
+	url = https://github.com/facebookresearch/video-nonlocal-net
+[submodule "code_repos/google/sg2im"]
+	path = code_repos/google/sg2im
+	url = https://github.com/google/sg2im
+[submodule "code_repos/kenshohara/3D-ResNets-PyTorch"]
+	path = code_repos/kenshohara/3D-ResNets-PyTorch
+	url = https://github.com/kenshohara/3D-ResNets-PyTorch
+[submodule "code_repos/sfzhang15/RefineDet"]
+	path = code_repos/sfzhang15/RefineDet
+	url = https://github.com/sfzhang15/RefineDet
+[submodule "code_repos/albertpumarola/GANimation"]
+	path = code_repos/albertpumarola/GANimation
+	url = https://github.com/albertpumarola/GANimation
+[submodule "code_repos/facebookresearch/DetectAndTrack"]
+	path = code_repos/facebookresearch/DetectAndTrack
+	url = https://github.com/facebookresearch/DetectAndTrack
+[submodule "code_repos/msracver/Relation-Networks-for-Object-Detection"]
+	path = code_repos/msracver/Relation-Networks-for-Object-Detection
+	url = https://github.com/msracver/Relation-Networks-for-Object-Detection
+[submodule "code_repos/yangyanli/PointCNN"]
+	path = code_repos/yangyanli/PointCNN
+	url = https://github.com/yangyanli/PointCNN
+[submodule "code_repos/anishathalye/obfuscated-gradients"]
+	path = code_repos/anishathalye/obfuscated-gradients
+	url = https://github.com/anishathalye/obfuscated-gradients
+[submodule "code_repos/Microsoft/human-pose-estimation.pytorch"]
+	path = code_repos/Microsoft/human-pose-estimation.pytorch
+	url = https://github.com/Microsoft/human-pose-estimation.pytorch
+[submodule "code_repos/StanfordVL/taskonomy"]
+	path = code_repos/StanfordVL/taskonomy
+	url = https://github.com/StanfordVL/taskonomy
+[submodule "code_repos/LMescheder/GAN_stability"]
+	path = code_repos/LMescheder/GAN_stability
+	url = https://github.com/LMescheder/GAN_stability
+[submodule "code_repos/chenyilun95/tf-cpn"]
+	path = code_repos/chenyilun95/tf-cpn
+	url = https://github.com/chenyilun95/tf-cpn
+[submodule "code_repos/Robert-JunWang/Pelee"]
+	path = code_repos/Robert-JunWang/Pelee
+	url = https://github.com/Robert-JunWang/Pelee
+[submodule "code_repos/JiahuiYu/generative_inpainting"]
+	path = code_repos/JiahuiYu/generative_inpainting
+	url = https://github.com/JiahuiYu/generative_inpainting
+[submodule "code_repos/hiroharu-kato/neural_renderer"]
+	path = code_repos/hiroharu-kato/neural_renderer
+	url = https://github.com/hiroharu-kato/neural_renderer
+[submodule "code_repos/wywu/LAB"]
+	path = code_repos/wywu/LAB
+	url = https://github.com/wywu/LAB
+[submodule "code_repos/JudyYe/zero-shot-gcn"]
+	path = code_repos/JudyYe/zero-shot-gcn
+	url = https://github.com/JudyYe/zero-shot-gcn
+[submodule "code_repos/akanazawa/hmr"]
+	path = code_repos/akanazawa/hmr
+	url = https://github.com/akanazawa/hmr
+[submodule "code_repos/mapillary/inplace_abn"]
+	path = code_repos/mapillary/inplace_abn
+	url = https://github.com/mapillary/inplace_abn
+[submodule "code_repos/hszhao/ICNet"]
+	path = code_repos/hszhao/ICNet
+	url = https://github.com/hszhao/ICNet
+[submodule "code_repos/richzhang/PerceptualSimilarity"]
+	path = code_repos/richzhang/PerceptualSimilarity
+	url = https://github.com/richzhang/PerceptualSimilarity
+[submodule "code_repos/foolwood/DaSiamRPN"]
+	path = code_repos/foolwood/DaSiamRPN
+	url = https://github.com/foolwood/DaSiamRPN
+[submodule "code_repos/charlesq34/frustum-pointnets"]
+	path = code_repos/charlesq34/frustum-pointnets
+	url = https://github.com/charlesq34/frustum-pointnets
+[submodule "code_repos/StanfordVL/GibsonEnv"]
+	path = code_repos/StanfordVL/GibsonEnv
+	url = https://github.com/StanfordVL/GibsonEnv
+[submodule "code_repos/davidmascharka/tbd-nets"]
+	path = code_repos/davidmascharka/tbd-nets
+	url = https://github.com/davidmascharka/tbd-nets
+[submodule "code_repos/krematas/soccerontable"]
+	path = code_repos/krematas/soccerontable
+	url = https://github.com/krematas/soccerontable
+[submodule "code_repos/NVlabs/noise2noise"]
+	path = code_repos/NVlabs/noise2noise
+	url = https://github.com/NVlabs/noise2noise
+[submodule "code_repos/yzcjtr/GeoNet"]
+	path = code_repos/yzcjtr/GeoNet
+	url = https://github.com/yzcjtr/GeoNet
+[submodule "code_repos/jiasenlu/NeuralBabyTalk"]
+	path = code_repos/jiasenlu/NeuralBabyTalk
+	url = https://github.com/jiasenlu/NeuralBabyTalk
+[submodule "code_repos/vacancy/PreciseRoIPooling"]
+	path = code_repos/vacancy/PreciseRoIPooling
+	url = https://github.com/vacancy/PreciseRoIPooling
+[submodule "code_repos/bermanmaxim/LovaszSoftmax"]
+	path = code_repos/bermanmaxim/LovaszSoftmax
+	url = https://github.com/bermanmaxim/LovaszSoftmax
+[submodule "code_repos/NVlabs/PWC-Net"]
+	path = code_repos/NVlabs/PWC-Net
+	url = https://github.com/NVlabs/PWC-Net
+[submodule "code_repos/wuhuikai/DeepGuidedFilter"]
+	path = code_repos/wuhuikai/DeepGuidedFilter
+	url = https://github.com/wuhuikai/DeepGuidedFilter
+[submodule "code_repos/jakezhaojb/ARAE"]
+	path = code_repos/jakezhaojb/ARAE
+	url = https://github.com/jakezhaojb/ARAE
+[submodule "code_repos/sergiomsilva/alpr-unconstrained"]
+	path = code_repos/sergiomsilva/alpr-unconstrained
+	url = https://github.com/sergiomsilva/alpr-unconstrained
+[submodule "code_repos/facebookresearch/supervision-by-registration"]
+	path = code_repos/facebookresearch/supervision-by-registration
+	url = https://github.com/facebookresearch/supervision-by-registration
+[submodule "code_repos/JiaRenChang/PSMNet"]
+	path = code_repos/JiaRenChang/PSMNet
+	url = https://github.com/JiaRenChang/PSMNet
+[submodule "code_repos/iboing/CliqueNet"]
+	path = code_repos/iboing/CliqueNet
+	url = https://github.com/iboing/CliqueNet
+[submodule "code_repos/ethanfetaya/NRI"]
+	path = code_repos/ethanfetaya/NRI
+	url = https://github.com/ethanfetaya/NRI
+[submodule "code_repos/wasidennis/AdaptSegNet"]
+	path = code_repos/wasidennis/AdaptSegNet
+	url = https://github.com/wasidennis/AdaptSegNet
+[submodule "code_repos/ronghanghu/seg_every_thing"]
+	path = code_repos/ronghanghu/seg_every_thing
+	url = https://github.com/ronghanghu/seg_every_thing
+[submodule "code_repos/twhui/LiteFlowNet"]
+	path = code_repos/twhui/LiteFlowNet
+	url = https://github.com/twhui/LiteFlowNet
+[submodule "code_repos/LijieFan/tvnet"]
+	path = code_repos/LijieFan/tvnet
+	url = https://github.com/LijieFan/tvnet
+[submodule "code_repos/nywang16/Pixel2Mesh"]
+	path = code_repos/nywang16/Pixel2Mesh
+	url = https://github.com/nywang16/Pixel2Mesh
+[submodule "code_repos/jnhwkim/ban-vqa"]
+	path = code_repos/jnhwkim/ban-vqa
+	url = https://github.com/jnhwkim/ban-vqa
+[submodule "code_repos/endernewton/iter-reason"]
+	path = code_repos/endernewton/iter-reason
+	url = https://github.com/endernewton/iter-reason
+[submodule "code_repos/xjqicuhk/SIMS"]
+	path = code_repos/xjqicuhk/SIMS
+	url = https://github.com/xjqicuhk/SIMS
+[submodule "code_repos/CompVis/adaptive-style-transfer"]
+	path = code_repos/CompVis/adaptive-style-transfer
+	url = https://github.com/CompVis/adaptive-style-transfer
+[submodule "code_repos/D-X-Y/SAN"]
+	path = code_repos/D-X-Y/SAN
+	url = https://github.com/D-X-Y/SAN
+[submodule "code_repos/penincillin/DREAM"]
+	path = code_repos/penincillin/DREAM
+	url = https://github.com/penincillin/DREAM
+[submodule "code_repos/JiaxuanYou/graph-generation"]
+	path = code_repos/JiaxuanYou/graph-generation
+	url = https://github.com/JiaxuanYou/graph-generation
+[submodule "code_repos/StanfordVL/ReferringRelationships"]
+	path = code_repos/StanfordVL/ReferringRelationships
+	url = https://github.com/StanfordVL/ReferringRelationships
+[submodule "code_repos/sergeytulyakov/mocogan"]
+	path = code_repos/sergeytulyakov/mocogan
+	url = https://github.com/sergeytulyakov/mocogan
+[submodule "code_repos/chaoyuaw/pytorch-coviar"]
+	path = code_repos/chaoyuaw/pytorch-coviar
+	url = https://github.com/chaoyuaw/pytorch-coviar
+[submodule "code_repos/zouchuhang/LayoutNet"]
+	path = code_repos/zouchuhang/LayoutNet
+	url = https://github.com/zouchuhang/LayoutNet
+[submodule "code_repos/sacmehta/ESPNet"]
+	path = code_repos/sacmehta/ESPNet
+	url = https://github.com/sacmehta/ESPNet
+[submodule "code_repos/harvardnlp/var-attn"]
+	path = code_repos/harvardnlp/var-attn
+	url = https://github.com/harvardnlp/var-attn
+[submodule "code_repos/azadis/MC-GAN"]
+	path = code_repos/azadis/MC-GAN
+	url = https://github.com/azadis/MC-GAN
+[submodule "code_repos/NVlabs/splatnet"]
+	path = code_repos/NVlabs/splatnet
+	url = https://github.com/NVlabs/splatnet
+[submodule "code_repos/rui1996/DeRaindrop"]
+	path = code_repos/rui1996/DeRaindrop
+	url = https://github.com/rui1996/DeRaindrop
+[submodule "code_repos/lawy623/SVS"]
+	path = code_repos/lawy623/SVS
+	url = https://github.com/lawy623/SVS
+[submodule "code_repos/zhirongw/lemniscate.pytorch"]
+	path = code_repos/zhirongw/lemniscate.pytorch
+	url = https://github.com/zhirongw/lemniscate.pytorch
+[submodule "code_repos/tonghe90/textspotter"]
+	path = code_repos/tonghe90/textspotter
+	url = https://github.com/tonghe90/textspotter
+[submodule "code_repos/agrimgupta92/sgan"]
+	path = code_repos/agrimgupta92/sgan
+	url = https://github.com/agrimgupta92/sgan
+[submodule "code_repos/chenhsuanlin/spatial-transformer-GAN"]
+	path = code_repos/chenhsuanlin/spatial-transformer-GAN
+	url = https://github.com/chenhsuanlin/spatial-transformer-GAN
+[submodule "code_repos/openai/EPG"]
+	path = code_repos/openai/EPG
+	url = https://github.com/openai/EPG
+[submodule "code_repos/loicland/superpoint_graph"]
+	path = code_repos/loicland/superpoint_graph
+	url = https://github.com/loicland/superpoint_graph
+[submodule "code_repos/akanazawa/cmr"]
+	path = code_repos/akanazawa/cmr
+	url = https://github.com/akanazawa/cmr
+[submodule "code_repos/lixx2938/MegaDepth"]
+	path = code_repos/lixx2938/MegaDepth
+	url = https://github.com/lixx2938/MegaDepth
+[submodule "code_repos/facebookresearch/deepcluster"]
+	path = code_repos/facebookresearch/deepcluster
+	url = https://github.com/facebookresearch/deepcluster
+[submodule "code_repos/wzmsltw/BSN-boundary-sensitive-network"]
+	path = code_repos/wzmsltw/BSN-boundary-sensitive-network
+	url = https://github.com/wzmsltw/BSN-boundary-sensitive-network
+[submodule "code_repos/cszn/SRMD"]
+	path = code_repos/cszn/SRMD
+	url = https://github.com/cszn/SRMD
+[submodule "code_repos/yingcong/Facelet_Bank"]
+	path = code_repos/yingcong/Facelet_Bank
+	url = https://github.com/yingcong/Facelet_Bank
+[submodule "code_repos/yulunzhang/RCAN"]
+	path = code_repos/yulunzhang/RCAN
+	url = https://github.com/yulunzhang/RCAN
+[submodule "code_repos/mzolfaghari/ECO-efficient-video-understanding"]
+	path = code_repos/mzolfaghari/ECO-efficient-video-understanding
+	url = https://github.com/mzolfaghari/ECO-efficient-video-understanding
+[submodule "code_repos/art-programmer/PlaneNet"]
+	path = code_repos/art-programmer/PlaneNet
+	url = https://github.com/art-programmer/PlaneNet
+[submodule "code_repos/junhyukoh/self-imitation-learning"]
+	path = code_repos/junhyukoh/self-imitation-learning
+	url = https://github.com/junhyukoh/self-imitation-learning
+[submodule "code_repos/yulunzhang/RDN"]
+	path = code_repos/yulunzhang/RDN
+	url = https://github.com/yulunzhang/RDN
+[submodule "code_repos/facebookresearch/EmbodiedQA"]
+	path = code_repos/facebookresearch/EmbodiedQA
+	url = https://github.com/facebookresearch/EmbodiedQA
+[submodule "code_repos/ahangchen/TFusion"]
+	path = code_repos/ahangchen/TFusion
+	url = https://github.com/ahangchen/TFusion
+[submodule "code_repos/ryersonvisionlab/two-stream-dyntex-synth"]
+	path = code_repos/ryersonvisionlab/two-stream-dyntex-synth
+	url = https://github.com/ryersonvisionlab/two-stream-dyntex-synth
+[submodule "code_repos/hezhangsprinter/DCPDN"]
+	path = code_repos/hezhangsprinter/DCPDN
+	url = https://github.com/hezhangsprinter/DCPDN
+[submodule "code_repos/zhunzhong07/CamStyle"]
+	path = code_repos/zhunzhong07/CamStyle
+	url = https://github.com/zhunzhong07/CamStyle
+[submodule "code_repos/rowanz/neural-motifs"]
+	path = code_repos/rowanz/neural-motifs
+	url = https://github.com/rowanz/neural-motifs
+[submodule "code_repos/MVIG-SJTU/WSHP"]
+	path = code_repos/MVIG-SJTU/WSHP
+	url = https://github.com/MVIG-SJTU/WSHP
+[submodule "code_repos/lawy623/LSTM_Pose_Machines"]
+	path = code_repos/lawy623/LSTM_Pose_Machines
+	url = https://github.com/lawy623/LSTM_Pose_Machines
+[submodule "code_repos/lijx10/SO-Net"]
+	path = code_repos/lijx10/SO-Net
+	url = https://github.com/lijx10/SO-Net
+[submodule "code_repos/Simon4Yan/Learning-via-Translation"]
+	path = code_repos/Simon4Yan/Learning-via-Translation
+	url = https://github.com/Simon4Yan/Learning-via-Translation
+[submodule "code_repos/JingchunCheng/FAVOS"]
+	path = code_repos/JingchunCheng/FAVOS
+	url = https://github.com/JingchunCheng/FAVOS
+[submodule "code_repos/naoto0804/cross-domain-detection"]
+	path = code_repos/naoto0804/cross-domain-detection
+	url = https://github.com/naoto0804/cross-domain-detection
+[submodule "code_repos/lzrobots/LearningToCompare_ZSL"]
+	path = code_repos/lzrobots/LearningToCompare_ZSL
+	url = https://github.com/lzrobots/LearningToCompare_ZSL
+[submodule "code_repos/XiaLiPKU/RESCAN"]
+	path = code_repos/XiaLiPKU/RESCAN
+	url = https://github.com/XiaLiPKU/RESCAN
+[submodule "code_repos/choasup/SIN"]
+	path = code_repos/choasup/SIN
+	url = https://github.com/choasup/SIN
+[submodule "code_repos/YoYo000/MVSNet"]
+	path = code_repos/YoYo000/MVSNet
+	url = https://github.com/YoYo000/MVSNet
+[submodule "code_repos/martius-lab/l4-optimizer"]
+	path = code_repos/martius-lab/l4-optimizer
+	url = https://github.com/martius-lab/l4-optimizer
+[submodule "code_repos/facebookresearch/VMZ"]
+	path = code_repos/facebookresearch/VMZ
+	url = https://github.com/facebookresearch/VMZ
+[submodule "code_repos/Huangying-Zhan/Depth-VO-Feat"]
+	path = code_repos/Huangying-Zhan/Depth-VO-Feat
+	url = https://github.com/Huangying-Zhan/Depth-VO-Feat
+[submodule "code_repos/xingyuansun/pix3d"]
+	path = code_repos/xingyuansun/pix3d
+	url = https://github.com/xingyuansun/pix3d
+[submodule "code_repos/salihkaragoz/pose-residual-network-pytorch"]
+	path = code_repos/salihkaragoz/pose-residual-network-pytorch
+	url = https://github.com/salihkaragoz/pose-residual-network-pytorch
+[submodule "code_repos/lileee/gated-path-planning-networks"]
+	path = code_repos/lileee/gated-path-planning-networks
+	url = https://github.com/lileee/gated-path-planning-networks
+[submodule "code_repos/arunmallya/packnet"]
+	path = code_repos/arunmallya/packnet
+	url = https://github.com/arunmallya/packnet
+[submodule "code_repos/wy1iu/DCNets"]
+	path = code_repos/wy1iu/DCNets
+	url = https://github.com/wy1iu/DCNets
+[submodule "code_repos/thmoa/videoavatars"]
+	path = code_repos/thmoa/videoavatars
+	url = https://github.com/thmoa/videoavatars
+[submodule "code_repos/phuang17/DeepMVS"]
+	path = code_repos/phuang17/DeepMVS
+	url = https://github.com/phuang17/DeepMVS
+[submodule "code_repos/hoangminhle/hierarchical_IL_RL"]
+	path = code_repos/hoangminhle/hierarchical_IL_RL
+	url = https://github.com/hoangminhle/hierarchical_IL_RL
+[submodule "code_repos/Microsoft/singleshotpose"]
+	path = code_repos/Microsoft/singleshotpose
+	url = https://github.com/Microsoft/singleshotpose
+[submodule "code_repos/twke18/Adaptive_Affinity_Fields"]
+	path = code_repos/twke18/Adaptive_Affinity_Fields
+	url = https://github.com/twke18/Adaptive_Affinity_Fields
+[submodule "code_repos/oxuva/long-term-tracking-benchmark"]
+	path = code_repos/oxuva/long-term-tracking-benchmark
+	url = https://github.com/oxuva/long-term-tracking-benchmark
+[submodule "code_repos/brain-research/realistic-ssl-evaluation"]
+	path = code_repos/brain-research/realistic-ssl-evaluation
+	url = https://github.com/brain-research/realistic-ssl-evaluation
+[submodule "code_repos/alterzero/DBPN-Pytorch"]
+	path = code_repos/alterzero/DBPN-Pytorch
+	url = https://github.com/alterzero/DBPN-Pytorch
+[submodule "code_repos/ThibaultGROUEIX/3D-CODED"]
+	path = code_repos/ThibaultGROUEIX/3D-CODED
+	url = https://github.com/ThibaultGROUEIX/3D-CODED
+[submodule "code_repos/xinntao/CVPR18-SFTGAN"]
+	path = code_repos/xinntao/CVPR18-SFTGAN
+	url = https://github.com/xinntao/CVPR18-SFTGAN
+[submodule "code_repos/jiangsutx/SRN-Deblur"]
+	path = code_repos/jiangsutx/SRN-Deblur
+	url = https://github.com/jiangsutx/SRN-Deblur
+[submodule "code_repos/yulequan/PU-Net"]
+	path = code_repos/yulequan/PU-Net
+	url = https://github.com/yulequan/PU-Net
+[submodule "code_repos/yuhuayc/da-faster-rcnn"]
+	path = code_repos/yuhuayc/da-faster-rcnn
+	url = https://github.com/yuhuayc/da-faster-rcnn
+[submodule "code_repos/WeitaoVan/L-GM-loss"]
+	path = code_repos/WeitaoVan/L-GM-loss
+	url = https://github.com/WeitaoVan/L-GM-loss
+[submodule "code_repos/DeepMotionAIResearch/DenseASPP"]
+	path = code_repos/DeepMotionAIResearch/DenseASPP
+	url = https://github.com/DeepMotionAIResearch/DenseASPP
+[submodule "code_repos/zhiqiangdon/CU-Net"]
+	path = code_repos/zhiqiangdon/CU-Net
+	url = https://github.com/zhiqiangdon/CU-Net
+[submodule "code_repos/jwyang/graph-rcnn.pytorch"]
+	path = code_repos/jwyang/graph-rcnn.pytorch
+	url = https://github.com/jwyang/graph-rcnn.pytorch
+[submodule "code_repos/shubhtuls/factored3d"]
+	path = code_repos/shubhtuls/factored3d
+	url = https://github.com/shubhtuls/factored3d
+[submodule "code_repos/hezhangsprinter/DID-MDN"]
+	path = code_repos/hezhangsprinter/DID-MDN
+	url = https://github.com/hezhangsprinter/DID-MDN
+[submodule "code_repos/yindaz/DeepCompletionRelease"]
+	path = code_repos/yindaz/DeepCompletionRelease
+	url = https://github.com/yindaz/DeepCompletionRelease
+[submodule "code_repos/lichengunc/MAttNet"]
+	path = code_repos/lichengunc/MAttNet
+	url = https://github.com/lichengunc/MAttNet
+[submodule "code_repos/Prinsphield/ELEGANT"]
+	path = code_repos/Prinsphield/ELEGANT
+	url = https://github.com/Prinsphield/ELEGANT
+[submodule "code_repos/juefeix/pnn.pytorch.update"]
+	path = code_repos/juefeix/pnn.pytorch.update
+	url = https://github.com/juefeix/pnn.pytorch.update
+[submodule "code_repos/kanchen-usc/KAC-Net"]
+	path = code_repos/kanchen-usc/KAC-Net
+	url = https://github.com/kanchen-usc/KAC-Net
+[submodule "code_repos/ignacio-rocco/weakalign"]
+	path = code_repos/ignacio-rocco/weakalign
+	url = https://github.com/ignacio-rocco/weakalign
+[submodule "code_repos/phoenix104104/fast_blind_video_consistency"]
+	path = code_repos/phoenix104104/fast_blind_video_consistency
+	url = https://github.com/phoenix104104/fast_blind_video_consistency
+[submodule "code_repos/hszhao/PSANet"]
+	path = code_repos/hszhao/PSANet
+	url = https://github.com/hszhao/PSANet
+[submodule "code_repos/arunmallya/piggyback"]
+	path = code_repos/arunmallya/piggyback
+	url = https://github.com/arunmallya/piggyback
+[submodule "code_repos/tranluan/Nonlinear_Face_3DMM"]
+	path = code_repos/tranluan/Nonlinear_Face_3DMM
+	url = https://github.com/tranluan/Nonlinear_Face_3DMM
+[submodule "code_repos/YingZhangDUT/Deep-Mutual-Learning"]
+	path = code_repos/YingZhangDUT/Deep-Mutual-Learning
+	url = https://github.com/YingZhangDUT/Deep-Mutual-Learning
+[submodule "code_repos/NVIDIA/partialconv"]
+	path = code_repos/NVIDIA/partialconv
+	url = https://github.com/NVIDIA/partialconv
+[submodule "code_repos/gulvarol/bodynet"]
+	path = code_repos/gulvarol/bodynet
+	url = https://github.com/gulvarol/bodynet
+[submodule "code_repos/JimmySuen/integral-human-pose"]
+	path = code_repos/JimmySuen/integral-human-pose
+	url = https://github.com/JimmySuen/integral-human-pose
+[submodule "code_repos/tyshiwo/FSRNet"]
+	path = code_repos/tyshiwo/FSRNet
+	url = https://github.com/tyshiwo/FSRNet
+[submodule "code_repos/AMLab-Amsterdam/AttentionDeepMIL"]
+	path = code_repos/AMLab-Amsterdam/AttentionDeepMIL
+	url = https://github.com/AMLab-Amsterdam/AttentionDeepMIL
+[submodule "code_repos/driving-behavior/DBNet"]
+	path = code_repos/driving-behavior/DBNet
+	url = https://github.com/driving-behavior/DBNet
+[submodule "code_repos/shubhtuls/mvcSnP"]
+	path = code_repos/shubhtuls/mvcSnP
+	url = https://github.com/shubhtuls/mvcSnP
+[submodule "code_repos/RoyalVane/MMAN"]
+	path = code_repos/RoyalVane/MMAN
+	url = https://github.com/RoyalVane/MMAN
+[submodule "code_repos/shaohua0116/Multiview2Novelview"]
+	path = code_repos/shaohua0116/Multiview2Novelview
+	url = https://github.com/shaohua0116/Multiview2Novelview
+[submodule "code_repos/Microsoft/LQ-Nets"]
+	path = code_repos/Microsoft/LQ-Nets
+	url = https://github.com/Microsoft/LQ-Nets
+[submodule "code_repos/rubenvillegas/cvpr2018nkn"]
+	path = code_repos/rubenvillegas/cvpr2018nkn
+	url = https://github.com/rubenvillegas/cvpr2018nkn
+[submodule "code_repos/lifeng9472/STRCF"]
+	path = code_repos/lifeng9472/STRCF
+	url = https://github.com/lifeng9472/STRCF
+[submodule "code_repos/balakg/posewarp-cvpr2018"]
+	path = code_repos/balakg/posewarp-cvpr2018
+	url = https://github.com/balakg/posewarp-cvpr2018
+[submodule "code_repos/tensorboy/PIDOptimizer"]
+	path = code_repos/tensorboy/PIDOptimizer
+	url = https://github.com/tensorboy/PIDOptimizer
+[submodule "code_repos/Hwang64/MLKP"]
+	path = code_repos/Hwang64/MLKP
+	url = https://github.com/Hwang64/MLKP
+[submodule "code_repos/rasmusbergpalm/recurrent-relational-networks"]
+	path = code_repos/rasmusbergpalm/recurrent-relational-networks
+	url = https://github.com/rasmusbergpalm/recurrent-relational-networks
+[submodule "code_repos/xthan/VITON"]
+	path = code_repos/xthan/VITON
+	url = https://github.com/xthan/VITON
+[submodule "code_repos/ybsong00/Vital_release"]
+	path = code_repos/ybsong00/Vital_release
+	url = https://github.com/ybsong00/Vital_release
+[submodule "code_repos/StevenLiuWen/ano_pred_cvpr2018"]
+	path = code_repos/StevenLiuWen/ano_pred_cvpr2018
+	url = https://github.com/StevenLiuWen/ano_pred_cvpr2018
+[submodule "code_repos/aimerykong/Recurrent-Pixel-Embedding-for-Instance-Grouping"]
+	path = code_repos/aimerykong/Recurrent-Pixel-Embedding-for-Instance-Grouping
+	url = https://github.com/aimerykong/Recurrent-Pixel-Embedding-for-Instance-Grouping
+[submodule "code_repos/SiyuanQi/gpnn"]
+	path = code_repos/SiyuanQi/gpnn
+	url = https://github.com/SiyuanQi/gpnn
+[submodule "code_repos/ducha-aiki/affnet"]
+	path = code_repos/ducha-aiki/affnet
+	url = https://github.com/ducha-aiki/affnet
+[submodule "code_repos/baumgach/vagan-code"]
+	path = code_repos/baumgach/vagan-code
+	url = https://github.com/baumgach/vagan-code
+[submodule "code_repos/LucasSheng/avatar-net"]
+	path = code_repos/LucasSheng/avatar-net
+	url = https://github.com/LucasSheng/avatar-net
+[submodule "code_repos/daniilidis-group/spherical-cnn"]
+	path = code_repos/daniilidis-group/spherical-cnn
+	url = https://github.com/daniilidis-group/spherical-cnn
+[submodule "code_repos/yikang-li/FactorizableNet"]
+	path = code_repos/yikang-li/FactorizableNet
+	url = https://github.com/yikang-li/FactorizableNet
+[submodule "code_repos/laughtervv/SGPN"]
+	path = code_repos/laughtervv/SGPN
+	url = https://github.com/laughtervv/SGPN
+[submodule "code_repos/angeladai/ScanComplete"]
+	path = code_repos/angeladai/ScanComplete
+	url = https://github.com/angeladai/ScanComplete
+[submodule "code_repos/sagiebenaim/OneShotTranslation"]
+	path = code_repos/sagiebenaim/OneShotTranslation
+	url = https://github.com/sagiebenaim/OneShotTranslation
+[submodule "code_repos/abhimanyudubey/confusion"]
+	path = code_repos/abhimanyudubey/confusion
+	url = https://github.com/abhimanyudubey/confusion
+[submodule "code_repos/TuSimple/rl-multishot-reid"]
+	path = code_repos/TuSimple/rl-multishot-reid
+	url = https://github.com/TuSimple/rl-multishot-reid
+[submodule "code_repos/zhunzhong07/HHL"]
+	path = code_repos/zhunzhong07/HHL
+	url = https://github.com/zhunzhong07/HHL
+[submodule "code_repos/MightyChaos/LKVOLearner"]
+	path = code_repos/MightyChaos/LKVOLearner
+	url = https://github.com/MightyChaos/LKVOLearner
+[submodule "code_repos/leeyeehoo/CSRNet-pytorch"]
+	path = code_repos/leeyeehoo/CSRNet-pytorch
+	url = https://github.com/leeyeehoo/CSRNet-pytorch
+[submodule "code_repos/assafshocher/ZSSR"]
+	path = code_repos/assafshocher/ZSSR
+	url = https://github.com/assafshocher/ZSSR
+[submodule "code_repos/mikacuy/pointnetvlad"]
+	path = code_repos/mikacuy/pointnetvlad
+	url = https://github.com/mikacuy/pointnetvlad
+[submodule "code_repos/ZhenYangIACAS/NMT_GAN"]
+	path = code_repos/ZhenYangIACAS/NMT_GAN
+	url = https://github.com/ZhenYangIACAS/NMT_GAN
+[submodule "code_repos/fabienbaradel/object_level_visual_reasoning"]
+	path = code_repos/fabienbaradel/object_level_visual_reasoning
+	url = https://github.com/fabienbaradel/object_level_visual_reasoning
+[submodule "code_repos/yogeshbalaji/Generate_To_Adapt"]
+	path = code_repos/yogeshbalaji/Generate_To_Adapt
+	url = https://github.com/yogeshbalaji/Generate_To_Adapt
+[submodule "code_repos/Microsoft/snca.pytorch"]
+	path = code_repos/Microsoft/snca.pytorch
+	url = https://github.com/Microsoft/snca.pytorch
+[submodule "code_repos/han-cai/PathLevel-EAS"]
+	path = code_repos/han-cai/PathLevel-EAS
+	url = https://github.com/han-cai/PathLevel-EAS
+[submodule "code_repos/umich-vl/DecorrelatedBN"]
+	path = code_repos/umich-vl/DecorrelatedBN
+	url = https://github.com/umich-vl/DecorrelatedBN
+[submodule "code_repos/geopavlakos/ordinal-pose3d"]
+	path = code_repos/geopavlakos/ordinal-pose3d
+	url = https://github.com/geopavlakos/ordinal-pose3d
+[submodule "code_repos/chenxinpeng/ARNet"]
+	path = code_repos/chenxinpeng/ARNet
+	url = https://github.com/chenxinpeng/ARNet
+[submodule "code_repos/HsinYingLee/DRIT"]
+	path = code_repos/HsinYingLee/DRIT
+	url = https://github.com/HsinYingLee/DRIT
+[submodule "code_repos/scenenn/pointwise"]
+	path = code_repos/scenenn/pointwise
+	url = https://github.com/scenenn/pointwise
+[submodule "code_repos/shaohua0116/demo2program"]
+	path = code_repos/shaohua0116/demo2program
+	url = https://github.com/shaohua0116/demo2program
+[submodule "code_repos/vislearn/LessMore"]
+	path = code_repos/vislearn/LessMore
+	url = https://github.com/vislearn/LessMore
+[submodule "code_repos/xingyizhou/3DKeypoints-DA"]
+	path = code_repos/xingyizhou/3DKeypoints-DA
+	url = https://github.com/xingyizhou/3DKeypoints-DA
+[submodule "code_repos/piergiaj/super-events-cvpr18"]
+	path = code_repos/piergiaj/super-events-cvpr18
+	url = https://github.com/piergiaj/super-events-cvpr18
+[submodule "code_repos/laughtervv/DepthAwareCNN"]
+	path = code_repos/laughtervv/DepthAwareCNN
+	url = https://github.com/laughtervv/DepthAwareCNN
+[submodule "code_repos/yuke93/RL-Restore"]
+	path = code_repos/yuke93/RL-Restore
+	url = https://github.com/yuke93/RL-Restore
+[submodule "code_repos/YutingZhang/lmdis-rep"]
+	path = code_repos/YutingZhang/lmdis-rep
+	url = https://github.com/YutingZhang/lmdis-rep
+[submodule "code_repos/lelan-li/SSAH"]
+	path = code_repos/lelan-li/SSAH
+	url = https://github.com/lelan-li/SSAH
+[submodule "code_repos/ricvolpi/adversarial-feature-augmentation"]
+	path = code_repos/ricvolpi/adversarial-feature-augmentation
+	url = https://github.com/ricvolpi/adversarial-feature-augmentation
+[submodule "code_repos/vene/sparsemap"]
+	path = code_repos/vene/sparsemap
+	url = https://github.com/vene/sparsemap
+[submodule "code_repos/Zheng222/IDN-Caffe"]
+	path = code_repos/Zheng222/IDN-Caffe
+	url = https://github.com/Zheng222/IDN-Caffe
+[submodule "code_repos/FalongShen/styletransfer"]
+	path = code_repos/FalongShen/styletransfer
+	url = https://github.com/FalongShen/styletransfer
+[submodule "code_repos/yiyiliao/deep_marching_cubes"]
+	path = code_repos/yiyiliao/deep_marching_cubes
+	url = https://github.com/yiyiliao/deep_marching_cubes
+[submodule "code_repos/Zhaoyi-Yan/Shift-Net_pytorch"]
+	path = code_repos/Zhaoyi-Yan/Shift-Net_pytorch
+	url = https://github.com/Zhaoyi-Yan/Shift-Net_pytorch
+[submodule "code_repos/minyoungg/selfconsistency"]
+	path = code_repos/minyoungg/selfconsistency
+	url = https://github.com/minyoungg/selfconsistency
+[submodule "code_repos/speedinghzl/DSRG"]
+	path = code_repos/speedinghzl/DSRG
+	url = https://github.com/speedinghzl/DSRG
+[submodule "code_repos/swamiviv/LSD-seg"]
+	path = code_repos/swamiviv/LSD-seg
+	url = https://github.com/swamiviv/LSD-seg
+[submodule "code_repos/brain-research/long-term-video-prediction-without-supervision"]
+	path = code_repos/brain-research/long-term-video-prediction-without-supervision
+	url = https://github.com/brain-research/long-term-video-prediction-without-supervision
+[submodule "code_repos/ZichaoLong/PDE-Net"]
+	path = code_repos/ZichaoLong/PDE-Net
+	url = https://github.com/ZichaoLong/PDE-Net
+[submodule "code_repos/ruotianluo/DiscCaptioning"]
+	path = code_repos/ruotianluo/DiscCaptioning
+	url = https://github.com/ruotianluo/DiscCaptioning
+[submodule "code_repos/maestrojeong/Deep-Hash-Table-ICML18"]
+	path = code_repos/maestrojeong/Deep-Hash-Table-ICML18
+	url = https://github.com/maestrojeong/Deep-Hash-Table-ICML18
+[submodule "code_repos/vt-vl-lab/DF-Net"]
+	path = code_repos/vt-vl-lab/DF-Net
+	url = https://github.com/vt-vl-lab/DF-Net
+[submodule "code_repos/yikang-li/iQAN"]
+	path = code_repos/yikang-li/iQAN
+	url = https://github.com/yikang-li/iQAN
+[submodule "code_repos/Tushar-N/blockdrop"]
+	path = code_repos/Tushar-N/blockdrop
+	url = https://github.com/Tushar-N/blockdrop
+[submodule "code_repos/vcg-uvic/learned-correspondence-release"]
+	path = code_repos/vcg-uvic/learned-correspondence-release
+	url = https://github.com/vcg-uvic/learned-correspondence-release
+[submodule "code_repos/fab-jul/imgcomp-cvpr"]
+	path = code_repos/fab-jul/imgcomp-cvpr
+	url = https://github.com/fab-jul/imgcomp-cvpr
+[submodule "code_repos/naiq/PN_GAN"]
+	path = code_repos/naiq/PN_GAN
+	url = https://github.com/naiq/PN_GAN
+[submodule "code_repos/kjunelee/WINN"]
+	path = code_repos/kjunelee/WINN
+	url = https://github.com/kjunelee/WINN
+[submodule "code_repos/yangze0930/NTS-Net"]
+	path = code_repos/yangze0930/NTS-Net
+	url = https://github.com/yangze0930/NTS-Net
+[submodule "code_repos/zhiqiangdon/pose-adv-aug"]
+	path = code_repos/zhiqiangdon/pose-adv-aug
+	url = https://github.com/zhiqiangdon/pose-adv-aug
+[submodule "code_repos/AlamiMejjati/Unsupervised-Attention-guided-Image-to-Image-Translation"]
+	path = code_repos/AlamiMejjati/Unsupervised-Attention-guided-Image-to-Image-Translation
+	url = https://github.com/AlamiMejjati/Unsupervised-Attention-guided-Image-to-Image-Translation
+[submodule "code_repos/yifeishi/PlaneMatch"]
+	path = code_repos/yifeishi/PlaneMatch
+	url = https://github.com/yifeishi/PlaneMatch
+[submodule "code_repos/emtiyaz/vadam"]
+	path = code_repos/emtiyaz/vadam
+	url = https://github.com/emtiyaz/vadam
+[submodule "code_repos/wy1iu/MHE"]
+	path = code_repos/wy1iu/MHE
+	url = https://github.com/wy1iu/MHE
+[submodule "code_repos/poier/PreView"]
+	path = code_repos/poier/PreView
+	url = https://github.com/poier/PreView
+[submodule "code_repos/NVlabs/learningrigidity"]
+	path = code_repos/NVlabs/learningrigidity
+	url = https://github.com/NVlabs/learningrigidity
+[submodule "code_repos/ssydasheng/Neural-Kernel-Network"]
+	path = code_repos/ssydasheng/Neural-Kernel-Network
+	url = https://github.com/ssydasheng/Neural-Kernel-Network
+[submodule "code_repos/ChaojianYu/Hierarchical-Bilinear-Pooling"]
+	path = code_repos/ChaojianYu/Hierarchical-Bilinear-Pooling
+	url = https://github.com/ChaojianYu/Hierarchical-Bilinear-Pooling
+[submodule "code_repos/WaqasSultani/AnomalyDetectionCVPR2018"]
+	path = code_repos/WaqasSultani/AnomalyDetectionCVPR2018
+	url = https://github.com/WaqasSultani/AnomalyDetectionCVPR2018
+[submodule "code_repos/Yu-Wu/Exploit-Unknown-Gradually"]
+	path = code_repos/Yu-Wu/Exploit-Unknown-Gradually
+	url = https://github.com/Yu-Wu/Exploit-Unknown-Gradually
+[submodule "code_repos/remega/OMCNN_2CLSTM"]
+	path = code_repos/remega/OMCNN_2CLSTM
+	url = https://github.com/remega/OMCNN_2CLSTM
+[submodule "code_repos/barisgecer/facegan"]
+	path = code_repos/barisgecer/facegan
+	url = https://github.com/barisgecer/facegan
+[submodule "code_repos/egorzakharov/PerceptualGAN"]
+	path = code_repos/egorzakharov/PerceptualGAN
+	url = https://github.com/egorzakharov/PerceptualGAN
+[submodule "code_repos/paschalidoud/raynet"]
+	path = code_repos/paschalidoud/raynet
+	url = https://github.com/paschalidoud/raynet
+[submodule "code_repos/MhLiao/RRD"]
+	path = code_repos/MhLiao/RRD
+	url = https://github.com/MhLiao/RRD
+[submodule "code_repos/fengyang0317/video_reloc"]
+	path = code_repos/fengyang0317/video_reloc
+	url = https://github.com/fengyang0317/video_reloc
+[submodule "code_repos/liuwei16/ALFNet"]
+	path = code_repos/liuwei16/ALFNet
+	url = https://github.com/liuwei16/ALFNet
+[submodule "code_repos/lixx2938/unsupervised-learning-intrinsic-images"]
+	path = code_repos/lixx2938/unsupervised-learning-intrinsic-images
+	url = https://github.com/lixx2938/unsupervised-learning-intrinsic-images
+[submodule "code_repos/awesome-davian/Text2Colors"]
+	path = code_repos/awesome-davian/Text2Colors
+	url = https://github.com/awesome-davian/Text2Colors
+[submodule "code_repos/jiwoon-ahn/psa"]
+	path = code_repos/jiwoon-ahn/psa
+	url = https://github.com/jiwoon-ahn/psa
+[submodule "code_repos/Sandbox3aster/Deep-K-Means-pytorch"]
+	path = code_repos/Sandbox3aster/Deep-K-Means-pytorch
+	url = https://github.com/Sandbox3aster/Deep-K-Means-pytorch
+[submodule "code_repos/NVlabs/ssn_superpixels"]
+	path = code_repos/NVlabs/ssn_superpixels
+	url = https://github.com/NVlabs/ssn_superpixels
+[submodule "code_repos/xiaomengyc/SPG"]
+	path = code_repos/xiaomengyc/SPG
+	url = https://github.com/xiaomengyc/SPG
+[submodule "code_repos/jiangzhongshi/SurfaceNetworks"]
+	path = code_repos/jiangzhongshi/SurfaceNetworks
+	url = https://github.com/jiangzhongshi/SurfaceNetworks
+[submodule "code_repos/wchen342/SketchyGAN"]
+	path = code_repos/wchen342/SketchyGAN
+	url = https://github.com/wchen342/SketchyGAN
+[submodule "code_repos/joansj/hat"]
+	path = code_repos/joansj/hat
+	url = https://github.com/joansj/hat
+[submodule "code_repos/tech-srl/lstar_extraction"]
+	path = code_repos/tech-srl/lstar_extraction
+	url = https://github.com/tech-srl/lstar_extraction
+[submodule "code_repos/Yunbo426/predrnn-pp"]
+	path = code_repos/Yunbo426/predrnn-pp
+	url = https://github.com/Yunbo426/predrnn-pp
+[submodule "code_repos/CW-Huang/NAF"]
+	path = code_repos/CW-Huang/NAF
+	url = https://github.com/CW-Huang/NAF
+[submodule "code_repos/YangHM/Convolutional-Prototype-Learning"]
+	path = code_repos/YangHM/Convolutional-Prototype-Learning
+	url = https://github.com/YangHM/Convolutional-Prototype-Learning
+[submodule "code_repos/NieXC/pytorch-ppn"]
+	path = code_repos/NieXC/pytorch-ppn
+	url = https://github.com/NieXC/pytorch-ppn
+[submodule "code_repos/NieXC/pytorch-mula"]
+	path = code_repos/NieXC/pytorch-mula
+	url = https://github.com/NieXC/pytorch-mula
+[submodule "code_repos/EdwardSmith1884/Multi-View-Silhouette-and-Depth-Decomposition-for-High-Resolution-3D-Object-Representation"]
+	path = code_repos/EdwardSmith1884/Multi-View-Silhouette-and-Depth-Decomposition-for-High-Resolution-3D-Object-Representation
+	url = https://github.com/EdwardSmith1884/Multi-View-Silhouette-and-Depth-Decomposition-for-High-Resolution-3D-Object-Representation
+[submodule "code_repos/thuml/PADA"]
+	path = code_repos/thuml/PADA
+	url = https://github.com/thuml/PADA
+[submodule "code_repos/yuminsuh/part_bilinear_reid"]
+	path = code_repos/yuminsuh/part_bilinear_reid
+	url = https://github.com/yuminsuh/part_bilinear_reid
+[submodule "code_repos/rgeirhos/generalisation-humans-DNNs"]
+	path = code_repos/rgeirhos/generalisation-humans-DNNs
+	url = https://github.com/rgeirhos/generalisation-humans-DNNs
+[submodule "code_repos/OmidPoursaeed/Generative_Adversarial_Perturbations"]
+	path = code_repos/OmidPoursaeed/Generative_Adversarial_Perturbations
+	url = https://github.com/OmidPoursaeed/Generative_Adversarial_Perturbations
+[submodule "code_repos/emrahbasaran/SPReID"]
+	path = code_repos/emrahbasaran/SPReID
+	url = https://github.com/emrahbasaran/SPReID
+[submodule "code_repos/angeladai/3DMV"]
+	path = code_repos/angeladai/3DMV
+	url = https://github.com/angeladai/3DMV
+[submodule "code_repos/zhuohan123/g2-lstm"]
+	path = code_repos/zhuohan123/g2-lstm
+	url = https://github.com/zhuohan123/g2-lstm
+[submodule "code_repos/dalab/hyperbolic_cones"]
+	path = code_repos/dalab/hyperbolic_cones
+	url = https://github.com/dalab/hyperbolic_cones
+[submodule "code_repos/thusiyuan/holistic_scene_parsing"]
+	path = code_repos/thusiyuan/holistic_scene_parsing
+	url = https://github.com/thusiyuan/holistic_scene_parsing
+[submodule "code_repos/12dmodel/deep_motion_mag"]
+	path = code_repos/12dmodel/deep_motion_mag
+	url = https://github.com/12dmodel/deep_motion_mag
+[submodule "code_repos/joe-siyuan-qiao/FewShot-CVPR"]
+	path = code_repos/joe-siyuan-qiao/FewShot-CVPR
+	url = https://github.com/joe-siyuan-qiao/FewShot-CVPR
+[submodule "code_repos/danielzuegner/netgan"]
+	path = code_repos/danielzuegner/netgan
+	url = https://github.com/danielzuegner/netgan
+[submodule "code_repos/gsig/actor-observer"]
+	path = code_repos/gsig/actor-observer
+	url = https://github.com/gsig/actor-observer
+[submodule "code_repos/greydanus/visualize_atari"]
+	path = code_repos/greydanus/visualize_atari
+	url = https://github.com/greydanus/visualize_atari
+[submodule "code_repos/ramprs/neuron-importance-zsl"]
+	path = code_repos/ramprs/neuron-importance-zsl
+	url = https://github.com/ramprs/neuron-importance-zsl
+[submodule "code_repos/mlii/mfrl"]
+	path = code_repos/mlii/mfrl
+	url = https://github.com/mlii/mfrl
+[submodule "code_repos/labsix/limited-blackbox-attacks"]
+	path = code_repos/labsix/limited-blackbox-attacks
+	url = https://github.com/labsix/limited-blackbox-attacks
+[submodule "code_repos/salman-h-khan/ZSD_Release"]
+	path = code_repos/salman-h-khan/ZSD_Release
+	url = https://github.com/salman-h-khan/ZSD_Release
+[submodule "code_repos/kuanghuei/SCAN"]
+	path = code_repos/kuanghuei/SCAN
+	url = https://github.com/kuanghuei/SCAN
+[submodule "code_repos/rwenqi/GFN-dehazing"]
+	path = code_repos/rwenqi/GFN-dehazing
+	url = https://github.com/rwenqi/GFN-dehazing
+[submodule "code_repos/hmph/adversarial-attacks"]
+	path = code_repos/hmph/adversarial-attacks
+	url = https://github.com/hmph/adversarial-attacks
+[submodule "code_repos/zhenxuan00/graphical-gan"]
+	path = code_repos/zhenxuan00/graphical-gan
+	url = https://github.com/zhenxuan00/graphical-gan
+[submodule "code_repos/ehsanik/SeGAN"]
+	path = code_repos/ehsanik/SeGAN
+	url = https://github.com/ehsanik/SeGAN
+[submodule "code_repos/rtqichen/beta-tcvae"]
+	path = code_repos/rtqichen/beta-tcvae
+	url = https://github.com/rtqichen/beta-tcvae
+[submodule "code_repos/Mid-Push/Moving-Semantic-Transfer-Network"]
+	path = code_repos/Mid-Push/Moving-Semantic-Transfer-Network
+	url = https://github.com/Mid-Push/Moving-Semantic-Transfer-Network
+[submodule "code_repos/kuanghuei/clean-net"]
+	path = code_repos/kuanghuei/clean-net
+	url = https://github.com/kuanghuei/clean-net
+[submodule "code_repos/SiyuanQi/human-centric-scene-synthesis"]
+	path = code_repos/SiyuanQi/human-centric-scene-synthesis
+	url = https://github.com/SiyuanQi/human-centric-scene-synthesis
+[submodule "code_repos/MinghanLi/MS-CSC-Rain-Streak-Removal"]
+	path = code_repos/MinghanLi/MS-CSC-Rain-Streak-Removal
+	url = https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal
+[submodule "code_repos/iamaaditya/pixel-deflection"]
+	path = code_repos/iamaaditya/pixel-deflection
+	url = https://github.com/iamaaditya/pixel-deflection
+[submodule "code_repos/csxmli2016/GFRNet"]
+	path = code_repos/csxmli2016/GFRNet
+	url = https://github.com/csxmli2016/GFRNet
+[submodule "code_repos/guanyingc/TOM-Net"]
+	path = code_repos/guanyingc/TOM-Net
+	url = https://github.com/guanyingc/TOM-Net
+[submodule "code_repos/atapour/monocularDepth-Inference"]
+	path = code_repos/atapour/monocularDepth-Inference
+	url = https://github.com/atapour/monocularDepth-Inference
+[submodule "code_repos/xuexue/neuralkanren"]
+	path = code_repos/xuexue/neuralkanren
+	url = https://github.com/xuexue/neuralkanren
+[submodule "code_repos/developfeng/MGCAM"]
+	path = code_repos/developfeng/MGCAM
+	url = https://github.com/developfeng/MGCAM
+[submodule "code_repos/TParcollet/Quaternion-Convolutional-Neural-Networks-for-End-to-End-Automatic-Speech-Recognition"]
+	path = code_repos/TParcollet/Quaternion-Convolutional-Neural-Networks-for-End-to-End-Automatic-Speech-Recognition
+	url = https://github.com/TParcollet/Quaternion-Convolutional-Neural-Networks-for-End-to-End-Automatic-Speech-Recognition
+[submodule "code_repos/aimerykong/Recurrent-Scene-Parsing-with-Perspective-Understanding-in-the-loop"]
+	path = code_repos/aimerykong/Recurrent-Scene-Parsing-with-Perspective-Understanding-in-the-loop
+	url = https://github.com/aimerykong/Recurrent-Scene-Parsing-with-Perspective-Understanding-in-the-loop
+[submodule "code_repos/skyoung/MemTrack"]
+	path = code_repos/skyoung/MemTrack
+	url = https://github.com/skyoung/MemTrack
+[submodule "code_repos/khalooei/ALOCC-CVPR2018"]
+	path = code_repos/khalooei/ALOCC-CVPR2018
+	url = https://github.com/khalooei/ALOCC-CVPR2018
+[submodule "code_repos/richardaecn/cvpr18-caption-eval"]
+	path = code_repos/richardaecn/cvpr18-caption-eval
+	url = https://github.com/richardaecn/cvpr18-caption-eval
+[submodule "code_repos/SketchyScene/SketchyScene"]
+	path = code_repos/SketchyScene/SketchyScene
+	url = https://github.com/SketchyScene/SketchyScene
+[submodule "code_repos/tatarchm/tangent_conv"]
+	path = code_repos/tatarchm/tangent_conv
+	url = https://github.com/tatarchm/tangent_conv
+[submodule "code_repos/google/layered-scene-inference"]
+	path = code_repos/google/layered-scene-inference
+	url = https://github.com/google/layered-scene-inference
+[submodule "code_repos/zijundeng/BDRAR"]
+	path = code_repos/zijundeng/BDRAR
+	url = https://github.com/zijundeng/BDRAR
+[submodule "code_repos/danxuhk/StructuredAttentionDepthEstimation"]
+	path = code_repos/danxuhk/StructuredAttentionDepthEstimation
+	url = https://github.com/danxuhk/StructuredAttentionDepthEstimation
+[submodule "code_repos/wenguanwang/DHF1K"]
+	path = code_repos/wenguanwang/DHF1K
+	url = https://github.com/wenguanwang/DHF1K
+[submodule "code_repos/jiaxue1993/Deep-Encoding-Pooling-Network-DEP-"]
+	path = code_repos/jiaxue1993/Deep-Encoding-Pooling-Network-DEP-
+	url = https://github.com/jiaxue1993/Deep-Encoding-Pooling-Network-DEP-
+[submodule "code_repos/chaoma99/DSLT"]
+	path = code_repos/chaoma99/DSLT
+	url = https://github.com/chaoma99/DSLT
+[submodule "code_repos/zekunhao1995/ControllableVideoGen"]
+	path = code_repos/zekunhao1995/ControllableVideoGen
+	url = https://github.com/zekunhao1995/ControllableVideoGen
+[submodule "code_repos/zalandoresearch/first_order_gan"]
+	path = code_repos/zalandoresearch/first_order_gan
+	url = https://github.com/zalandoresearch/first_order_gan
+[submodule "code_repos/danielgordon10/thor-iqa-cvpr-2018"]
+	path = code_repos/danielgordon10/thor-iqa-cvpr-2018
+	url = https://github.com/danielgordon10/thor-iqa-cvpr-2018
+[submodule "code_repos/tianye95/interpretable-intuitive-physics-model"]
+	path = code_repos/tianye95/interpretable-intuitive-physics-model
+	url = https://github.com/tianye95/interpretable-intuitive-physics-model
+[submodule "code_repos/yuhuayc/fast-vos"]
+	path = code_repos/yuhuayc/fast-vos
+	url = https://github.com/yuhuayc/fast-vos
+[submodule "code_repos/danini/graph-cut-ransac"]
+	path = code_repos/danini/graph-cut-ransac
+	url = https://github.com/danini/graph-cut-ransac
+[submodule "code_repos/csjunxu/TWSC-ECCV2018"]
+	path = code_repos/csjunxu/TWSC-ECCV2018
+	url = https://github.com/csjunxu/TWSC-ECCV2018
+[submodule "code_repos/brownvc/ganimorph"]
+	path = code_repos/brownvc/ganimorph
+	url = https://github.com/brownvc/ganimorph
+[submodule "code_repos/mil-tokyo/bc_learning_image"]
+	path = code_repos/mil-tokyo/bc_learning_image
+	url = https://github.com/mil-tokyo/bc_learning_image
+[submodule "code_repos/vcg-uvic/lf-net-release"]
+	path = code_repos/vcg-uvic/lf-net-release
+	url = https://github.com/vcg-uvic/lf-net-release
+[submodule "code_repos/kbatsos/CBMV"]
+	path = code_repos/kbatsos/CBMV
+	url = https://github.com/kbatsos/CBMV
+[submodule "code_repos/zengxianyu/lps"]
+	path = code_repos/zengxianyu/lps
+	url = https://github.com/zengxianyu/lps
+[submodule "code_repos/tomgoldstein/loss-landscape"]
+	path = code_repos/tomgoldstein/loss-landscape
+	url = https://github.com/tomgoldstein/loss-landscape
+[submodule "code_repos/bychen515/ACT"]
+	path = code_repos/bychen515/ACT
+	url = https://github.com/bychen515/ACT
+[submodule "code_repos/ShichenLiu/CondenseNet"]
+	path = code_repos/ShichenLiu/CondenseNet
+	url = https://github.com/ShichenLiu/CondenseNet
+[submodule "code_repos/cvlab-tohoku/Dense-CoAttention-Network"]
+	path = code_repos/cvlab-tohoku/Dense-CoAttention-Network
+	url = https://github.com/cvlab-tohoku/Dense-CoAttention-Network
+[submodule "code_repos/yulequan/EC-Net"]
+	path = code_repos/yulequan/EC-Net
+	url = https://github.com/yulequan/EC-Net
+[submodule "code_repos/Mehran-k/SimplE"]
+	path = code_repos/Mehran-k/SimplE
+	url = https://github.com/Mehran-k/SimplE
+[submodule "code_repos/limuhit/ImageCompression"]
+	path = code_repos/limuhit/ImageCompression
+	url = https://github.com/limuhit/ImageCompression
+[submodule "code_repos/Hippogriff/CSGNet"]
+	path = code_repos/Hippogriff/CSGNet
+	url = https://github.com/Hippogriff/CSGNet
+[submodule "code_repos/julianfaraone/SYQ"]
+	path = code_repos/julianfaraone/SYQ
+	url = https://github.com/julianfaraone/SYQ
+[submodule "code_repos/qixuxiang/deeplabv3plus"]
+	path = code_repos/qixuxiang/deeplabv3plus
+	url = https://github.com/qixuxiang/deeplabv3plus
+[submodule "code_repos/thuml/SAN"]
+	path = code_repos/thuml/SAN
+	url = https://github.com/thuml/SAN
+[submodule "code_repos/stevenygd/3d-recon"]
+	path = code_repos/stevenygd/3d-recon
+	url = https://github.com/stevenygd/3d-recon
+[submodule "code_repos/EthanZhu90/ZSL_GAN_CVPR18"]
+	path = code_repos/EthanZhu90/ZSL_GAN_CVPR18
+	url = https://github.com/EthanZhu90/ZSL_GAN_CVPR18
+[submodule "code_repos/wyndwarrior/Sectar"]
+	path = code_repos/wyndwarrior/Sectar
+	url = https://github.com/wyndwarrior/Sectar
+[submodule "code_repos/ronghanghu/speaker_follower"]
+	path = code_repos/ronghanghu/speaker_follower
+	url = https://github.com/ronghanghu/speaker_follower
+[submodule "code_repos/holyseven/TransferLearningClassification"]
+	path = code_repos/holyseven/TransferLearningClassification
+	url = https://github.com/holyseven/TransferLearningClassification
+[submodule "code_repos/sg-nm/Evolutionary-Autoencoders"]
+	path = code_repos/sg-nm/Evolutionary-Autoencoders
+	url = https://github.com/sg-nm/Evolutionary-Autoencoders
+[submodule "code_repos/spurra/vae-hands-3d"]
+	path = code_repos/spurra/vae-hands-3d
+	url = https://github.com/spurra/vae-hands-3d
+[submodule "code_repos/dalab/hyperbolic_nn"]
+	path = code_repos/dalab/hyperbolic_nn
+	url = https://github.com/dalab/hyperbolic_nn
+[submodule "code_repos/Yijunmaverick/FlowGrounded-VideoPrediction"]
+	path = code_repos/Yijunmaverick/FlowGrounded-VideoPrediction
+	url = https://github.com/Yijunmaverick/FlowGrounded-VideoPrediction
+[submodule "code_repos/lluisgomez/single-shot-str"]
+	path = code_repos/lluisgomez/single-shot-str
+	url = https://github.com/lluisgomez/single-shot-str
+[submodule "code_repos/YapengTian/AVE-ECCV18"]
+	path = code_repos/YapengTian/AVE-ECCV18
+	url = https://github.com/YapengTian/AVE-ECCV18
+[submodule "code_repos/zhenheny/LEGO"]
+	path = code_repos/zhenheny/LEGO
+	url = https://github.com/zhenheny/LEGO
+[submodule "code_repos/Networks-Learning/tpprl"]
+	path = code_repos/Networks-Learning/tpprl
+	url = https://github.com/Networks-Learning/tpprl
+[submodule "code_repos/littleredxh/DREML"]
+	path = code_repos/littleredxh/DREML
+	url = https://github.com/littleredxh/DREML
+[submodule "code_repos/kirthevasank/nasbot"]
+	path = code_repos/kirthevasank/nasbot
+	url = https://github.com/kirthevasank/nasbot
+[submodule "code_repos/spcl/ncc"]
+	path = code_repos/spcl/ncc
+	url = https://github.com/spcl/ncc
+[submodule "code_repos/ehsanik/dogTorch"]
+	path = code_repos/ehsanik/dogTorch
+	url = https://github.com/ehsanik/dogTorch
+[submodule "code_repos/duanyq14/GraphBit"]
+	path = code_repos/duanyq14/GraphBit
+	url = https://github.com/duanyq14/GraphBit
+[submodule "code_repos/rhgao/Im2Flow"]
+	path = code_repos/rhgao/Im2Flow
+	url = https://github.com/rhgao/Im2Flow
+[submodule "code_repos/elliottwu/DeepHDR"]
+	path = code_repos/elliottwu/DeepHDR
+	url = https://github.com/elliottwu/DeepHDR
+[submodule "code_repos/wangshy31/MANet_for_Video_Object_Detection"]
+	path = code_repos/wangshy31/MANet_for_Video_Object_Detection
+	url = https://github.com/wangshy31/MANet_for_Video_Object_Detection
+[submodule "code_repos/ShuangLI59/Diversity-Regularized-Spatiotemporal-Attention"]
+	path = code_repos/ShuangLI59/Diversity-Regularized-Spatiotemporal-Attention
+	url = https://github.com/ShuangLI59/Diversity-Regularized-Spatiotemporal-Attention
+[submodule "code_repos/MIVRC/MSRN-PyTorch"]
+	path = code_repos/MIVRC/MSRN-PyTorch
+	url = https://github.com/MIVRC/MSRN-PyTorch
+[submodule "code_repos/lzx551402/geodesc"]
+	path = code_repos/lzx551402/geodesc
+	url = https://github.com/lzx551402/geodesc
+[submodule "code_repos/muhanzhang/SEAL"]
+	path = code_repos/muhanzhang/SEAL
+	url = https://github.com/muhanzhang/SEAL
+[submodule "code_repos/prashnani/PerceptualImageError"]
+	path = code_repos/prashnani/PerceptualImageError
+	url = https://github.com/prashnani/PerceptualImageError
+[submodule "code_repos/xingjunm/dimensionality-driven-learning"]
+	path = code_repos/xingjunm/dimensionality-driven-learning
+	url = https://github.com/xingjunm/dimensionality-driven-learning
+[submodule "code_repos/nitika-verma/FeaStNet"]
+	path = code_repos/nitika-verma/FeaStNet
+	url = https://github.com/nitika-verma/FeaStNet
+[submodule "code_repos/bezorro/ACMN-Pytorch"]
+	path = code_repos/bezorro/ACMN-Pytorch
+	url = https://github.com/bezorro/ACMN-Pytorch
+[submodule "code_repos/ronghanghu/snmn"]
+	path = code_repos/ronghanghu/snmn
+	url = https://github.com/ronghanghu/snmn
+[submodule "code_repos/ruiqigao/Multigrid_learning"]
+	path = code_repos/ruiqigao/Multigrid_learning
+	url = https://github.com/ruiqigao/Multigrid_learning
+[submodule "code_repos/mariogeiger/se3cnn"]
+	path = code_repos/mariogeiger/se3cnn
+	url = https://github.com/mariogeiger/se3cnn
+[submodule "code_repos/shizenglin/Deep-NCL"]
+	path = code_repos/shizenglin/Deep-NCL
+	url = https://github.com/shizenglin/Deep-NCL
+[submodule "code_repos/jiangtaoxie/fast-MPN-COV"]
+	path = code_repos/jiangtaoxie/fast-MPN-COV
+	url = https://github.com/jiangtaoxie/fast-MPN-COV
+[submodule "code_repos/ananyahjha93/cycle-consistent-vae"]
+	path = code_repos/ananyahjha93/cycle-consistent-vae
+	url = https://github.com/ananyahjha93/cycle-consistent-vae
+[submodule "code_repos/alexanderrichard/action-sets"]
+	path = code_repos/alexanderrichard/action-sets
+	url = https://github.com/alexanderrichard/action-sets
+[submodule "code_repos/Zephyr-D/TCFPN-ISBA"]
+	path = code_repos/Zephyr-D/TCFPN-ISBA
+	url = https://github.com/Zephyr-D/TCFPN-ISBA
+[submodule "code_repos/anitan0925/ResFGB"]
+	path = code_repos/anitan0925/ResFGB
+	url = https://github.com/anitan0925/ResFGB
+[submodule "code_repos/zjuchenlong/sp-aen.cvpr18"]
+	path = code_repos/zjuchenlong/sp-aen.cvpr18
+	url = https://github.com/zjuchenlong/sp-aen.cvpr18
+[submodule "code_repos/lukasruff/Deep-SVDD"]
+	path = code_repos/lukasruff/Deep-SVDD
+	url = https://github.com/lukasruff/Deep-SVDD
+[submodule "code_repos/BryanPlummer/cite"]
+	path = code_repos/BryanPlummer/cite
+	url = https://github.com/BryanPlummer/cite
+[submodule "code_repos/chshin10/epinet"]
+	path = code_repos/chshin10/epinet
+	url = https://github.com/chshin10/epinet
+[submodule "code_repos/jianwen-xie/3DDescriptorNet"]
+	path = code_repos/jianwen-xie/3DDescriptorNet
+	url = https://github.com/jianwen-xie/3DDescriptorNet
+[submodule "code_repos/sergeywong/cp-vton"]
+	path = code_repos/sergeywong/cp-vton
+	url = https://github.com/sergeywong/cp-vton
+[submodule "code_repos/richardaecn/cvpr18-inaturalist-transfer"]
+	path = code_repos/richardaecn/cvpr18-inaturalist-transfer
+	url = https://github.com/richardaecn/cvpr18-inaturalist-transfer
+[submodule "code_repos/qizhuli/Weakly-Supervised-Panoptic-Segmentation"]
+	path = code_repos/qizhuli/Weakly-Supervised-Panoptic-Segmentation
+	url = https://github.com/qizhuli/Weakly-Supervised-Panoptic-Segmentation
+[submodule "code_repos/thjashin/spectral-stein-grad"]
+	path = code_repos/thjashin/spectral-stein-grad
+	url = https://github.com/thjashin/spectral-stein-grad
+[submodule "code_repos/jianzhangcs/ISTA-Net"]
+	path = code_repos/jianzhangcs/ISTA-Net
+	url = https://github.com/jianzhangcs/ISTA-Net
+[submodule "code_repos/yuleiniu/vc"]
+	path = code_repos/yuleiniu/vc
+	url = https://github.com/yuleiniu/vc
+[submodule "code_repos/baptistar/BOCS"]
+	path = code_repos/baptistar/BOCS
+	url = https://github.com/baptistar/BOCS
+[submodule "code_repos/fqnchina/IntrinsicImage"]
+	path = code_repos/fqnchina/IntrinsicImage
+	url = https://github.com/fqnchina/IntrinsicImage
+[submodule "code_repos/hrhodin/UnsupervisedGeometryAwareRepresentationLearning"]
+	path = code_repos/hrhodin/UnsupervisedGeometryAwareRepresentationLearning
+	url = https://github.com/hrhodin/UnsupervisedGeometryAwareRepresentationLearning
+[submodule "code_repos/hyf015/egocentric-gaze-prediction"]
+	path = code_repos/hyf015/egocentric-gaze-prediction
+	url = https://github.com/hyf015/egocentric-gaze-prediction
+[submodule "code_repos/chaneyddtt/Convolutional-Sequence-to-Sequence-Model-for-Human-Dynamics"]
+	path = code_repos/chaneyddtt/Convolutional-Sequence-to-Sequence-Model-for-Human-Dynamics
+	url = https://github.com/chaneyddtt/Convolutional-Sequence-to-Sequence-Model-for-Human-Dynamics
+[submodule "code_repos/yanxp/SSM"]
+	path = code_repos/yanxp/SSM
+	url = https://github.com/yanxp/SSM
+[submodule "code_repos/noamyairTC/MSWNNM"]
+	path = code_repos/noamyairTC/MSWNNM
+	url = https://github.com/noamyairTC/MSWNNM
+[submodule "code_repos/mostafa-saad/hierarchical-relational-network"]
+	path = code_repos/mostafa-saad/hierarchical-relational-network
+	url = https://github.com/mostafa-saad/hierarchical-relational-network
+[submodule "code_repos/val-iisc/nag"]
+	path = code_repos/val-iisc/nag
+	url = https://github.com/val-iisc/nag
+[submodule "code_repos/Hanjun-Dai/graph_adversarial_attack"]
+	path = code_repos/Hanjun-Dai/graph_adversarial_attack
+	url = https://github.com/Hanjun-Dai/graph_adversarial_attack
+[submodule "code_repos/yewzijian/3DFeatNet"]
+	path = code_repos/yewzijian/3DFeatNet
+	url = https://github.com/yewzijian/3DFeatNet
+[submodule "code_repos/seoungwugoh/RGMP"]
+	path = code_repos/seoungwugoh/RGMP
+	url = https://github.com/seoungwugoh/RGMP
+[submodule "code_repos/google/TrustScore"]
+	path = code_repos/google/TrustScore
+	url = https://github.com/google/TrustScore
+[submodule "code_repos/davidstutz/cvpr2018-shape-completion"]
+	path = code_repos/davidstutz/cvpr2018-shape-completion
+	url = https://github.com/davidstutz/cvpr2018-shape-completion
+[submodule "code_repos/facebookresearch/corefnmn"]
+	path = code_repos/facebookresearch/corefnmn
+	url = https://github.com/facebookresearch/corefnmn
+[submodule "code_repos/fqnchina/DecoupleLearning"]
+	path = code_repos/fqnchina/DecoupleLearning
+	url = https://github.com/fqnchina/DecoupleLearning
+[submodule "code_repos/donglaiw/AoT_TCAM"]
+	path = code_repos/donglaiw/AoT_TCAM
+	url = https://github.com/donglaiw/AoT_TCAM
+[submodule "code_repos/xiaomengyc/ACoL"]
+	path = code_repos/xiaomengyc/ACoL
+	url = https://github.com/xiaomengyc/ACoL
+[submodule "code_repos/msracver/Style-Feature-Reshuffle"]
+	path = code_repos/msracver/Style-Feature-Reshuffle
+	url = https://github.com/msracver/Style-Feature-Reshuffle
+[submodule "code_repos/fate3439/LocalSpecGCN"]
+	path = code_repos/fate3439/LocalSpecGCN
+	url = https://github.com/fate3439/LocalSpecGCN
+[submodule "code_repos/facebookresearch/low-shot-with-diffusion"]
+	path = code_repos/facebookresearch/low-shot-with-diffusion
+	url = https://github.com/facebookresearch/low-shot-with-diffusion
+[submodule "code_repos/jiyanggao/CTAP"]
+	path = code_repos/jiyanggao/CTAP
+	url = https://github.com/jiyanggao/CTAP
+[submodule "code_repos/fabienbaradel/glimpse_clouds"]
+	path = code_repos/fabienbaradel/glimpse_clouds
+	url = https://github.com/fabienbaradel/glimpse_clouds
+[submodule "code_repos/yoonholee/MT-net"]
+	path = code_repos/yoonholee/MT-net
+	url = https://github.com/yoonholee/MT-net
+[submodule "code_repos/DaikiTanaka-UT/JointOptimization"]
+	path = code_repos/DaikiTanaka-UT/JointOptimization
+	url = https://github.com/DaikiTanaka-UT/JointOptimization
+[submodule "code_repos/kibok90/cvpr2018-hnd"]
+	path = code_repos/kibok90/cvpr2018-hnd
+	url = https://github.com/kibok90/cvpr2018-hnd
+[submodule "code_repos/aimbrain/vqa-project"]
+	path = code_repos/aimbrain/vqa-project
+	url = https://github.com/aimbrain/vqa-project
+[submodule "code_repos/takumayagi/fpl"]
+	path = code_repos/takumayagi/fpl
+	url = https://github.com/takumayagi/fpl
+[submodule "code_repos/neccam/nslt"]
+	path = code_repos/neccam/nslt
+	url = https://github.com/neccam/nslt
+[submodule "code_repos/skolouri/swgmm"]
+	path = code_repos/skolouri/swgmm
+	url = https://github.com/skolouri/swgmm
+[submodule "code_repos/dawei6875797/Face-Aging-with-Identity-Preserved-Conditional-Generative-Adversarial-Networks"]
+	path = code_repos/dawei6875797/Face-Aging-with-Identity-Preserved-Conditional-Generative-Adversarial-Networks
+	url = https://github.com/dawei6875797/Face-Aging-with-Identity-Preserved-Conditional-Generative-Adversarial-Networks
+[submodule "code_repos/DrImpossible/Deep-Expander-Networks"]
+	path = code_repos/DrImpossible/Deep-Expander-Networks
+	url = https://github.com/DrImpossible/Deep-Expander-Networks
+[submodule "code_repos/thuml/HashGAN"]
+	path = code_repos/thuml/HashGAN
+	url = https://github.com/thuml/HashGAN
+[submodule "code_repos/BCV-Uniandes/query-objseg"]
+	path = code_repos/BCV-Uniandes/query-objseg
+	url = https://github.com/BCV-Uniandes/query-objseg
+[submodule "code_repos/Winfrand/MELM"]
+	path = code_repos/Winfrand/MELM
+	url = https://github.com/Winfrand/MELM
+[submodule "code_repos/FFZhang1231/Facial-expression-recognition"]
+	path = code_repos/FFZhang1231/Facial-expression-recognition
+	url = https://github.com/FFZhang1231/Facial-expression-recognition
+[submodule "code_repos/vanzytay/NIPS2018_DECAPROP"]
+	path = code_repos/vanzytay/NIPS2018_DECAPROP
+	url = https://github.com/vanzytay/NIPS2018_DECAPROP
+[submodule "code_repos/paidamoyo/adversarial_time_to_event"]
+	path = code_repos/paidamoyo/adversarial_time_to_event
+	url = https://github.com/paidamoyo/adversarial_time_to_event
+[submodule "code_repos/Seth-Park/MultimodalExplanations"]
+	path = code_repos/Seth-Park/MultimodalExplanations
+	url = https://github.com/Seth-Park/MultimodalExplanations
+[submodule "code_repos/SiyuanQi/generalized-earley-parser"]
+	path = code_repos/SiyuanQi/generalized-earley-parser
+	url = https://github.com/SiyuanQi/generalized-earley-parser
+[submodule "code_repos/ermongroup/higher_order_invariance"]
+	path = code_repos/ermongroup/higher_order_invariance
+	url = https://github.com/ermongroup/higher_order_invariance
+[submodule "code_repos/nd7141/AWE"]
+	path = code_repos/nd7141/AWE
+	url = https://github.com/nd7141/AWE
+[submodule "code_repos/ytsmiling/lmt"]
+	path = code_repos/ytsmiling/lmt
+	url = https://github.com/ytsmiling/lmt
+[submodule "code_repos/mvasil/fashion-compatibility"]
+	path = code_repos/mvasil/fashion-compatibility
+	url = https://github.com/mvasil/fashion-compatibility
+[submodule "code_repos/bsharchilev/influence_boosting"]
+	path = code_repos/bsharchilev/influence_boosting
+	url = https://github.com/bsharchilev/influence_boosting
+[submodule "code_repos/yaxingwang/Mix-and-match-networks"]
+	path = code_repos/yaxingwang/Mix-and-match-networks
+	url = https://github.com/yaxingwang/Mix-and-match-networks
+[submodule "code_repos/ron-amit/meta-learning-adjusting-priors"]
+	path = code_repos/ron-amit/meta-learning-adjusting-priors
+	url = https://github.com/ron-amit/meta-learning-adjusting-priors
+[submodule "code_repos/GuangmingZhu/AttentionConvLSTM"]
+	path = code_repos/GuangmingZhu/AttentionConvLSTM
+	url = https://github.com/GuangmingZhu/AttentionConvLSTM
+[submodule "code_repos/doubledaibo/2dcaption_eccv2018"]
+	path = code_repos/doubledaibo/2dcaption_eccv2018
+	url = https://github.com/doubledaibo/2dcaption_eccv2018
+[submodule "code_repos/neitzal/adaptive-skip-intervals"]
+	path = code_repos/neitzal/adaptive-skip-intervals
+	url = https://github.com/neitzal/adaptive-skip-intervals
+[submodule "code_repos/SkafteNicki/ddtn"]
+	path = code_repos/SkafteNicki/ddtn
+	url = https://github.com/SkafteNicki/ddtn
+[submodule "code_repos/wctu/SEAL"]
+	path = code_repos/wctu/SEAL
+	url = https://github.com/wctu/SEAL
+[submodule "code_repos/arnupretorius/lindaedynamics_icml2018"]
+	path = code_repos/arnupretorius/lindaedynamics_icml2018
+	url = https://github.com/arnupretorius/lindaedynamics_icml2018
+[submodule "code_repos/ok1zjf/AMNet"]
+	path = code_repos/ok1zjf/AMNet
+	url = https://github.com/ok1zjf/AMNet
+[submodule "code_repos/kunhe/TALR"]
+	path = code_repos/kunhe/TALR
+	url = https://github.com/kunhe/TALR
+[submodule "code_repos/aldehydecho/Mesh-VAE"]
+	path = code_repos/aldehydecho/Mesh-VAE
+	url = https://github.com/aldehydecho/Mesh-VAE
+[submodule "code_repos/fuy34/planerecover"]
+	path = code_repos/fuy34/planerecover
+	url = https://github.com/fuy34/planerecover
+[submodule "code_repos/mancinimassimiliano/latent_domains_DA"]
+	path = code_repos/mancinimassimiliano/latent_domains_DA
+	url = https://github.com/mancinimassimiliano/latent_domains_DA
+[submodule "code_repos/rubinxin/FITBO"]
+	path = code_repos/rubinxin/FITBO
+	url = https://github.com/rubinxin/FITBO
+[submodule "code_repos/kregmi/cross-view-image-synthesis"]
+	path = code_repos/kregmi/cross-view-image-synthesis
+	url = https://github.com/kregmi/cross-view-image-synthesis
+[submodule "code_repos/sbargal/Caffe-ExcitationBP-RNNs"]
+	path = code_repos/sbargal/Caffe-ExcitationBP-RNNs
+	url = https://github.com/sbargal/Caffe-ExcitationBP-RNNs
+[submodule "code_repos/XenderLiu/UFDN"]
+	path = code_repos/XenderLiu/UFDN
+	url = https://github.com/XenderLiu/UFDN
+[submodule "code_repos/Wentong-DST/up-down-captioner"]
+	path = code_repos/Wentong-DST/up-down-captioner
+	url = https://github.com/Wentong-DST/up-down-captioner
+[submodule "code_repos/fjxmlzn/PacGAN"]
+	path = code_repos/fjxmlzn/PacGAN
+	url = https://github.com/fjxmlzn/PacGAN
+[submodule "code_repos/slowbull/DDG"]
+	path = code_repos/slowbull/DDG
+	url = https://github.com/slowbull/DDG
+[submodule "code_repos/podgorskiy/GPND"]
+	path = code_repos/podgorskiy/GPND
+	url = https://github.com/podgorskiy/GPND
+[submodule "code_repos/YabinZhang1994/MetaFGNet"]
+	path = code_repos/YabinZhang1994/MetaFGNet
+	url = https://github.com/YabinZhang1994/MetaFGNet
+[submodule "code_repos/jason718/game-feature-learning"]
+	path = code_repos/jason718/game-feature-learning
+	url = https://github.com/jason718/game-feature-learning
+[submodule "code_repos/danini/five-point-fundamental"]
+	path = code_repos/danini/five-point-fundamental
+	url = https://github.com/danini/five-point-fundamental
+[submodule "code_repos/D-Nilsson/GRFP"]
+	path = code_repos/D-Nilsson/GRFP
+	url = https://github.com/D-Nilsson/GRFP
+[submodule "code_repos/naamahadad/A-Two-Step-Disentanglement-Method"]
+	path = code_repos/naamahadad/A-Two-Step-Disentanglement-Method
+	url = https://github.com/naamahadad/A-Two-Step-Disentanglement-Method
+[submodule "code_repos/YanchaoYang/Conditional-Prior-Networks"]
+	path = code_repos/YanchaoYang/Conditional-Prior-Networks
+	url = https://github.com/YanchaoYang/Conditional-Prior-Networks
+[submodule "code_repos/samuela/oi-vae"]
+	path = code_repos/samuela/oi-vae
+	url = https://github.com/samuela/oi-vae
+[submodule "code_repos/pfnet-research/capg"]
+	path = code_repos/pfnet-research/capg
+	url = https://github.com/pfnet-research/capg
+[submodule "code_repos/ricvolpi/generalize-unseen-domains"]
+	path = code_repos/ricvolpi/generalize-unseen-domains
+	url = https://github.com/ricvolpi/generalize-unseen-domains
+[submodule "code_repos/eitanrich/gans-n-gmms"]
+	path = code_repos/eitanrich/gans-n-gmms
+	url = https://github.com/eitanrich/gans-n-gmms
+[submodule "code_repos/xyf513/SpiderCNN"]
+	path = code_repos/xyf513/SpiderCNN
+	url = https://github.com/xyf513/SpiderCNN
+[submodule "code_repos/johnwlambert/dlupi-heteroscedastic-dropout"]
+	path = code_repos/johnwlambert/dlupi-heteroscedastic-dropout
+	url = https://github.com/johnwlambert/dlupi-heteroscedastic-dropout
+[submodule "code_repos/xternalz/SDPoint"]
+	path = code_repos/xternalz/SDPoint
+	url = https://github.com/xternalz/SDPoint
+[submodule "code_repos/adler-j/bwgan"]
+	path = code_repos/adler-j/bwgan
+	url = https://github.com/adler-j/bwgan
+[submodule "code_repos/Wentong-DST/attn-gan"]
+	path = code_repos/Wentong-DST/attn-gan
+	url = https://github.com/Wentong-DST/attn-gan
+[submodule "code_repos/ogroth/shapestacks"]
+	path = code_repos/ogroth/shapestacks
+	url = https://github.com/ogroth/shapestacks
+[submodule "code_repos/guoyongcs/LCCGAN"]
+	path = code_repos/guoyongcs/LCCGAN
+	url = https://github.com/guoyongcs/LCCGAN
+[submodule "code_repos/zlmzju/itn"]
+	path = code_repos/zlmzju/itn
+	url = https://github.com/zlmzju/itn
+[submodule "code_repos/zhengshou/AutoLoc"]
+	path = code_repos/zhengshou/AutoLoc
+	url = https://github.com/zhengshou/AutoLoc
+[submodule "code_repos/zkl20061823/WSC"]
+	path = code_repos/zkl20061823/WSC
+	url = https://github.com/zkl20061823/WSC
+[submodule "code_repos/wsh312/S2Dnet"]
+	path = code_repos/wsh312/S2Dnet
+	url = https://github.com/wsh312/S2Dnet
+[submodule "code_repos/ZhaoJ9014/Dynamic-Conditional-Networks-for-Few-Shot-Learning.pytorch"]
+	path = code_repos/ZhaoJ9014/Dynamic-Conditional-Networks-for-Few-Shot-Learning.pytorch
+	url = https://github.com/ZhaoJ9014/Dynamic-Conditional-Networks-for-Few-Shot-Learning.pytorch
+[submodule "code_repos/leonardblier/descriptionlengthdeeplearning"]
+	path = code_repos/leonardblier/descriptionlengthdeeplearning
+	url = https://github.com/leonardblier/descriptionlengthdeeplearning
+[submodule "code_repos/brain-research/mirage-rl"]
+	path = code_repos/brain-research/mirage-rl
+	url = https://github.com/brain-research/mirage-rl
+[submodule "code_repos/mhw32/multimodal-vae-public"]
+	path = code_repos/mhw32/multimodal-vae-public
+	url = https://github.com/mhw32/multimodal-vae-public
+[submodule "code_repos/ostadabbas/isp-gpm"]
+	path = code_repos/ostadabbas/isp-gpm
+	url = https://github.com/ostadabbas/isp-gpm
+[submodule "code_repos/AishwaryaAgrawal/GVQA"]
+	path = code_repos/AishwaryaAgrawal/GVQA
+	url = https://github.com/AishwaryaAgrawal/GVQA
+[submodule "code_repos/prolearner/hyper-representation"]
+	path = code_repos/prolearner/hyper-representation
+	url = https://github.com/prolearner/hyper-representation
+[submodule "code_repos/QuebecAI/webcam-transfer-learning-v1"]
+	path = code_repos/QuebecAI/webcam-transfer-learning-v1
+	url = https://github.com/QuebecAI/webcam-transfer-learning-v1
+[submodule "code_repos/rdspring1/MISSION"]
+	path = code_repos/rdspring1/MISSION
+	url = https://github.com/rdspring1/MISSION
+[submodule "code_repos/rhgao/separating-object-sounds"]
+	path = code_repos/rhgao/separating-object-sounds
+	url = https://github.com/rhgao/separating-object-sounds
+[submodule "code_repos/jirenz/HiDDeN"]
+	path = code_repos/jirenz/HiDDeN
+	url = https://github.com/jirenz/HiDDeN
+[submodule "code_repos/hughsalimbeni/orth_decoupled_var_gps"]
+	path = code_repos/hughsalimbeni/orth_decoupled_var_gps
+	url = https://github.com/hughsalimbeni/orth_decoupled_var_gps
+[submodule "code_repos/ChanganVR/ConstraintAwareCompression"]
+	path = code_repos/ChanganVR/ConstraintAwareCompression
+	url = https://github.com/ChanganVR/ConstraintAwareCompression
+[submodule "code_repos/msmsajjadi/precision-recall-distributions"]
+	path = code_repos/msmsajjadi/precision-recall-distributions
+	url = https://github.com/msmsajjadi/precision-recall-distributions
+[submodule "code_repos/chentingpc/kdcode-lm"]
+	path = code_repos/chentingpc/kdcode-lm
+	url = https://github.com/chentingpc/kdcode-lm
+[submodule "code_repos/daeyun/object-shapes-cvpr18"]
+	path = code_repos/daeyun/object-shapes-cvpr18
+	url = https://github.com/daeyun/object-shapes-cvpr18
+[submodule "code_repos/hellbell/KeyPatchGan"]
+	path = code_repos/hellbell/KeyPatchGan
+	url = https://github.com/hellbell/KeyPatchGan
+[submodule "code_repos/Hanjun-Dai/steady_state_embedding"]
+	path = code_repos/Hanjun-Dai/steady_state_embedding
+	url = https://github.com/Hanjun-Dai/steady_state_embedding
+[submodule "code_repos/ermongroup/sparse_gen"]
+	path = code_repos/ermongroup/sparse_gen
+	url = https://github.com/ermongroup/sparse_gen
+[submodule "code_repos/ethanhezhao/WEDTM"]
+	path = code_repos/ethanhezhao/WEDTM
+	url = https://github.com/ethanhezhao/WEDTM
+[submodule "code_repos/joe-siyuan-qiao/GUNN"]
+	path = code_repos/joe-siyuan-qiao/GUNN
+	url = https://github.com/joe-siyuan-qiao/GUNN
+[submodule "code_repos/renqianluo/NAO"]
+	path = code_repos/renqianluo/NAO
+	url = https://github.com/renqianluo/NAO
+[submodule "code_repos/TeaPearce/Deep_Learning_Prediction_Intervals"]
+	path = code_repos/TeaPearce/Deep_Learning_Prediction_Intervals
+	url = https://github.com/TeaPearce/Deep_Learning_Prediction_Intervals
+[submodule "code_repos/NieXC/pytorch-pil"]
+	path = code_repos/NieXC/pytorch-pil
+	url = https://github.com/NieXC/pytorch-pil
+[submodule "code_repos/alex-sage/logo-gen"]
+	path = code_repos/alex-sage/logo-gen
+	url = https://github.com/alex-sage/logo-gen
+[submodule "code_repos/Artifineuro/zole"]
+	path = code_repos/Artifineuro/zole
+	url = https://github.com/Artifineuro/zole
+[submodule "code_repos/hiroaki-santo/light-structure-from-pin-motion"]
+	path = code_repos/hiroaki-santo/light-structure-from-pin-motion
+	url = https://github.com/hiroaki-santo/light-structure-from-pin-motion
+[submodule "code_repos/evtimovi/robust_physical_perturbations"]
+	path = code_repos/evtimovi/robust_physical_perturbations
+	url = https://github.com/evtimovi/robust_physical_perturbations
+[submodule "code_repos/fmcp/EndToEndIncrementalLearning"]
+	path = code_repos/fmcp/EndToEndIncrementalLearning
+	url = https://github.com/fmcp/EndToEndIncrementalLearning
+[submodule "code_repos/kcyu2014/smsop"]
+	path = code_repos/kcyu2014/smsop
+	url = https://github.com/kcyu2014/smsop
+[submodule "code_repos/levelfour/SU_Classification"]
+	path = code_repos/levelfour/SU_Classification
+	url = https://github.com/levelfour/SU_Classification
+[submodule "code_repos/peiwang062/towards-realistic-predictors"]
+	path = code_repos/peiwang062/towards-realistic-predictors
+	url = https://github.com/peiwang062/towards-realistic-predictors
+[submodule "code_repos/tribhuvanesh/visual_redactions"]
+	path = code_repos/tribhuvanesh/visual_redactions
+	url = https://github.com/tribhuvanesh/visual_redactions
+[submodule "code_repos/flennerhag/alstm"]
+	path = code_repos/flennerhag/alstm
+	url = https://github.com/flennerhag/alstm
+[submodule "code_repos/quffka/quffka"]
+	path = code_repos/quffka/quffka
+	url = https://github.com/quffka/quffka
+[submodule "code_repos/a554b554/BourGAN"]
+	path = code_repos/a554b554/BourGAN
+	url = https://github.com/a554b554/BourGAN
+[submodule "code_repos/TIBHannover/GeoEstimation"]
+	path = code_repos/TIBHannover/GeoEstimation
+	url = https://github.com/TIBHannover/GeoEstimation
+[submodule "code_repos/sagiebenaim/gan_bound"]
+	path = code_repos/sagiebenaim/gan_bound
+	url = https://github.com/sagiebenaim/gan_bound
+[submodule "code_repos/matejbalog/RKHS-private-database"]
+	path = code_repos/matejbalog/RKHS-private-database
+	url = https://github.com/matejbalog/RKHS-private-database
+[submodule "code_repos/lxuechen/inference-suboptimality"]
+	path = code_repos/lxuechen/inference-suboptimality
+	url = https://github.com/lxuechen/inference-suboptimality
+[submodule "code_repos/ahmed-touati/convergent-off-policy"]
+	path = code_repos/ahmed-touati/convergent-off-policy
+	url = https://github.com/ahmed-touati/convergent-off-policy
+[submodule "code_repos/xuyanyu-shh/Saliency-detection-in-360-video"]
+	path = code_repos/xuyanyu-shh/Saliency-detection-in-360-video
+	url = https://github.com/xuyanyu-shh/Saliency-detection-in-360-video
+[submodule "code_repos/uvavision/feedbackprop"]
+	path = code_repos/uvavision/feedbackprop
+	url = https://github.com/uvavision/feedbackprop
+[submodule "code_repos/yj-yu/lsmdc"]
+	path = code_repos/yj-yu/lsmdc
+	url = https://github.com/yj-yu/lsmdc
+[submodule "code_repos/srama2512/sidekicks"]
+	path = code_repos/srama2512/sidekicks
+	url = https://github.com/srama2512/sidekicks
+[submodule "code_repos/JKozerawski/CLEAR-osoc"]
+	path = code_repos/JKozerawski/CLEAR-osoc
+	url = https://github.com/JKozerawski/CLEAR-osoc
+[submodule "code_repos/skokec/DAU-ConvNet"]
+	path = code_repos/skokec/DAU-ConvNet
+	url = https://github.com/skokec/DAU-ConvNet
+[submodule "code_repos/mrharicot/deep_burst_denoising"]
+	path = code_repos/mrharicot/deep_burst_denoising
+	url = https://github.com/mrharicot/deep_burst_denoising
+[submodule "code_repos/chenxli/High-Resolution-Image-Synthesis-and-Semantic-Manipulation-with-Conditional-GANsl-"]
+	path = code_repos/chenxli/High-Resolution-Image-Synthesis-and-Semantic-Manipulation-with-Conditional-GANsl-
+	url = https://github.com/chenxli/High-Resolution-Image-Synthesis-and-Semantic-Manipulation-with-Conditional-GANsl-
+[submodule "code_repos/WeiHan3/dsrn"]
+	path = code_repos/WeiHan3/dsrn
+	url = https://github.com/WeiHan3/dsrn
+[submodule "code_repos/hyejikim1/Deepcode"]
+	path = code_repos/hyejikim1/Deepcode
+	url = https://github.com/hyejikim1/Deepcode
+[submodule "code_repos/yangguorun/SegStereo"]
+	path = code_repos/yangguorun/SegStereo
+	url = https://github.com/yangguorun/SegStereo
+[submodule "code_repos/HuQyang/Disentangling-Factors-of-Variation-by-Mixing-Them"]
+	path = code_repos/HuQyang/Disentangling-Factors-of-Variation-by-Mixing-Them
+	url = https://github.com/HuQyang/Disentangling-Factors-of-Variation-by-Mixing-Them
+[submodule "code_repos/metro-smiles/CapG_RevG_Code"]
+	path = code_repos/metro-smiles/CapG_RevG_Code
+	url = https://github.com/metro-smiles/CapG_RevG_Code
+[submodule "code_repos/zhenxingjian/SPD-SRU"]
+	path = code_repos/zhenxingjian/SPD-SRU
+	url = https://github.com/zhenxingjian/SPD-SRU
+[submodule "code_repos/zhangjiong724/spectral-RNN"]
+	path = code_repos/zhangjiong724/spectral-RNN
+	url = https://github.com/zhangjiong724/spectral-RNN
+[submodule "code_repos/luanfujun/deep-photo-styletransfer"]
+	path = code_repos/luanfujun/deep-photo-styletransfer
+	url = https://github.com/luanfujun/deep-photo-styletransfer
+[submodule "code_repos/Microsoft/LightGBM"]
+	path = code_repos/Microsoft/LightGBM
+	url = https://github.com/Microsoft/LightGBM
+[submodule "code_repos/AaronJackson/vrn"]
+	path = code_repos/AaronJackson/vrn
+	url = https://github.com/AaronJackson/vrn
+[submodule "code_repos/liuzhuang13/DenseNet"]
+	path = code_repos/liuzhuang13/DenseNet
+	url = https://github.com/liuzhuang13/DenseNet
+[submodule "code_repos/slundberg/shap"]
+	path = code_repos/slundberg/shap
+	url = https://github.com/slundberg/shap
+[submodule "code_repos/msracver/Deformable-ConvNets"]
+	path = code_repos/msracver/Deformable-ConvNets
+	url = https://github.com/msracver/Deformable-ConvNets
+[submodule "code_repos/facebookresearch/ELF"]
+	path = code_repos/facebookresearch/ELF
+	url = https://github.com/facebookresearch/ELF
+[submodule "code_repos/msracver/FCIS"]
+	path = code_repos/msracver/FCIS
+	url = https://github.com/msracver/FCIS
+[submodule "code_repos/charlesq34/pointnet"]
+	path = code_repos/charlesq34/pointnet
+	url = https://github.com/charlesq34/pointnet
+[submodule "code_repos/igul222/improved_wgan_training"]
+	path = code_repos/igul222/improved_wgan_training
+	url = https://github.com/igul222/improved_wgan_training
+[submodule "code_repos/facebookresearch/ResNeXt"]
+	path = code_repos/facebookresearch/ResNeXt
+	url = https://github.com/facebookresearch/ResNeXt
+[submodule "code_repos/CQFIO/PhotographicImageSynthesis"]
+	path = code_repos/CQFIO/PhotographicImageSynthesis
+	url = https://github.com/CQFIO/PhotographicImageSynthesis
+[submodule "code_repos/mingyuliutw/unit"]
+	path = code_repos/mingyuliutw/unit
+	url = https://github.com/mingyuliutw/unit
+[submodule "code_repos/tensorlayer/srgan"]
+	path = code_repos/tensorlayer/srgan
+	url = https://github.com/tensorlayer/srgan
+[submodule "code_repos/leehomyc/Faster-High-Res-Neural-Inpainting"]
+	path = code_repos/leehomyc/Faster-High-Res-Neural-Inpainting
+	url = https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting
+[submodule "code_repos/wy1iu/sphereface"]
+	path = code_repos/wy1iu/sphereface
+	url = https://github.com/wy1iu/sphereface
+[submodule "code_repos/andrewgordonwilson/bayesgan"]
+	path = code_repos/andrewgordonwilson/bayesgan
+	url = https://github.com/andrewgordonwilson/bayesgan
+[submodule "code_repos/msracver/Deep-Feature-Flow"]
+	path = code_repos/msracver/Deep-Feature-Flow
+	url = https://github.com/msracver/Deep-Feature-Flow
+[submodule "code_repos/hszhao/PSPNet"]
+	path = code_repos/hszhao/PSPNet
+	url = https://github.com/hszhao/PSPNet
+[submodule "code_repos/peiyunh/tiny"]
+	path = code_repos/peiyunh/tiny
+	url = https://github.com/peiyunh/tiny
+[submodule "code_repos/SKTBrain/DiscoGAN"]
+	path = code_repos/SKTBrain/DiscoGAN
+	url = https://github.com/SKTBrain/DiscoGAN
+[submodule "code_repos/junyanz/BiCycleGAN"]
+	path = code_repos/junyanz/BiCycleGAN
+	url = https://github.com/junyanz/BiCycleGAN
+[submodule "code_repos/lmb-freiburg/flownet2"]
+	path = code_repos/lmb-freiburg/flownet2
+	url = https://github.com/lmb-freiburg/flownet2
+[submodule "code_repos/charlesq34/pointnet2"]
+	path = code_repos/charlesq34/pointnet2
+	url = https://github.com/charlesq34/pointnet2
+[submodule "code_repos/cbfinn/maml"]
+	path = code_repos/cbfinn/maml
+	url = https://github.com/cbfinn/maml
+[submodule "code_repos/facebookresearch/clevr-iep"]
+	path = code_repos/facebookresearch/clevr-iep
+	url = https://github.com/facebookresearch/clevr-iep
+[submodule "code_repos/yihui-he/channel-pruning"]
+	path = code_repos/yihui-he/channel-pruning
+	url = https://github.com/yihui-he/channel-pruning
+[submodule "code_repos/fyu/drn"]
+	path = code_repos/fyu/drn
+	url = https://github.com/fyu/drn
+[submodule "code_repos/google/FluidNet"]
+	path = code_repos/google/FluidNet
+	url = https://github.com/google/FluidNet
+[submodule "code_repos/szq0214/DSOD"]
+	path = code_repos/szq0214/DSOD
+	url = https://github.com/szq0214/DSOD
+[submodule "code_repos/xunhuang1995/AdaIN-style"]
+	path = code_repos/xunhuang1995/AdaIN-style
+	url = https://github.com/xunhuang1995/AdaIN-style
+[submodule "code_repos/probtorch/probtorch"]
+	path = code_repos/probtorch/probtorch
+	url = https://github.com/probtorch/probtorch
+[submodule "code_repos/1adrianb/2D-and-3D-face-alignment"]
+	path = code_repos/1adrianb/2D-and-3D-face-alignment
+	url = https://github.com/1adrianb/2D-and-3D-face-alignment
+[submodule "code_repos/anhttran/3dmm_cnn"]
+	path = code_repos/anhttran/3dmm_cnn
+	url = https://github.com/anhttran/3dmm_cnn
+[submodule "code_repos/Evolving-AI-Lab/ppgn"]
+	path = code_repos/Evolving-AI-Lab/ppgn
+	url = https://github.com/Evolving-AI-Lab/ppgn
+[submodule "code_repos/mahyarnajibi/SSH"]
+	path = code_repos/mahyarnajibi/SSH
+	url = https://github.com/mahyarnajibi/SSH
+[submodule "code_repos/JiawangBian/GMS-Feature-Matcher"]
+	path = code_repos/JiawangBian/GMS-Feature-Matcher
+	url = https://github.com/JiawangBian/GMS-Feature-Matcher
+[submodule "code_repos/cypw/DPNs"]
+	path = code_repos/cypw/DPNs
+	url = https://github.com/cypw/DPNs
+[submodule "code_repos/williamleif/GraphSAGE"]
+	path = code_repos/williamleif/GraphSAGE
+	url = https://github.com/williamleif/GraphSAGE
+[submodule "code_repos/ShuangLI59/person_search"]
+	path = code_repos/ShuangLI59/person_search
+	url = https://github.com/ShuangLI59/person_search
+[submodule "code_repos/msracver/Flow-Guided-Feature-Aggregation"]
+	path = code_repos/msracver/Flow-Guided-Feature-Aggregation
+	url = https://github.com/msracver/Flow-Guided-Feature-Aggregation
+[submodule "code_repos/julian121266/RecurrentHighwayNetworks"]
+	path = code_repos/julian121266/RecurrentHighwayNetworks
+	url = https://github.com/julian121266/RecurrentHighwayNetworks
+[submodule "code_repos/feichtenhofer/Detect-Track"]
+	path = code_repos/feichtenhofer/Detect-Track
+	url = https://github.com/feichtenhofer/Detect-Track
+[submodule "code_repos/CuriousAI/mean-teacher"]
+	path = code_repos/CuriousAI/mean-teacher
+	url = https://github.com/CuriousAI/mean-teacher
+[submodule "code_repos/guosheng/refinenet"]
+	path = code_repos/guosheng/refinenet
+	url = https://github.com/guosheng/refinenet
+[submodule "code_repos/taokong/RON"]
+	path = code_repos/taokong/RON
+	url = https://github.com/taokong/RON
+[submodule "code_repos/Yijunmaverick/UniversalStyleTransfer"]
+	path = code_repos/Yijunmaverick/UniversalStyleTransfer
+	url = https://github.com/Yijunmaverick/UniversalStyleTransfer
+[submodule "code_repos/xiaohaoChen/rrc_detection"]
+	path = code_repos/xiaohaoChen/rrc_detection
+	url = https://github.com/xiaohaoChen/rrc_detection
+[submodule "code_repos/scaelles/OSVOS-TensorFlow"]
+	path = code_repos/scaelles/OSVOS-TensorFlow
+	url = https://github.com/scaelles/OSVOS-TensorFlow
+[submodule "code_repos/facebookresearch/adaptive-softmax"]
+	path = code_repos/facebookresearch/adaptive-softmax
+	url = https://github.com/facebookresearch/adaptive-softmax
+[submodule "code_repos/phoenix104104/LapSRN"]
+	path = code_repos/phoenix104104/LapSRN
+	url = https://github.com/phoenix104104/LapSRN
+[submodule "code_repos/code-terminator/DilatedRNN"]
+	path = code_repos/code-terminator/DilatedRNN
+	url = https://github.com/code-terminator/DilatedRNN
+[submodule "code_repos/griegler/octnet"]
+	path = code_repos/griegler/octnet
+	url = https://github.com/griegler/octnet
+[submodule "code_repos/Ghadjeres/DeepBach"]
+	path = code_repos/Ghadjeres/DeepBach
+	url = https://github.com/Ghadjeres/DeepBach
+[submodule "code_repos/ruotianluo/self-critical.pytorch"]
+	path = code_repos/ruotianluo/self-critical.pytorch
+	url = https://github.com/ruotianluo/self-critical.pytorch
+[submodule "code_repos/ZZUTK/Face-Aging-CAAE"]
+	path = code_repos/ZZUTK/Face-Aging-CAAE
+	url = https://github.com/ZZUTK/Face-Aging-CAAE
+[submodule "code_repos/shentianxiao/language-style-transfer"]
+	path = code_repos/shentianxiao/language-style-transfer
+	url = https://github.com/shentianxiao/language-style-transfer
+[submodule "code_repos/DenisTome/Lifting-from-the-Deep-release"]
+	path = code_repos/DenisTome/Lifting-from-the-Deep-release
+	url = https://github.com/DenisTome/Lifting-from-the-Deep-release
+[submodule "code_repos/yun-liu/rcf"]
+	path = code_repos/yun-liu/rcf
+	url = https://github.com/yun-liu/rcf
+[submodule "code_repos/locuslab/optnet"]
+	path = code_repos/locuslab/optnet
+	url = https://github.com/locuslab/optnet
+[submodule "code_repos/facebookresearch/fairseq"]
+	path = code_repos/facebookresearch/fairseq
+	url = https://github.com/facebookresearch/fairseq
+[submodule "code_repos/haarnoja/softqlearning"]
+	path = code_repos/haarnoja/softqlearning
+	url = https://github.com/haarnoja/softqlearning
+[submodule "code_repos/jiasenlu/AdaptiveAttention"]
+	path = code_repos/jiasenlu/AdaptiveAttention
+	url = https://github.com/jiasenlu/AdaptiveAttention
+[submodule "code_repos/xunhuang1995/SGAN"]
+	path = code_repos/xunhuang1995/SGAN
+	url = https://github.com/xunhuang1995/SGAN
+[submodule "code_repos/MVIG-SJTU/RMPE"]
+	path = code_repos/MVIG-SJTU/RMPE
+	url = https://github.com/MVIG-SJTU/RMPE
+[submodule "code_repos/dvornikita/blitznet"]
+	path = code_repos/dvornikita/blitznet
+	url = https://github.com/dvornikita/blitznet
+[submodule "code_repos/fanhqme/PointSetGeneration"]
+	path = code_repos/fanhqme/PointSetGeneration
+	url = https://github.com/fanhqme/PointSetGeneration
+[submodule "code_repos/mfigurnov/sact"]
+	path = code_repos/mfigurnov/sact
+	url = https://github.com/mfigurnov/sact
+[submodule "code_repos/jakesnell/prototypical-networks"]
+	path = code_repos/jakesnell/prototypical-networks
+	url = https://github.com/jakesnell/prototypical-networks
+[submodule "code_repos/layumi/Person-reID_GAN"]
+	path = code_repos/layumi/Person-reID_GAN
+	url = https://github.com/layumi/Person-reID_GAN
+[submodule "code_repos/renmengye/revnet-public"]
+	path = code_repos/renmengye/revnet-public
+	url = https://github.com/renmengye/revnet-public
+[submodule "code_repos/Yijunmaverick/GenerativeFaceCompletion"]
+	path = code_repos/Yijunmaverick/GenerativeFaceCompletion
+	url = https://github.com/Yijunmaverick/GenerativeFaceCompletion
+[submodule "code_repos/Andrew-Qibin/DSS"]
+	path = code_repos/Andrew-Qibin/DSS
+	url = https://github.com/Andrew-Qibin/DSS
+[submodule "code_repos/sciencefans/RSA-for-object-detection"]
+	path = code_repos/sciencefans/RSA-for-object-detection
+	url = https://github.com/sciencefans/RSA-for-object-detection
+[submodule "code_repos/batra-mlp-lab/visdial"]
+	path = code_repos/batra-mlp-lab/visdial
+	url = https://github.com/batra-mlp-lab/visdial
+[submodule "code_repos/voidrank/FastMask"]
+	path = code_repos/voidrank/FastMask
+	url = https://github.com/voidrank/FastMask
+[submodule "code_repos/cszn/IRCNN"]
+	path = code_repos/cszn/IRCNN
+	url = https://github.com/cszn/IRCNN
+[submodule "code_repos/SeokjuLee/VPGNet"]
+	path = code_repos/SeokjuLee/VPGNet
+	url = https://github.com/SeokjuLee/VPGNet
+[submodule "code_repos/ruthcfong/perturb_explanations"]
+	path = code_repos/ruthcfong/perturb_explanations
+	url = https://github.com/ruthcfong/perturb_explanations
+[submodule "code_repos/shurans/sscnet"]
+	path = code_repos/shurans/sscnet
+	url = https://github.com/shurans/sscnet
+[submodule "code_repos/chenhsuanlin/inverse-compositional-STN"]
+	path = code_repos/chenhsuanlin/inverse-compositional-STN
+	url = https://github.com/chenhsuanlin/inverse-compositional-STN
+[submodule "code_repos/gulvarol/surreal"]
+	path = code_repos/gulvarol/surreal
+	url = https://github.com/gulvarol/surreal
+[submodule "code_repos/bearpaw/PyraNet"]
+	path = code_repos/bearpaw/PyraNet
+	url = https://github.com/bearpaw/PyraNet
+[submodule "code_repos/zhusz/ICCV17-fashionGAN"]
+	path = code_repos/zhusz/ICCV17-fashionGAN
+	url = https://github.com/zhusz/ICCV17-fashionGAN
+[submodule "code_repos/ronghanghu/n2nmn"]
+	path = code_repos/ronghanghu/n2nmn
+	url = https://github.com/ronghanghu/n2nmn
+[submodule "code_repos/1adrianb/binary-human-pose-estimation"]
+	path = code_repos/1adrianb/binary-human-pose-estimation
+	url = https://github.com/1adrianb/binary-human-pose-estimation
+[submodule "code_repos/liuzhuang13/slimming"]
+	path = code_repos/liuzhuang13/slimming
+	url = https://github.com/liuzhuang13/slimming
+[submodule "code_repos/HRLTY/TP-GAN"]
+	path = code_repos/HRLTY/TP-GAN
+	url = https://github.com/HRLTY/TP-GAN
+[submodule "code_repos/bioinf-jku/TTUR"]
+	path = code_repos/bioinf-jku/TTUR
+	url = https://github.com/bioinf-jku/TTUR
+[submodule "code_repos/CQFIO/FastImageProcessing"]
+	path = code_repos/CQFIO/FastImageProcessing
+	url = https://github.com/CQFIO/FastImageProcessing
+[submodule "code_repos/danfeiX/scene-graph-TF-release"]
+	path = code_repos/danfeiX/scene-graph-TF-release
+	url = https://github.com/danfeiX/scene-graph-TF-release
+[submodule "code_repos/BestSonny/SSTD"]
+	path = code_repos/BestSonny/SSTD
+	url = https://github.com/BestSonny/SSTD
+[submodule "code_repos/tyshiwo/DRRN_CVPR17"]
+	path = code_repos/tyshiwo/DRRN_CVPR17
+	url = https://github.com/tyshiwo/DRRN_CVPR17
+[submodule "code_repos/locuslab/icnn"]
+	path = code_repos/locuslab/icnn
+	url = https://github.com/locuslab/icnn
+[submodule "code_repos/ZhouYanzhao/ORN"]
+	path = code_repos/ZhouYanzhao/ORN
+	url = https://github.com/ZhouYanzhao/ORN
+[submodule "code_repos/torralba-lab/im2recipe"]
+	path = code_repos/torralba-lab/im2recipe
+	url = https://github.com/torralba-lab/im2recipe
+[submodule "code_repos/una-dinosauria/human-motion-prediction"]
+	path = code_repos/una-dinosauria/human-motion-prediction
+	url = https://github.com/una-dinosauria/human-motion-prediction
+[submodule "code_repos/jsuarez5341/Recurrent-Highway-Hypernetworks-NIPS"]
+	path = code_repos/jsuarez5341/Recurrent-Highway-Hypernetworks-NIPS
+	url = https://github.com/jsuarez5341/Recurrent-Highway-Hypernetworks-NIPS
+[submodule "code_repos/yeezhu/SPN.pytorch"]
+	path = code_repos/yeezhu/SPN.pytorch
+	url = https://github.com/yeezhu/SPN.pytorch
+[submodule "code_repos/facebookresearch/low-shot-shrink-hallucinate"]
+	path = code_repos/facebookresearch/low-shot-shrink-hallucinate
+	url = https://github.com/facebookresearch/low-shot-shrink-hallucinate
+[submodule "code_repos/paulu/deepfeatinterp"]
+	path = code_repos/paulu/deepfeatinterp
+	url = https://github.com/paulu/deepfeatinterp
+[submodule "code_repos/LMescheder/AdversarialVariationalBayes"]
+	path = code_repos/LMescheder/AdversarialVariationalBayes
+	url = https://github.com/LMescheder/AdversarialVariationalBayes
+[submodule "code_repos/cesc-park/attend2u"]
+	path = code_repos/cesc-park/attend2u
+	url = https://github.com/cesc-park/attend2u
+[submodule "code_repos/zhenxuan00/triple-gan"]
+	path = code_repos/zhenxuan00/triple-gan
+	url = https://github.com/zhenxuan00/triple-gan
+[submodule "code_repos/andreasveit/conditional-similarity-networks"]
+	path = code_repos/andreasveit/conditional-similarity-networks
+	url = https://github.com/andreasveit/conditional-similarity-networks
+[submodule "code_repos/sagiebenaim/DistanceGAN"]
+	path = code_repos/sagiebenaim/DistanceGAN
+	url = https://github.com/sagiebenaim/DistanceGAN
+[submodule "code_repos/pranv/ARC"]
+	path = code_repos/pranv/ARC
+	url = https://github.com/pranv/ARC
+[submodule "code_repos/doubledaibo/drnet_cvpr2017"]
+	path = code_repos/doubledaibo/drnet_cvpr2017
+	url = https://github.com/doubledaibo/drnet_cvpr2017
+[submodule "code_repos/facebookresearch/GradientEpisodicMemory"]
+	path = code_repos/facebookresearch/GradientEpisodicMemory
+	url = https://github.com/facebookresearch/GradientEpisodicMemory
+[submodule "code_repos/leongatys/NeuralImageSynthesis"]
+	path = code_repos/leongatys/NeuralImageSynthesis
+	url = https://github.com/leongatys/NeuralImageSynthesis
+[submodule "code_repos/ybsong00/CREST-Release"]
+	path = code_repos/ybsong00/CREST-Release
+	url = https://github.com/ybsong00/CREST-Release
+[submodule "code_repos/bearpaw/pose-attention"]
+	path = code_repos/bearpaw/pose-attention
+	url = https://github.com/bearpaw/pose-attention
+[submodule "code_repos/JingchunCheng/SegFlow"]
+	path = code_repos/JingchunCheng/SegFlow
+	url = https://github.com/JingchunCheng/SegFlow
+[submodule "code_repos/xingyizhou/pose-hg-3d"]
+	path = code_repos/xingyizhou/pose-hg-3d
+	url = https://github.com/xingyizhou/pose-hg-3d
+[submodule "code_repos/cvlab-dresden/DSAC"]
+	path = code_repos/cvlab-dresden/DSAC
+	url = https://github.com/cvlab-dresden/DSAC
+[submodule "code_repos/akar43/lsm"]
+	path = code_repos/akar43/lsm
+	url = https://github.com/akar43/lsm
+[submodule "code_repos/sxjscience/HKO-7"]
+	path = code_repos/sxjscience/HKO-7
+	url = https://github.com/sxjscience/HKO-7
+[submodule "code_repos/aharley/segaware"]
+	path = code_repos/aharley/segaware
+	url = https://github.com/aharley/segaware
+[submodule "code_repos/KarenUllrich/Tutorial_BayesianCompressionForDL"]
+	path = code_repos/KarenUllrich/Tutorial_BayesianCompressionForDL
+	url = https://github.com/KarenUllrich/Tutorial_BayesianCompressionForDL
+[submodule "code_repos/junhyukoh/value-prediction-network"]
+	path = code_repos/junhyukoh/value-prediction-network
+	url = https://github.com/junhyukoh/value-prediction-network
+[submodule "code_repos/akosiorek/hart"]
+	path = code_repos/akosiorek/hart
+	url = https://github.com/akosiorek/hart
+[submodule "code_repos/alanlukezic/csr-dcf"]
+	path = code_repos/alanlukezic/csr-dcf
+	url = https://github.com/alanlukezic/csr-dcf
+[submodule "code_repos/yaringal/ConcreteDropout"]
+	path = code_repos/yaringal/ConcreteDropout
+	url = https://github.com/yaringal/ConcreteDropout
+[submodule "code_repos/syfafterzy/SVDNet-for-Pedestrian-Retrieval"]
+	path = code_repos/syfafterzy/SVDNet-for-Pedestrian-Retrieval
+	url = https://github.com/syfafterzy/SVDNet-for-Pedestrian-Retrieval
+[submodule "code_repos/feichtenhofer/st-resnet"]
+	path = code_repos/feichtenhofer/st-resnet
+	url = https://github.com/feichtenhofer/st-resnet
+[submodule "code_repos/jhkim89/PyramidNet"]
+	path = code_repos/jhkim89/PyramidNet
+	url = https://github.com/jhkim89/PyramidNet
+[submodule "code_repos/kimiyoung/ssl_bad_gan"]
+	path = code_repos/kimiyoung/ssl_bad_gan
+	url = https://github.com/kimiyoung/ssl_bad_gan
+[submodule "code_repos/min2209/dwt"]
+	path = code_repos/min2209/dwt
+	url = https://github.com/min2209/dwt
+[submodule "code_repos/iqbalu/PoseTrack-CVPR2017"]
+	path = code_repos/iqbalu/PoseTrack-CVPR2017
+	url = https://github.com/iqbalu/PoseTrack-CVPR2017
+[submodule "code_repos/tsenghungchen/show-adapt-and-tell"]
+	path = code_repos/tsenghungchen/show-adapt-and-tell
+	url = https://github.com/tsenghungchen/show-adapt-and-tell
+[submodule "code_repos/wenwei202/terngrad"]
+	path = code_repos/wenwei202/terngrad
+	url = https://github.com/wenwei202/terngrad
+[submodule "code_repos/richzhang/splitbrainauto"]
+	path = code_repos/richzhang/splitbrainauto
+	url = https://github.com/richzhang/splitbrainauto
+[submodule "code_repos/wujian16/Cornell-MOE"]
+	path = code_repos/wujian16/Cornell-MOE
+	url = https://github.com/wujian16/Cornell-MOE
+[submodule "code_repos/jiangsutx/SPMC_VideoSR"]
+	path = code_repos/jiangsutx/SPMC_VideoSR
+	url = https://github.com/jiangsutx/SPMC_VideoSR
+[submodule "code_repos/tyshiwo/MemNet"]
+	path = code_repos/tyshiwo/MemNet
+	url = https://github.com/tyshiwo/MemNet
+[submodule "code_repos/AshishBora/csgm"]
+	path = code_repos/AshishBora/csgm
+	url = https://github.com/AshishBora/csgm
+[submodule "code_repos/matansel/pix2vertex"]
+	path = code_repos/matansel/pix2vertex
+	url = https://github.com/matansel/pix2vertex
+[submodule "code_repos/wy1iu/SphereNet"]
+	path = code_repos/wy1iu/SphereNet
+	url = https://github.com/wy1iu/SphereNet
+[submodule "code_repos/val-iisc/crowd-counting-scnn"]
+	path = code_repos/val-iisc/crowd-counting-scnn
+	url = https://github.com/val-iisc/crowd-counting-scnn
+[submodule "code_repos/durandtibo/wildcat.pytorch"]
+	path = code_repos/durandtibo/wildcat.pytorch
+	url = https://github.com/durandtibo/wildcat.pytorch
+[submodule "code_repos/DagnyT/hardnet"]
+	path = code_repos/DagnyT/hardnet
+	url = https://github.com/DagnyT/hardnet
+[submodule "code_repos/liuziwei7/voxel-flow"]
+	path = code_repos/liuziwei7/voxel-flow
+	url = https://github.com/liuziwei7/voxel-flow
+[submodule "code_repos/eladhoffer/bigBatch"]
+	path = code_repos/eladhoffer/bigBatch
+	url = https://github.com/eladhoffer/bigBatch
+[submodule "code_repos/shubhtuls/drc"]
+	path = code_repos/shubhtuls/drc
+	url = https://github.com/shubhtuls/drc
+[submodule "code_repos/hellozting/InterleavedGroupConvolutions"]
+	path = code_repos/hellozting/InterleavedGroupConvolutions
+	url = https://github.com/hellozting/InterleavedGroupConvolutions
+[submodule "code_repos/locuslab/e2e-model-learning"]
+	path = code_repos/locuslab/e2e-model-learning
+	url = https://github.com/locuslab/e2e-model-learning
+[submodule "code_repos/HazyResearch/tanda"]
+	path = code_repos/HazyResearch/tanda
+	url = https://github.com/HazyResearch/tanda
+[submodule "code_repos/kanchen-usc/AMC_ATT"]
+	path = code_repos/kanchen-usc/AMC_ATT
+	url = https://github.com/kanchen-usc/AMC_ATT
+[submodule "code_repos/lzrobots/DeepEmbeddingModel_ZSL"]
+	path = code_repos/lzrobots/DeepEmbeddingModel_ZSL
+	url = https://github.com/lzrobots/DeepEmbeddingModel_ZSL
+[submodule "code_repos/classner/up"]
+	path = code_repos/classner/up
+	url = https://github.com/classner/up
+[submodule "code_repos/Elyorcv/SAE"]
+	path = code_repos/Elyorcv/SAE
+	url = https://github.com/Elyorcv/SAE
+[submodule "code_repos/Hanjun-Dai/graph_comb_opt"]
+	path = code_repos/Hanjun-Dai/graph_comb_opt
+	url = https://github.com/Hanjun-Dai/graph_comb_opt
+[submodule "code_repos/thuml/HashNet"]
+	path = code_repos/thuml/HashNet
+	url = https://github.com/thuml/HashNet
+[submodule "code_repos/jiasenlu/visDial.pytorch"]
+	path = code_repos/jiasenlu/visDial.pytorch
+	url = https://github.com/jiasenlu/visDial.pytorch
+[submodule "code_repos/zjuchenlong/sca-cnn.cvpr17"]
+	path = code_repos/zjuchenlong/sca-cnn.cvpr17
+	url = https://github.com/zjuchenlong/sca-cnn.cvpr17
+[submodule "code_repos/amujika/Fast-Slow-LSTM"]
+	path = code_repos/amujika/Fast-Slow-LSTM
+	url = https://github.com/amujika/Fast-Slow-LSTM
+[submodule "code_repos/aosokin/biogans"]
+	path = code_repos/aosokin/biogans
+	url = https://github.com/aosokin/biogans
+[submodule "code_repos/jswulff/mrflow"]
+	path = code_repos/jswulff/mrflow
+	url = https://github.com/jswulff/mrflow
+[submodule "code_repos/lmb-freiburg/ogn"]
+	path = code_repos/lmb-freiburg/ogn
+	url = https://github.com/lmb-freiburg/ogn
+[submodule "code_repos/lacerbi/bads"]
+	path = code_repos/lacerbi/bads
+	url = https://github.com/lacerbi/bads
+[submodule "code_repos/wnhsu/FactorizedHierarchicalVAE"]
+	path = code_repos/wnhsu/FactorizedHierarchicalVAE
+	url = https://github.com/wnhsu/FactorizedHierarchicalVAE
+[submodule "code_repos/zlmzju/part_reid"]
+	path = code_repos/zlmzju/part_reid
+	url = https://github.com/zlmzju/part_reid
+[submodule "code_repos/shuochsu/DeepVideoDeblurring"]
+	path = code_repos/shuochsu/DeepVideoDeblurring
+	url = https://github.com/shuochsu/DeepVideoDeblurring
+[submodule "code_repos/AMLab-Amsterdam/CEVAE"]
+	path = code_repos/AMLab-Amsterdam/CEVAE
+	url = https://github.com/AMLab-Amsterdam/CEVAE
+[submodule "code_repos/danxuhk/ContinuousCRF-CNN"]
+	path = code_repos/danxuhk/ContinuousCRF-CNN
+	url = https://github.com/danxuhk/ContinuousCRF-CNN
+[submodule "code_repos/ppengtang/oicr"]
+	path = code_repos/ppengtang/oicr
+	url = https://github.com/ppengtang/oicr
+[submodule "code_repos/OctoberChang/MMD-GAN"]
+	path = code_repos/OctoberChang/MMD-GAN
+	url = https://github.com/OctoberChang/MMD-GAN
+[submodule "code_repos/jiamings/a-nice-mc"]
+	path = code_repos/jiamings/a-nice-mc
+	url = https://github.com/jiamings/a-nice-mc
+[submodule "code_repos/geopavlakos/c2f-vol-train"]
+	path = code_repos/geopavlakos/c2f-vol-train
+	url = https://github.com/geopavlakos/c2f-vol-train
+[submodule "code_repos/val-iisc/deligan"]
+	path = code_repos/val-iisc/deligan
+	url = https://github.com/val-iisc/deligan
+[submodule "code_repos/juefeix/lbcnn.torch"]
+	path = code_repos/juefeix/lbcnn.torch
+	url = https://github.com/juefeix/lbcnn.torch
+[submodule "code_repos/PkuRainBow/Hard-Aware-Deeply-Cascaded-Embedding_release"]
+	path = code_repos/PkuRainBow/Hard-Aware-Deeply-Cascaded-Embedding_release
+	url = https://github.com/PkuRainBow/Hard-Aware-Deeply-Cascaded-Embedding_release
+[submodule "code_repos/kanchen-usc/QRC-Net"]
+	path = code_repos/kanchen-usc/QRC-Net
+	url = https://github.com/kanchen-usc/QRC-Net
+[submodule "code_repos/renmengye/rec-attend-public"]
+	path = code_repos/renmengye/rec-attend-public
+	url = https://github.com/renmengye/rec-attend-public
+[submodule "code_repos/amitshaked/resmatch"]
+	path = code_repos/amitshaked/resmatch
+	url = https://github.com/amitshaked/resmatch
+[submodule "code_repos/shubhtuls/volumetricPrimitives"]
+	path = code_repos/shubhtuls/volumetricPrimitives
+	url = https://github.com/shubhtuls/volumetricPrimitives
+[submodule "code_repos/jachiam/cpo"]
+	path = code_repos/jachiam/cpo
+	url = https://github.com/jachiam/cpo
+[submodule "code_repos/fmonti/mgcnn"]
+	path = code_repos/fmonti/mgcnn
+	url = https://github.com/fmonti/mgcnn
+[submodule "code_repos/kiryor/nnPUlearning"]
+	path = code_repos/kiryor/nnPUlearning
+	url = https://github.com/kiryor/nnPUlearning
+[submodule "code_repos/VisionLearningGroup/caption-guided-saliency"]
+	path = code_repos/VisionLearningGroup/caption-guided-saliency
+	url = https://github.com/VisionLearningGroup/caption-guided-saliency
+[submodule "code_repos/wasidennis/DeepHarmonization"]
+	path = code_repos/wasidennis/DeepHarmonization
+	url = https://github.com/wasidennis/DeepHarmonization
+[submodule "code_repos/angeladai/cnncomplete"]
+	path = code_repos/angeladai/cnncomplete
+	url = https://github.com/angeladai/cnncomplete
+[submodule "code_repos/gsig/actions-for-actions"]
+	path = code_repos/gsig/actions-for-actions
+	url = https://github.com/gsig/actions-for-actions
+[submodule "code_repos/amir32002/feedback-networks"]
+	path = code_repos/amir32002/feedback-networks
+	url = https://github.com/amir32002/feedback-networks
+[submodule "code_repos/varunjampani/video_prop_networks"]
+	path = code_repos/varunjampani/video_prop_networks
+	url = https://github.com/varunjampani/video_prop_networks
+[submodule "code_repos/lluisgomez/TextTopicNet"]
+	path = code_repos/lluisgomez/TextTopicNet
+	url = https://github.com/lluisgomez/TextTopicNet
+[submodule "code_repos/hellbell/ADNet"]
+	path = code_repos/hellbell/ADNet
+	url = https://github.com/hellbell/ADNet
+[submodule "code_repos/mjiUST/SurfaceNet"]
+	path = code_repos/mjiUST/SurfaceNet
+	url = https://github.com/mjiUST/SurfaceNet
+[submodule "code_repos/art-programmer/FloorplanTransformation"]
+	path = code_repos/art-programmer/FloorplanTransformation
+	url = https://github.com/art-programmer/FloorplanTransformation
+[submodule "code_repos/anuragranj/spynet"]
+	path = code_repos/anuragranj/spynet
+	url = https://github.com/anuragranj/spynet
+[submodule "code_repos/jiyanggao/TURN-TAP"]
+	path = code_repos/jiyanggao/TURN-TAP
+	url = https://github.com/jiyanggao/TURN-TAP
+[submodule "code_repos/liuziwei7/region-conv"]
+	path = code_repos/liuziwei7/region-conv
+	url = https://github.com/liuziwei7/region-conv
+[submodule "code_repos/bremen79/cocob"]
+	path = code_repos/bremen79/cocob
+	url = https://github.com/bremen79/cocob
+[submodule "code_repos/ZYYSzj/Selective-Joint-Fine-tuning"]
+	path = code_repos/ZYYSzj/Selective-Joint-Fine-tuning
+	url = https://github.com/ZYYSzj/Selective-Joint-Fine-tuning
+[submodule "code_repos/shuangjiexu/Spatial-Temporal-Pooling-Networks-ReID"]
+	path = code_repos/shuangjiexu/Spatial-Temporal-Pooling-Networks-ReID
+	url = https://github.com/shuangjiexu/Spatial-Temporal-Pooling-Networks-ReID
+[submodule "code_repos/ChunyuanLI/ALICE"]
+	path = code_repos/ChunyuanLI/ALICE
+	url = https://github.com/ChunyuanLI/ALICE
+[submodule "code_repos/yindaz/pbrs"]
+	path = code_repos/yindaz/pbrs
+	url = https://github.com/yindaz/pbrs
+[submodule "code_repos/sciencefans/Quality-Aware-Network"]
+	path = code_repos/sciencefans/Quality-Aware-Network
+	url = https://github.com/sciencefans/Quality-Aware-Network
+[submodule "code_repos/liangzheng06/PRW-baseline"]
+	path = code_repos/liangzheng06/PRW-baseline
+	url = https://github.com/liangzheng06/PRW-baseline
+[submodule "code_repos/tolstikhin/adagan"]
+	path = code_repos/tolstikhin/adagan
+	url = https://github.com/tolstikhin/adagan
+[submodule "code_repos/ICL-SML/Doubly-Stochastic-DGP"]
+	path = code_repos/ICL-SML/Doubly-Stochastic-DGP
+	url = https://github.com/ICL-SML/Doubly-Stochastic-DGP
+[submodule "code_repos/chrisdonahue/ddc"]
+	path = code_repos/chrisdonahue/ddc
+	url = https://github.com/chrisdonahue/ddc
+[submodule "code_repos/markvdw/convgp"]
+	path = code_repos/markvdw/convgp
+	url = https://github.com/markvdw/convgp
+[submodule "code_repos/ronghanghu/cmn"]
+	path = code_repos/ronghanghu/cmn
+	url = https://github.com/ronghanghu/cmn
+[submodule "code_repos/csjunxu/MCWNNM-ICCV2017"]
+	path = code_repos/csjunxu/MCWNNM-ICCV2017
+	url = https://github.com/csjunxu/MCWNNM-ICCV2017
+[submodule "code_repos/panji1990/Deep-subspace-clustering-networks"]
+	path = code_repos/panji1990/Deep-subspace-clustering-networks
+	url = https://github.com/panji1990/Deep-subspace-clustering-networks
+[submodule "code_repos/lyttonhao/Factorized-Bilinear-Network"]
+	path = code_repos/lyttonhao/Factorized-Bilinear-Network
+	url = https://github.com/lyttonhao/Factorized-Bilinear-Network
+[submodule "code_repos/craffel/mad"]
+	path = code_repos/craffel/mad
+	url = https://github.com/craffel/mad
+[submodule "code_repos/facebookresearch/noise-as-targets"]
+	path = code_repos/facebookresearch/noise-as-targets
+	url = https://github.com/facebookresearch/noise-as-targets
+[submodule "code_repos/shaoxiaohu/Face_Alignment_Two_Stage_Re-initialization"]
+	path = code_repos/shaoxiaohu/Face_Alignment_Two_Stage_Re-initialization
+	url = https://github.com/shaoxiaohu/Face_Alignment_Two_Stage_Re-initialization
+[submodule "code_repos/Amir-Arsalan/Synthesize3DviaDepthOrSil"]
+	path = code_repos/Amir-Arsalan/Synthesize3DviaDepthOrSil
+	url = https://github.com/Amir-Arsalan/Synthesize3DviaDepthOrSil
+[submodule "code_repos/tshizys/CoupleNet"]
+	path = code_repos/tshizys/CoupleNet
+	url = https://github.com/tshizys/CoupleNet
+[submodule "code_repos/neulab/dynet-benchmark"]
+	path = code_repos/neulab/dynet-benchmark
+	url = https://github.com/neulab/dynet-benchmark
+[submodule "code_repos/YangZhang4065/AdaptationSeg"]
+	path = code_repos/YangZhang4065/AdaptationSeg
+	url = https://github.com/YangZhang4065/AdaptationSeg
+[submodule "code_repos/ranjaykrishna/densevid_eval"]
+	path = code_repos/ranjaykrishna/densevid_eval
+	url = https://github.com/ranjaykrishna/densevid_eval
+[submodule "code_repos/DNNToolBox/Net-Trim-v1"]
+	path = code_repos/DNNToolBox/Net-Trim-v1
+	url = https://github.com/DNNToolBox/Net-Trim-v1
+[submodule "code_repos/pathak22/noreward-rl"]
+	path = code_repos/pathak22/noreward-rl
+	url = https://github.com/pathak22/noreward-rl
+[submodule "code_repos/jhartford/DeepIV"]
+	path = code_repos/jhartford/DeepIV
+	url = https://github.com/jhartford/DeepIV
+[submodule "code_repos/shyamal-b/sst"]
+	path = code_repos/shyamal-b/sst
+	url = https://github.com/shyamal-b/sst
+[submodule "code_repos/weihua916/imsat"]
+	path = code_repos/weihua916/imsat
+	url = https://github.com/weihua916/imsat
+[submodule "code_repos/ShuangLI59/Person-Search-with-Natural-Language-Description"]
+	path = code_repos/ShuangLI59/Person-Search-with-Natural-Language-Description
+	url = https://github.com/ShuangLI59/Person-Search-with-Natural-Language-Description
+[submodule "code_repos/LiqunChen0606/Triangle-GAN"]
+	path = code_repos/LiqunChen0606/Triangle-GAN
+	url = https://github.com/LiqunChen0606/Triangle-GAN
+[submodule "code_repos/HMEIatJHU/neurawkes"]
+	path = code_repos/HMEIatJHU/neurawkes
+	url = https://github.com/HMEIatJHU/neurawkes
+[submodule "code_repos/fanyangxyz/Neural-LP"]
+	path = code_repos/fanyangxyz/Neural-LP
+	url = https://github.com/fanyangxyz/Neural-LP
+[submodule "code_repos/doubledaibo/gancaption_iccv2017"]
+	path = code_repos/doubledaibo/gancaption_iccv2017
+	url = https://github.com/doubledaibo/gancaption_iccv2017
+[submodule "code_repos/facebookresearch/SegmPred"]
+	path = code_repos/facebookresearch/SegmPred
+	url = https://github.com/facebookresearch/SegmPred
+[submodule "code_repos/yuruntian/L2-Net"]
+	path = code_repos/yuruntian/L2-Net
+	url = https://github.com/yuruntian/L2-Net
+[submodule "code_repos/sjoerdvansteenkiste/Neural-EM"]
+	path = code_repos/sjoerdvansteenkiste/Neural-EM
+	url = https://github.com/sjoerdvansteenkiste/Neural-EM
+[submodule "code_repos/raghudeep/netwarp_public"]
+	path = code_repos/raghudeep/netwarp_public
+	url = https://github.com/raghudeep/netwarp_public
+[submodule "code_repos/cgtuebingen/learning-blind-motion-deblurring"]
+	path = code_repos/cgtuebingen/learning-blind-motion-deblurring
+	url = https://github.com/cgtuebingen/learning-blind-motion-deblurring
+[submodule "code_repos/ahmetius/diffusion-retrieval"]
+	path = code_repos/ahmetius/diffusion-retrieval
+	url = https://github.com/ahmetius/diffusion-retrieval
+[submodule "code_repos/LisaAnne/LocalizingMoments"]
+	path = code_repos/LisaAnne/LocalizingMoments
+	url = https://github.com/LisaAnne/LocalizingMoments
+[submodule "code_repos/mkusner/grammarVAE"]
+	path = code_repos/mkusner/grammarVAE
+	url = https://github.com/mkusner/grammarVAE
+[submodule "code_repos/Maluuba/hra"]
+	path = code_repos/Maluuba/hra
+	url = https://github.com/Maluuba/hra
+[submodule "code_repos/wengong-jin/nips17-rexgen"]
+	path = code_repos/wengong-jin/nips17-rexgen
+	url = https://github.com/wengong-jin/nips17-rexgen
+[submodule "code_repos/GuessWhatGame/guesswhat"]
+	path = code_repos/GuessWhatGame/guesswhat
+	url = https://github.com/GuessWhatGame/guesswhat
+[submodule "code_repos/zawlin/cvpr17_vtranse"]
+	path = code_repos/zawlin/cvpr17_vtranse
+	url = https://github.com/zawlin/cvpr17_vtranse
+[submodule "code_repos/necludov/group-sparsity-sbp"]
+	path = code_repos/necludov/group-sparsity-sbp
+	url = https://github.com/necludov/group-sparsity-sbp
+[submodule "code_repos/simonkamronn/kvae"]
+	path = code_repos/simonkamronn/kvae
+	url = https://github.com/simonkamronn/kvae
+[submodule "code_repos/cihangxie/DAG"]
+	path = code_repos/cihangxie/DAG
+	url = https://github.com/cihangxie/DAG
+[submodule "code_repos/ricedsp/D-AMP_Toolbox"]
+	path = code_repos/ricedsp/D-AMP_Toolbox
+	url = https://github.com/ricedsp/D-AMP_Toolbox
+[submodule "code_repos/IntelVCL/dcflow"]
+	path = code_repos/IntelVCL/dcflow
+	url = https://github.com/IntelVCL/dcflow
+[submodule "code_repos/zhegan27/Semantic_Compositional_Nets"]
+	path = code_repos/zhegan27/Semantic_Compositional_Nets
+	url = https://github.com/zhegan27/Semantic_Compositional_Nets
+[submodule "code_repos/taolei87/icml17_knn"]
+	path = code_repos/taolei87/icml17_knn
+	url = https://github.com/taolei87/icml17_knn
+[submodule "code_repos/cvjena/alpha_pooling"]
+	path = code_repos/cvjena/alpha_pooling
+	url = https://github.com/cvjena/alpha_pooling
+[submodule "code_repos/ahojnnes/local-feature-evaluation"]
+	path = code_repos/ahojnnes/local-feature-evaluation
+	url = https://github.com/ahojnnes/local-feature-evaluation
+[submodule "code_repos/jiajunwu/nsd"]
+	path = code_repos/jiajunwu/nsd
+	url = https://github.com/jiajunwu/nsd
+[submodule "code_repos/rothk/Stabilizing_GANs"]
+	path = code_repos/rothk/Stabilizing_GANs
+	url = https://github.com/rothk/Stabilizing_GANs
+[submodule "code_repos/wittawatj/kernel-gof"]
+	path = code_repos/wittawatj/kernel-gof
+	url = https://github.com/wittawatj/kernel-gof
+[submodule "code_repos/CVLAB-Unibo/Unsupervised-Adaptation-for-Deep-Stereo"]
+	path = code_repos/CVLAB-Unibo/Unsupervised-Adaptation-for-Deep-Stereo
+	url = https://github.com/CVLAB-Unibo/Unsupervised-Adaptation-for-Deep-Stereo
+[submodule "code_repos/rhgao/on-demand-learning"]
+	path = code_repos/rhgao/on-demand-learning
+	url = https://github.com/rhgao/on-demand-learning
+[submodule "code_repos/hhb072/WaveletSRNet"]
+	path = code_repos/hhb072/WaveletSRNet
+	url = https://github.com/hhb072/WaveletSRNet
+[submodule "code_repos/atomistic-machine-learning/SchNet"]
+	path = code_repos/atomistic-machine-learning/SchNet
+	url = https://github.com/atomistic-machine-learning/SchNet
+[submodule "code_repos/AMLab-Amsterdam/MNF_VBNN"]
+	path = code_repos/AMLab-Amsterdam/MNF_VBNN
+	url = https://github.com/AMLab-Amsterdam/MNF_VBNN
+[submodule "code_repos/Yijunmaverick/MultiTextureSynthesis"]
+	path = code_repos/Yijunmaverick/MultiTextureSynthesis
+	url = https://github.com/Yijunmaverick/MultiTextureSynthesis
+[submodule "code_repos/gpapamak/maf"]
+	path = code_repos/gpapamak/maf
+	url = https://github.com/gpapamak/maf
+[submodule "code_repos/fqnchina/CEILNet"]
+	path = code_repos/fqnchina/CEILNet
+	url = https://github.com/fqnchina/CEILNet
+[submodule "code_repos/jiyanggao/TALL"]
+	path = code_repos/jiyanggao/TALL
+	url = https://github.com/jiyanggao/TALL
+[submodule "code_repos/google/ffcc"]
+	path = code_repos/google/ffcc
+	url = https://github.com/google/ffcc
+[submodule "code_repos/trigeorgis/face_normals_cvpr17"]
+	path = code_repos/trigeorgis/face_normals_cvpr17
+	url = https://github.com/trigeorgis/face_normals_cvpr17
+[submodule "code_repos/sidgan/whats_in_a_question"]
+	path = code_repos/sidgan/whats_in_a_question
+	url = https://github.com/sidgan/whats_in_a_question
+[submodule "code_repos/yuanming-hu/fc4"]
+	path = code_repos/yuanming-hu/fc4
+	url = https://github.com/yuanming-hu/fc4
+[submodule "code_repos/mariru/structured_embeddings"]
+	path = code_repos/mariru/structured_embeddings
+	url = https://github.com/mariru/structured_embeddings
+[submodule "code_repos/pfnet-research/tgan"]
+	path = code_repos/pfnet-research/tgan
+	url = https://github.com/pfnet-research/tgan
+[submodule "code_repos/roimehrez/DDIS"]
+	path = code_repos/roimehrez/DDIS
+	url = https://github.com/roimehrez/DDIS
+[submodule "code_repos/rubenvillegas/icml2017hierchvid"]
+	path = code_repos/rubenvillegas/icml2017hierchvid
+	url = https://github.com/rubenvillegas/icml2017hierchvid
+[submodule "code_repos/PiotrDabkowski/pytorch-saliency"]
+	path = code_repos/PiotrDabkowski/pytorch-saliency
+	url = https://github.com/PiotrDabkowski/pytorch-saliency
+[submodule "code_repos/RankingCNN/Using-Ranking-CNN-for-Age-Estimation"]
+	path = code_repos/RankingCNN/Using-Ranking-CNN-for-Age-Estimation
+	url = https://github.com/RankingCNN/Using-Ranking-CNN-for-Age-Estimation
+[submodule "code_repos/msmsajjadi/EnhanceNet-Code"]
+	path = code_repos/msmsajjadi/EnhanceNet-Code
+	url = https://github.com/msmsajjadi/EnhanceNet-Code
+[submodule "code_repos/shtechair/vqa-sva"]
+	path = code_repos/shtechair/vqa-sva
+	url = https://github.com/shtechair/vqa-sva
+[submodule "code_repos/ChengBinJin/semantic-image-inpainting"]
+	path = code_repos/ChengBinJin/semantic-image-inpainting
+	url = https://github.com/ChengBinJin/semantic-image-inpainting
+[submodule "code_repos/befelix/safe_learning"]
+	path = code_repos/befelix/safe_learning
+	url = https://github.com/befelix/safe_learning
+[submodule "code_repos/samotiian/CCSA"]
+	path = code_repos/samotiian/CCSA
+	url = https://github.com/samotiian/CCSA
+[submodule "code_repos/azadis/LDDP"]
+	path = code_repos/azadis/LDDP
+	url = https://github.com/azadis/LDDP
+[submodule "code_repos/ksenia-konyushkova/LAL"]
+	path = code_repos/ksenia-konyushkova/LAL
+	url = https://github.com/ksenia-konyushkova/LAL
+[submodule "code_repos/AdaCompNUS/qmdp-net"]
+	path = code_repos/AdaCompNUS/qmdp-net
+	url = https://github.com/AdaCompNUS/qmdp-net
+[submodule "code_repos/zouchuhang/3D-PRNN"]
+	path = code_repos/zouchuhang/3D-PRNN
+	url = https://github.com/zouchuhang/3D-PRNN
+[submodule "code_repos/dalgu90/splitnet-wrn"]
+	path = code_repos/dalgu90/splitnet-wrn
+	url = https://github.com/dalgu90/splitnet-wrn
+[submodule "code_repos/rakshithShetty/captionGAN"]
+	path = code_repos/rakshithShetty/captionGAN
+	url = https://github.com/rakshithShetty/captionGAN
+[submodule "code_repos/silverbottlep/tvsn"]
+	path = code_repos/silverbottlep/tvsn
+	url = https://github.com/silverbottlep/tvsn
+[submodule "code_repos/edenton/drnet-py"]
+	path = code_repos/edenton/drnet-py
+	url = https://github.com/edenton/drnet-py
+[submodule "code_repos/LucaAmbrogioni/GP-CaKe-project"]
+	path = code_repos/LucaAmbrogioni/GP-CaKe-project
+	url = https://github.com/LucaAmbrogioni/GP-CaKe-project
+[submodule "code_repos/gilbaz/LORAX"]
+	path = code_repos/gilbaz/LORAX
+	url = https://github.com/gilbaz/LORAX
+[submodule "code_repos/ganguli-lab/pathint"]
+	path = code_repos/ganguli-lab/pathint
+	url = https://github.com/ganguli-lab/pathint
+[submodule "code_repos/zzhiwu/LieNet"]
+	path = code_repos/zzhiwu/LieNet
+	url = https://github.com/zzhiwu/LieNet
+[submodule "code_repos/zzangjinsun/DHDE_CVPR17"]
+	path = code_repos/zzangjinsun/DHDE_CVPR17
+	url = https://github.com/zzangjinsun/DHDE_CVPR17
+[submodule "code_repos/hessamb/lcnn"]
+	path = code_repos/hessamb/lcnn
+	url = https://github.com/hessamb/lcnn
+[submodule "code_repos/geopavlakos/harvesting"]
+	path = code_repos/geopavlakos/harvesting
+	url = https://github.com/geopavlakos/harvesting
+[submodule "code_repos/eborboihuc/Deep360Pilot-CVPR17"]
+	path = code_repos/eborboihuc/Deep360Pilot-CVPR17
+	url = https://github.com/eborboihuc/Deep360Pilot-CVPR17
+[submodule "code_repos/scott89/WSS"]
+	path = code_repos/scott89/WSS
+	url = https://github.com/scott89/WSS
+[submodule "code_repos/shamangary/DeepCD"]
+	path = code_repos/shamangary/DeepCD
+	url = https://github.com/shamangary/DeepCD
+[submodule "code_repos/csyhhu/L-OBS"]
+	path = code_repos/csyhhu/L-OBS
+	url = https://github.com/csyhhu/L-OBS
+[submodule "code_repos/hhkunming/State-Frequency-Memory-Recurrent-Neural-Networks"]
+	path = code_repos/hhkunming/State-Frequency-Memory-Recurrent-Neural-Networks
+	url = https://github.com/hhkunming/State-Frequency-Memory-Recurrent-Neural-Networks
+[submodule "code_repos/yafangshih/Deep-COOC"]
+	path = code_repos/yafangshih/Deep-COOC
+	url = https://github.com/yafangshih/Deep-COOC
+[submodule "code_repos/brain-research/mpnn"]
+	path = code_repos/brain-research/mpnn
+	url = https://github.com/brain-research/mpnn
+[submodule "code_repos/albietz/stochs"]
+	path = code_repos/albietz/stochs
+	url = https://github.com/albietz/stochs
+[submodule "code_repos/rflamary/JDOT"]
+	path = code_repos/rflamary/JDOT
+	url = https://github.com/rflamary/JDOT
+[submodule "code_repos/ColumbiaDVMM/Spread-out_Local_Feature_Descriptor"]
+	path = code_repos/ColumbiaDVMM/Spread-out_Local_Feature_Descriptor
+	url = https://github.com/ColumbiaDVMM/Spread-out_Local_Feature_Descriptor
+[submodule "code_repos/val-iisc/fast-feature-fool"]
+	path = code_repos/val-iisc/fast-feature-fool
+	url = https://github.com/val-iisc/fast-feature-fool
+[submodule "code_repos/andymiller/ReducedVarianceReparamGradients"]
+	path = code_repos/andymiller/ReducedVarianceReparamGradients
+	url = https://github.com/andymiller/ReducedVarianceReparamGradients
+[submodule "code_repos/kovibalu/saw_release"]
+	path = code_repos/kovibalu/saw_release
+	url = https://github.com/kovibalu/saw_release
+[submodule "code_repos/paninski-lab/yass"]
+	path = code_repos/paninski-lab/yass
+	url = https://github.com/paninski-lab/yass
+[submodule "code_repos/vdavid70619/TCN"]
+	path = code_repos/vdavid70619/TCN
+	url = https://github.com/vdavid70619/TCN
+[submodule "code_repos/jacenfox/ldr2hdr-public"]
+	path = code_repos/jacenfox/ldr2hdr-public
+	url = https://github.com/jacenfox/ldr2hdr-public
+[submodule "code_repos/doubledaibo/clcaption_nips2017"]
+	path = code_repos/doubledaibo/clcaption_nips2017
+	url = https://github.com/doubledaibo/clcaption_nips2017
+[submodule "code_repos/HongtengXu/Hawkes-Process-Toolkit"]
+	path = code_repos/HongtengXu/Hawkes-Process-Toolkit
+	url = https://github.com/HongtengXu/Hawkes-Process-Toolkit
+[submodule "code_repos/BryanPlummer/pl-clc"]
+	path = code_repos/BryanPlummer/pl-clc
+	url = https://github.com/BryanPlummer/pl-clc
+[submodule "code_repos/menorashid/animal_human_kp"]
+	path = code_repos/menorashid/animal_human_kp
+	url = https://github.com/menorashid/animal_human_kp
+[submodule "code_repos/mmasana/DALR"]
+	path = code_repos/mmasana/DALR
+	url = https://github.com/mmasana/DALR
+[submodule "code_repos/anirudh9119/walkback_nips17"]
+	path = code_repos/anirudh9119/walkback_nips17
+	url = https://github.com/anirudh9119/walkback_nips17
+[submodule "code_repos/coallaoh/GuidedLabelling"]
+	path = code_repos/coallaoh/GuidedLabelling
+	url = https://github.com/coallaoh/GuidedLabelling
+[submodule "code_repos/dsv77/hashembedding"]
+	path = code_repos/dsv77/hashembedding
+	url = https://github.com/dsv77/hashembedding
+[submodule "code_repos/torrvision/straighttoshapes"]
+	path = code_repos/torrvision/straighttoshapes
+	url = https://github.com/torrvision/straighttoshapes
+[submodule "code_repos/mast-group/eqnet"]
+	path = code_repos/mast-group/eqnet
+	url = https://github.com/mast-group/eqnet
+[submodule "code_repos/jpeyre/unrel"]
+	path = code_repos/jpeyre/unrel
+	url = https://github.com/jpeyre/unrel
+[submodule "code_repos/LMescheder/TheNumericsOfGANs"]
+	path = code_repos/LMescheder/TheNumericsOfGANs
+	url = https://github.com/LMescheder/TheNumericsOfGANs
+[submodule "code_repos/linjieyangsc/densecap"]
+	path = code_repos/linjieyangsc/densecap
+	url = https://github.com/linjieyangsc/densecap
+[submodule "code_repos/SSAW14/STD2P"]
+	path = code_repos/SSAW14/STD2P
+	url = https://github.com/SSAW14/STD2P
+[submodule "code_repos/siavashBigdeli/DMSP"]
+	path = code_repos/siavashBigdeli/DMSP
+	url = https://github.com/siavashBigdeli/DMSP
+[submodule "code_repos/kshmelkov/incremental_detectors"]
+	path = code_repos/kshmelkov/incremental_detectors
+	url = https://github.com/kshmelkov/incremental_detectors
+[submodule "code_repos/poppinace/TAISL"]
+	path = code_repos/poppinace/TAISL
+	url = https://github.com/poppinace/TAISL
+[submodule "code_repos/daniilidis-group/event_feature_tracking"]
+	path = code_repos/daniilidis-group/event_feature_tracking
+	url = https://github.com/daniilidis-group/event_feature_tracking
+[submodule "code_repos/layer6ai-labs/DropoutNet"]
+	path = code_repos/layer6ai-labs/DropoutNet
+	url = https://github.com/layer6ai-labs/DropoutNet
+[submodule "code_repos/glouppe/paper-learning-to-pivot"]
+	path = code_repos/glouppe/paper-learning-to-pivot
+	url = https://github.com/glouppe/paper-learning-to-pivot
+[submodule "code_repos/Heliot7/open-set-da"]
+	path = code_repos/Heliot7/open-set-da
+	url = https://github.com/Heliot7/open-set-da
+[submodule "code_repos/Seleucia/lstmkf_ICCV2017"]
+	path = code_repos/Seleucia/lstmkf_ICCV2017
+	url = https://github.com/Seleucia/lstmkf_ICCV2017
+[submodule "code_repos/tund/D2GAN"]
+	path = code_repos/tund/D2GAN
+	url = https://github.com/tund/D2GAN
+[submodule "code_repos/jaehong-yoon93/CGES"]
+	path = code_repos/jaehong-yoon93/CGES
+	url = https://github.com/jaehong-yoon93/CGES
+[submodule "code_repos/doubling/Stochastic_Generative_Hashing"]
+	path = code_repos/doubling/Stochastic_Generative_Hashing
+	url = https://github.com/doubling/Stochastic_Generative_Hashing
+[submodule "code_repos/blei-lab/context-selection-embedding"]
+	path = code_repos/blei-lab/context-selection-embedding
+	url = https://github.com/blei-lab/context-selection-embedding
+[submodule "code_repos/tsingqguo/DSiam"]
+	path = code_repos/tsingqguo/DSiam
+	url = https://github.com/tsingqguo/DSiam
+[submodule "code_repos/thudzj/StructuredGAN"]
+	path = code_repos/thudzj/StructuredGAN
+	url = https://github.com/thudzj/StructuredGAN
+[submodule "code_repos/kaidlc/CVPR2017_linedrawings"]
+	path = code_repos/kaidlc/CVPR2017_linedrawings
+	url = https://github.com/kaidlc/CVPR2017_linedrawings
+[submodule "code_repos/feiyu1990/Skeleton-key"]
+	path = code_repos/feiyu1990/Skeleton-key
+	url = https://github.com/feiyu1990/Skeleton-key
+[submodule "code_repos/ustc-vim/dualnet"]
+	path = code_repos/ustc-vim/dualnet
+	url = https://github.com/ustc-vim/dualnet
+[submodule "code_repos/toantm/keras-bda"]
+	path = code_repos/toantm/keras-bda
+	url = https://github.com/toantm/keras-bda
+[submodule "code_repos/marckhoury/CGF"]
+	path = code_repos/marckhoury/CGF
+	url = https://github.com/marckhoury/CGF
+[submodule "code_repos/hfslyc/GCPNet"]
+	path = code_repos/hfslyc/GCPNet
+	url = https://github.com/hfslyc/GCPNet
+[submodule "code_repos/achalddave/predictive-corrective"]
+	path = code_repos/achalddave/predictive-corrective
+	url = https://github.com/achalddave/predictive-corrective
+[submodule "code_repos/Singularity42/cap2vid"]
+	path = code_repos/Singularity42/cap2vid
+	url = https://github.com/Singularity42/cap2vid
+[submodule "code_repos/wgao9/mixed_KSG"]
+	path = code_repos/wgao9/mixed_KSG
+	url = https://github.com/wgao9/mixed_KSG
+[submodule "code_repos/david-klindt/NIPS2017"]
+	path = code_repos/david-klindt/NIPS2017
+	url = https://github.com/david-klindt/NIPS2017
+[submodule "code_repos/Mengmi/deepfuturegaze_gan"]
+	path = code_repos/Mengmi/deepfuturegaze_gan
+	url = https://github.com/Mengmi/deepfuturegaze_gan
+[submodule "code_repos/uschmidt83/fourier-deconvolution-network"]
+	path = code_repos/uschmidt83/fourier-deconvolution-network
+	url = https://github.com/uschmidt83/fourier-deconvolution-network
+[submodule "code_repos/steven7woo/Accuracy-First-Differential-Privacy"]
+	path = code_repos/steven7woo/Accuracy-First-Differential-Privacy
+	url = https://github.com/steven7woo/Accuracy-First-Differential-Privacy
+[submodule "code_repos/zizhaozhang/mdnet-cvpr2017"]
+	path = code_repos/zizhaozhang/mdnet-cvpr2017
+	url = https://github.com/zizhaozhang/mdnet-cvpr2017
+[submodule "code_repos/LCSL/FALKON_paper"]
+	path = code_repos/LCSL/FALKON_paper
+	url = https://github.com/LCSL/FALKON_paper
+[submodule "code_repos/ermongroup/infogail"]
+	path = code_repos/ermongroup/infogail
+	url = https://github.com/ermongroup/infogail
+[submodule "code_repos/blei-lab/zero-inflated-embedding"]
+	path = code_repos/blei-lab/zero-inflated-embedding
+	url = https://github.com/blei-lab/zero-inflated-embedding
+[submodule "code_repos/asanakoy/deep_unsupervised_posets"]
+	path = code_repos/asanakoy/deep_unsupervised_posets
+	url = https://github.com/asanakoy/deep_unsupervised_posets
+[submodule "code_repos/gdubrg/POSEidon-Biwi"]
+	path = code_repos/gdubrg/POSEidon-Biwi
+	url = https://github.com/gdubrg/POSEidon-Biwi
+[submodule "code_repos/junyanz/CycleGAN"]
+	path = code_repos/junyanz/CycleGAN
+	url = https://github.com/junyanz/CycleGAN
+[submodule "code_repos/mop/bier"]
+	path = code_repos/mop/bier
+	url = https://github.com/mop/bier
+[submodule "code_repos/alinionutpopa/dmhs"]
+	path = code_repos/alinionutpopa/dmhs
+	url = https://github.com/alinionutpopa/dmhs
+[submodule "code_repos/shenwei1231/caffe-LDLForests"]
+	path = code_repos/shenwei1231/caffe-LDLForests
+	url = https://github.com/shenwei1231/caffe-LDLForests
+[submodule "code_repos/mzolfaghari/chained-multistream-networks"]
+	path = code_repos/mzolfaghari/chained-multistream-networks
+	url = https://github.com/mzolfaghari/chained-multistream-networks
+[submodule "code_repos/sammy-su/Spherical-Convolution"]
+	path = code_repos/sammy-su/Spherical-Convolution
+	url = https://github.com/sammy-su/Spherical-Convolution
+[submodule "code_repos/c-hofer/nips2017"]
+	path = code_repos/c-hofer/nips2017
+	url = https://github.com/c-hofer/nips2017
+[submodule "code_repos/Shallow-Updates-for-Deep-RL/Shallow_Updates_for_Deep_RL"]
+	path = code_repos/Shallow-Updates-for-Deep-RL/Shallow_Updates_for_Deep_RL
+	url = https://github.com/Shallow-Updates-for-Deep-RL/Shallow_Updates_for_Deep_RL
+[submodule "code_repos/ivaleraM/DataTypes"]
+	path = code_repos/ivaleraM/DataTypes
+	url = https://github.com/ivaleraM/DataTypes
+[submodule "code_repos/eleniTriantafillou/few_shot_mAP_public"]
+	path = code_repos/eleniTriantafillou/few_shot_mAP_public
+	url = https://github.com/eleniTriantafillou/few_shot_mAP_public
+[submodule "code_repos/DengPingFan/S-measure"]
+	path = code_repos/DengPingFan/S-measure
+	url = https://github.com/DengPingFan/S-measure
+[submodule "code_repos/tum-vision/learn_prox_ops"]
+	path = code_repos/tum-vision/learn_prox_ops
+	url = https://github.com/tum-vision/learn_prox_ops
+[submodule "code_repos/eelenberg/streak"]
+	path = code_repos/eelenberg/streak
+	url = https://github.com/eelenberg/streak
+[submodule "code_repos/gingsmith/fmtl"]
+	path = code_repos/gingsmith/fmtl
+	url = https://github.com/gingsmith/fmtl
+[submodule "code_repos/luyongxi/deep_share"]
+	path = code_repos/luyongxi/deep_share
+	url = https://github.com/luyongxi/deep_share
+[submodule "code_repos/adith387/slates_semisynth_expts"]
+	path = code_repos/adith387/slates_semisynth_expts
+	url = https://github.com/adith387/slates_semisynth_expts
+[submodule "code_repos/isalirezag/HiFST"]
+	path = code_repos/isalirezag/HiFST
+	url = https://github.com/isalirezag/HiFST
+[submodule "code_repos/deepfold/NIPS2017"]
+	path = code_repos/deepfold/NIPS2017
+	url = https://github.com/deepfold/NIPS2017
+[submodule "code_repos/eracah/hur-detect"]
+	path = code_repos/eracah/hur-detect
+	url = https://github.com/eracah/hur-detect
+[submodule "code_repos/misokg/NIPS2017"]
+	path = code_repos/misokg/NIPS2017
+	url = https://github.com/misokg/NIPS2017
+[submodule "code_repos/vsubhashini/noc"]
+	path = code_repos/vsubhashini/noc
+	url = https://github.com/vsubhashini/noc
+[submodule "code_repos/ykztawas/Weakly-Supervised-Affordance-Detection"]
+	path = code_repos/ykztawas/Weakly-Supervised-Affordance-Detection
+	url = https://github.com/ykztawas/Weakly-Supervised-Affordance-Detection
+[submodule "code_repos/MudeLin/RPSM"]
+	path = code_repos/MudeLin/RPSM
+	url = https://github.com/MudeLin/RPSM
+[submodule "code_repos/Cold-Winter/vqs"]
+	path = code_repos/Cold-Winter/vqs
+	url = https://github.com/Cold-Winter/vqs
+[submodule "code_repos/eaplatanios/makina"]
+	path = code_repos/eaplatanios/makina
+	url = https://github.com/eaplatanios/makina
+[submodule "code_repos/hoangminhle/MultiAgent-ImitationLearning"]
+	path = code_repos/hoangminhle/MultiAgent-ImitationLearning
+	url = https://github.com/hoangminhle/MultiAgent-ImitationLearning
+[submodule "code_repos/thangbui/streaming_sparse_gp"]
+	path = code_repos/thangbui/streaming_sparse_gp
+	url = https://github.com/thangbui/streaming_sparse_gp
+[submodule "code_repos/zhangyuc/CCNN"]
+	path = code_repos/zhangyuc/CCNN
+	url = https://github.com/zhangyuc/CCNN
+[submodule "code_repos/leehomyc/ICCV-2017-Paper"]
+	path = code_repos/leehomyc/ICCV-2017-Paper
+	url = https://github.com/leehomyc/ICCV-2017-Paper
+[submodule "code_repos/vermaMachineLearning/FGSD"]
+	path = code_repos/vermaMachineLearning/FGSD
+	url = https://github.com/vermaMachineLearning/FGSD
+[submodule "code_repos/zhixinshu/NeuralFaceEditing"]
+	path = code_repos/zhixinshu/NeuralFaceEditing
+	url = https://github.com/zhixinshu/NeuralFaceEditing
+[submodule "code_repos/jiangqy/DCMH-CVPR2017"]
+	path = code_repos/jiangqy/DCMH-CVPR2017
+	url = https://github.com/jiangqy/DCMH-CVPR2017
+[submodule "code_repos/johnjohnlin/UMI"]
+	path = code_repos/johnjohnlin/UMI
+	url = https://github.com/johnjohnlin/UMI
+[submodule "code_repos/williamyang1991/Text-Effects-Transfer"]
+	path = code_repos/williamyang1991/Text-Effects-Transfer
+	url = https://github.com/williamyang1991/Text-Effects-Transfer
+[submodule "code_repos/buttomnutstoast/Multigrid-Neural-Architectures"]
+	path = code_repos/buttomnutstoast/Multigrid-Neural-Architectures
+	url = https://github.com/buttomnutstoast/Multigrid-Neural-Architectures
+[submodule "code_repos/berkandemirel/attributes2classname"]
+	path = code_repos/berkandemirel/attributes2classname
+	url = https://github.com/berkandemirel/attributes2classname
+[submodule "code_repos/liqi-casia/DSDH-HashingCode"]
+	path = code_repos/liqi-casia/DSDH-HashingCode
+	url = https://github.com/liqi-casia/DSDH-HashingCode
+[submodule "code_repos/vccimaging/CCSC_code_ICCV2017"]
+	path = code_repos/vccimaging/CCSC_code_ICCV2017
+	url = https://github.com/vccimaging/CCSC_code_ICCV2017
+[submodule "code_repos/JinseokNam/mlc2seq"]
+	path = code_repos/JinseokNam/mlc2seq
+	url = https://github.com/JinseokNam/mlc2seq
+[submodule "code_repos/venkai/RBDN"]
+	path = code_repos/venkai/RBDN
+	url = https://github.com/venkai/RBDN
+[submodule "code_repos/Microsoft/Delayed-Compensation-Asynchronous-Stochastic-Gradient-Descent-for-Multiverso"]
+	path = code_repos/Microsoft/Delayed-Compensation-Asynchronous-Stochastic-Gradient-Descent-for-Multiverso
+	url = https://github.com/Microsoft/Delayed-Compensation-Asynchronous-Stochastic-Gradient-Descent-for-Multiverso
+[submodule "code_repos/donggong1/motion-flow-syn"]
+	path = code_repos/donggong1/motion-flow-syn
+	url = https://github.com/donggong1/motion-flow-syn
+[submodule "code_repos/cmdowney/psrnn"]
+	path = code_repos/cmdowney/psrnn
+	url = https://github.com/cmdowney/psrnn
+[submodule "code_repos/aditya12agd5/divcolor"]
+	path = code_repos/aditya12agd5/divcolor
+	url = https://github.com/aditya12agd5/divcolor
+[submodule "code_repos/yuchuochuo1023/Deep_SBIR_tf"]
+	path = code_repos/yuchuochuo1023/Deep_SBIR_tf
+	url = https://github.com/yuchuochuo1023/Deep_SBIR_tf
+[submodule "code_repos/jiaxue1993/DAIN"]
+	path = code_repos/jiaxue1993/DAIN
+	url = https://github.com/jiaxue1993/DAIN
+[submodule "code_repos/gpleiss/equalized_odds_and_calibration"]
+	path = code_repos/gpleiss/equalized_odds_and_calibration
+	url = https://github.com/gpleiss/equalized_odds_and_calibration
+[submodule "code_repos/pratulsrinivasan/Light_Field_Blind_Motion_Deblurring"]
+	path = code_repos/pratulsrinivasan/Light_Field_Blind_Motion_Deblurring
+	url = https://github.com/pratulsrinivasan/Light_Field_Blind_Motion_Deblurring
+[submodule "code_repos/vkalogeiton/joint-object-action-learning"]
+	path = code_repos/vkalogeiton/joint-object-action-learning
+	url = https://github.com/vkalogeiton/joint-object-action-learning
+[submodule "code_repos/ustc-vim/vegfru"]
+	path = code_repos/ustc-vim/vegfru
+	url = https://github.com/ustc-vim/vegfru
+[submodule "code_repos/coallaoh/AIP"]
+	path = code_repos/coallaoh/AIP
+	url = https://github.com/coallaoh/AIP
+[submodule "code_repos/hyojinie/crn"]
+	path = code_repos/hyojinie/crn
+	url = https://github.com/hyojinie/crn
+[submodule "code_repos/kd383/GPML_SLD"]
+	path = code_repos/kd383/GPML_SLD
+	url = https://github.com/kd383/GPML_SLD
+[submodule "code_repos/QData/AttentiveChrome"]
+	path = code_repos/QData/AttentiveChrome
+	url = https://github.com/QData/AttentiveChrome
+[submodule "code_repos/qulizhen/fgan_info_geometric"]
+	path = code_repos/qulizhen/fgan_info_geometric
+	url = https://github.com/qulizhen/fgan_info_geometric
+[submodule "code_repos/danxuhk/CMT-CNN"]
+	path = code_repos/danxuhk/CMT-CNN
+	url = https://github.com/danxuhk/CMT-CNN
+[submodule "code_repos/idansc/HighOrderAtten"]
+	path = code_repos/idansc/HighOrderAtten
+	url = https://github.com/idansc/HighOrderAtten
+[submodule "code_repos/XMU-smartdsp/Removing_Rain"]
+	path = code_repos/XMU-smartdsp/Removing_Rain
+	url = https://github.com/XMU-smartdsp/Removing_Rain
+[submodule "code_repos/fabianp/ProxASAGA"]
+	path = code_repos/fabianp/ProxASAGA
+	url = https://github.com/fabianp/ProxASAGA
+[submodule "code_repos/talwagner/quadsketch"]
+	path = code_repos/talwagner/quadsketch
+	url = https://github.com/talwagner/quadsketch
+[submodule "code_repos/jongwon20000/ACFN"]
+	path = code_repos/jongwon20000/ACFN
+	url = https://github.com/jongwon20000/ACFN
+[submodule "code_repos/umich-vl/surface_normals"]
+	path = code_repos/umich-vl/surface_normals
+	url = https://github.com/umich-vl/surface_normals
+[submodule "code_repos/tomsercu/FisherGAN"]
+	path = code_repos/tomsercu/FisherGAN
+	url = https://github.com/tomsercu/FisherGAN
+[submodule "code_repos/CBMM/eccentricity"]
+	path = code_repos/CBMM/eccentricity
+	url = https://github.com/CBMM/eccentricity
+[submodule "code_repos/chhwang/cmcl"]
+	path = code_repos/chhwang/cmcl
+	url = https://github.com/chhwang/cmcl
+[submodule "code_repos/cssjcai/hihca"]
+	path = code_repos/cssjcai/hihca
+	url = https://github.com/cssjcai/hihca
+[submodule "code_repos/locuslab/gradient_regularized_gan"]
+	path = code_repos/locuslab/gradient_regularized_gan
+	url = https://github.com/locuslab/gradient_regularized_gan
+[submodule "code_repos/SiyuanQi/grammar-activity-prediction"]
+	path = code_repos/SiyuanQi/grammar-activity-prediction
+	url = https://github.com/SiyuanQi/grammar-activity-prediction
+[submodule "code_repos/zi-w/Max-value-Entropy-Search"]
+	path = code_repos/zi-w/Max-value-Entropy-Search
+	url = https://github.com/zi-w/Max-value-Entropy-Search
+[submodule "code_repos/pmorerio/curriculum-dropout"]
+	path = code_repos/pmorerio/curriculum-dropout
+	url = https://github.com/pmorerio/curriculum-dropout
+[submodule "code_repos/max-andr/cross-lipschitz"]
+	path = code_repos/max-andr/cross-lipschitz
+	url = https://github.com/max-andr/cross-lipschitz
+[submodule "code_repos/samarth-robo/deepnav_cvpr17"]
+	path = code_repos/samarth-robo/deepnav_cvpr17
+	url = https://github.com/samarth-robo/deepnav_cvpr17
+[submodule "code_repos/MahsaDerakhshan/AffinityClustering"]
+	path = code_repos/MahsaDerakhshan/AffinityClustering
+	url = https://github.com/MahsaDerakhshan/AffinityClustering
+[submodule "code_repos/yqueau/robust_ps"]
+	path = code_repos/yqueau/robust_ps
+	url = https://github.com/yqueau/robust_ps
+[submodule "code_repos/Dutil/PAG"]
+	path = code_repos/Dutil/PAG
+	url = https://github.com/Dutil/PAG
+[submodule "code_repos/yhjung88/OnlineBoostingWithVFDT"]
+	path = code_repos/yhjung88/OnlineBoostingWithVFDT
+	url = https://github.com/yhjung88/OnlineBoostingWithVFDT
+[submodule "code_repos/EthanZhu90/MultilayerBSMC_ICCV17"]
+	path = code_repos/EthanZhu90/MultilayerBSMC_ICCV17
+	url = https://github.com/EthanZhu90/MultilayerBSMC_ICCV17
+[submodule "code_repos/Noura-kr/CVPR17"]
+	path = code_repos/Noura-kr/CVPR17
+	url = https://github.com/Noura-kr/CVPR17
+[submodule "code_repos/lugiavn/revisiting-im2gps"]
+	path = code_repos/lugiavn/revisiting-im2gps
+	url = https://github.com/lugiavn/revisiting-im2gps
+[submodule "code_repos/rfsantacruz/deep-perm-net"]
+	path = code_repos/rfsantacruz/deep-perm-net
+	url = https://github.com/rfsantacruz/deep-perm-net
+[submodule "code_repos/tribhuvanesh/vpa"]
+	path = code_repos/tribhuvanesh/vpa
+	url = https://github.com/tribhuvanesh/vpa
+[submodule "code_repos/ykshi/facehallucination"]
+	path = code_repos/ykshi/facehallucination
+	url = https://github.com/ykshi/facehallucination
+[submodule "code_repos/rajatsen91/CCIT"]
+	path = code_repos/rajatsen91/CCIT
+	url = https://github.com/rajatsen91/CCIT
+[submodule "code_repos/fair-preprocessing/nips2017"]
+	path = code_repos/fair-preprocessing/nips2017
+	url = https://github.com/fair-preprocessing/nips2017
+[submodule "code_repos/wubaoyuan/DIA"]
+	path = code_repos/wubaoyuan/DIA
+	url = https://github.com/wubaoyuan/DIA
+[submodule "code_repos/matejbalog/gumbel-relatives"]
+	path = code_repos/matejbalog/gumbel-relatives
+	url = https://github.com/matejbalog/gumbel-relatives
+[submodule "code_repos/tnestmeyer/reflectance-filtering"]
+	path = code_repos/tnestmeyer/reflectance-filtering
+	url = https://github.com/tnestmeyer/reflectance-filtering
+[submodule "code_repos/tlkvstepan/mc-cnn-ws"]
+	path = code_repos/tlkvstepan/mc-cnn-ws
+	url = https://github.com/tlkvstepan/mc-cnn-ws
+[submodule "code_repos/huangleiBuaa/CenteredWN"]
+	path = code_repos/huangleiBuaa/CenteredWN
+	url = https://github.com/huangleiBuaa/CenteredWN
+[submodule "code_repos/SoheilFeizi/Tensor-Biclustering"]
+	path = code_repos/SoheilFeizi/Tensor-Biclustering
+	url = https://github.com/SoheilFeizi/Tensor-Biclustering
+[submodule "code_repos/kui-jia/svb"]
+	path = code_repos/kui-jia/svb
+	url = https://github.com/kui-jia/svb
+[submodule "code_repos/juho-lee/powerlawgraph"]
+	path = code_repos/juho-lee/powerlawgraph
+	url = https://github.com/juho-lee/powerlawgraph
+[submodule "code_repos/edouardoyallon/deep_separation_contraction"]
+	path = code_repos/edouardoyallon/deep_separation_contraction
+	url = https://github.com/edouardoyallon/deep_separation_contraction
+[submodule "code_repos/zera/Nips_MT"]
+	path = code_repos/zera/Nips_MT
+	url = https://github.com/zera/Nips_MT
+[submodule "code_repos/wuga214/TOOLBOX-Learning-and-Planning-through-Backpropagation"]
+	path = code_repos/wuga214/TOOLBOX-Learning-and-Planning-through-Backpropagation
+	url = https://github.com/wuga214/TOOLBOX-Learning-and-Planning-through-Backpropagation
+[submodule "code_repos/Wangyupei/CED"]
+	path = code_repos/Wangyupei/CED
+	url = https://github.com/Wangyupei/CED
+[submodule "code_repos/MinhyungCho/riemannian-batch-normalization"]
+	path = code_repos/MinhyungCho/riemannian-batch-normalization
+	url = https://github.com/MinhyungCho/riemannian-batch-normalization
+[submodule "code_repos/recasens/Gaze-Following"]
+	path = code_repos/recasens/Gaze-Following
+	url = https://github.com/recasens/Gaze-Following
+[submodule "code_repos/boknilev/asr-repr-analysis"]
+	path = code_repos/boknilev/asr-repr-analysis
+	url = https://github.com/boknilev/asr-repr-analysis
+[submodule "code_repos/jongchyisu/attribute_phrases"]
+	path = code_repos/jongchyisu/attribute_phrases
+	url = https://github.com/jongchyisu/attribute_phrases
+[submodule "code_repos/xavirema/lena_pooling"]
+	path = code_repos/xavirema/lena_pooling
+	url = https://github.com/xavirema/lena_pooling
+[submodule "code_repos/rszeto/click-here-cnn"]
+	path = code_repos/rszeto/click-here-cnn
+	url = https://github.com/rszeto/click-here-cnn
+[submodule "code_repos/cnmusco/recursive-nystrom"]
+	path = code_repos/cnmusco/recursive-nystrom
+	url = https://github.com/cnmusco/recursive-nystrom
+[submodule "code_repos/antoine77340/iccv17learning"]
+	path = code_repos/antoine77340/iccv17learning
+	url = https://github.com/antoine77340/iccv17learning
+[submodule "code_repos/thetak11/learning-kis"]
+	path = code_repos/thetak11/learning-kis
+	url = https://github.com/thetak11/learning-kis
+[submodule "code_repos/idiap/zentas"]
+	path = code_repos/idiap/zentas
+	url = https://github.com/idiap/zentas
+[submodule "code_repos/geoffroeder/iwae"]
+	path = code_repos/geoffroeder/iwae
+	url = https://github.com/geoffroeder/iwae
+[submodule "code_repos/fxia22/NeuralFDR"]
+	path = code_repos/fxia22/NeuralFDR
+	url = https://github.com/fxia22/NeuralFDR
+[submodule "code_repos/EigenPro/EigenPro-tensorflow"]
+	path = code_repos/EigenPro/EigenPro-tensorflow
+	url = https://github.com/EigenPro/EigenPro-tensorflow
+[submodule "code_repos/sccfnad/Sparse-convolutional-coding-for-neuronal-assembly-detection"]
+	path = code_repos/sccfnad/Sparse-convolutional-coding-for-neuronal-assembly-detection
+	url = https://github.com/sccfnad/Sparse-convolutional-coding-for-neuronal-assembly-detection
+[submodule "code_repos/hcllaw/phase_learn"]
+	path = code_repos/hcllaw/phase_learn
+	url = https://github.com/hcllaw/phase_learn
+[submodule "code_repos/dmarcosg/RotEqNet"]
+	path = code_repos/dmarcosg/RotEqNet
+	url = https://github.com/dmarcosg/RotEqNet
+[submodule "code_repos/RonanFR/UCRL"]
+	path = code_repos/RonanFR/UCRL
+	url = https://github.com/RonanFR/UCRL
+[submodule "code_repos/neccam/SubUNets"]
+	path = code_repos/neccam/SubUNets
+	url = https://github.com/neccam/SubUNets
+[submodule "code_repos/LynnHongLiu/FSH"]
+	path = code_repos/LynnHongLiu/FSH
+	url = https://github.com/LynnHongLiu/FSH
+[submodule "code_repos/jalayrac/object-states-action"]
+	path = code_repos/jalayrac/object-states-action
+	url = https://github.com/jalayrac/object-states-action
+[submodule "code_repos/YanaLee/Zero-Shot-Recognition-using-Dual-Visual-Semantic-Mapping-Paths"]
+	path = code_repos/YanaLee/Zero-Shot-Recognition-using-Dual-Visual-Semantic-Mapping-Paths
+	url = https://github.com/YanaLee/Zero-Shot-Recognition-using-Dual-Visual-Semantic-Mapping-Paths
+[submodule "code_repos/MiriamHu/ActiveBoundary"]
+	path = code_repos/MiriamHu/ActiveBoundary
+	url = https://github.com/MiriamHu/ActiveBoundary
+[submodule "code_repos/moonfolk/Geometric-Topic-Modeling"]
+	path = code_repos/moonfolk/Geometric-Topic-Modeling
+	url = https://github.com/moonfolk/Geometric-Topic-Modeling
+[submodule "code_repos/emalach/UpdateByDisagreement"]
+	path = code_repos/emalach/UpdateByDisagreement
+	url = https://github.com/emalach/UpdateByDisagreement
+[submodule "code_repos/omiksik/roam"]
+	path = code_repos/omiksik/roam
+	url = https://github.com/omiksik/roam
+[submodule "code_repos/kohpangwei/influence-release"]
+	path = code_repos/kohpangwei/influence-release
+	url = https://github.com/kohpangwei/influence-release
+[submodule "code_repos/bianan/non-submodular-max"]
+	path = code_repos/bianan/non-submodular-max
+	url = https://github.com/bianan/non-submodular-max
+[submodule "code_repos/ywchao/skeleton2d3d"]
+	path = code_repos/ywchao/skeleton2d3d
+	url = https://github.com/ywchao/skeleton2d3d
+[submodule "code_repos/hehaodele/SBL-LSTM-Net"]
+	path = code_repos/hehaodele/SBL-LSTM-Net
+	url = https://github.com/hehaodele/SBL-LSTM-Net
+[submodule "code_repos/RuiShu/bcde"]
+	path = code_repos/RuiShu/bcde
+	url = https://github.com/RuiShu/bcde
+[submodule "code_repos/ramprs/grad-cam"]
+	path = code_repos/ramprs/grad-cam
+	url = https://github.com/ramprs/grad-cam
+[submodule "code_repos/imisra/composing_cvpr17"]
+	path = code_repos/imisra/composing_cvpr17
+	url = https://github.com/imisra/composing_cvpr17
+[submodule "code_repos/tonysy/salient-face-in-MUVFET"]
+	path = code_repos/tonysy/salient-face-in-MUVFET
+	url = https://github.com/tonysy/salient-face-in-MUVFET
+[submodule "code_repos/batra-mlp-lab/visdial-rl"]
+	path = code_repos/batra-mlp-lab/visdial-rl
+	url = https://github.com/batra-mlp-lab/visdial-rl
+[submodule "code_repos/eleventh83/deepMiRGene"]
+	path = code_repos/eleventh83/deepMiRGene
+	url = https://github.com/eleventh83/deepMiRGene
+[submodule "code_repos/vijaykumar01/person_recognition"]
+	path = code_repos/vijaykumar01/person_recognition
+	url = https://github.com/vijaykumar01/person_recognition
+[submodule "code_repos/DPBayes/dca-nips2017"]
+	path = code_repos/DPBayes/dca-nips2017
+	url = https://github.com/DPBayes/dca-nips2017
+[submodule "code_repos/moonfolk/MiFM"]
+	path = code_repos/moonfolk/MiFM
+	url = https://github.com/moonfolk/MiFM
+[submodule "code_repos/prithv1/cvpr2017_counting"]
+	path = code_repos/prithv1/cvpr2017_counting
+	url = https://github.com/prithv1/cvpr2017_counting
+[submodule "code_repos/kunghunglu/DeepPhotoCritic-ICCV17"]
+	path = code_repos/kunghunglu/DeepPhotoCritic-ICCV17
+	url = https://github.com/kunghunglu/DeepPhotoCritic-ICCV17
+[submodule "code_repos/giorgiop/loss-correction"]
+	path = code_repos/giorgiop/loss-correction
+	url = https://github.com/giorgiop/loss-correction
+[submodule "code_repos/bianan/non-monotone-dr-submodular"]
+	path = code_repos/bianan/non-monotone-dr-submodular
+	url = https://github.com/bianan/non-monotone-dr-submodular
+[submodule "code_repos/chrodan/FiniteEpisodicRL.jl"]
+	path = code_repos/chrodan/FiniteEpisodicRL.jl
+	url = https://github.com/chrodan/FiniteEpisodicRL.jl
+[submodule "code_repos/aosokin/consistentSurrogates_derivations"]
+	path = code_repos/aosokin/consistentSurrogates_derivations
+	url = https://github.com/aosokin/consistentSurrogates_derivations
+[submodule "code_repos/lefangcs/Expectation-Propagation-with-Stochastic-Kinetic-Model-in-Complex-Interaction-Systems"]
+	path = code_repos/lefangcs/Expectation-Propagation-with-Stochastic-Kinetic-Model-in-Complex-Interaction-Systems
+	url = https://github.com/lefangcs/Expectation-Propagation-with-Stochastic-Kinetic-Model-in-Complex-Interaction-Systems
+[submodule "code_repos/neuroailab/whisker_model"]
+	path = code_repos/neuroailab/whisker_model
+	url = https://github.com/neuroailab/whisker_model
+[submodule "code_repos/sanjibac/matlab_learning_collision_checking"]
+	path = code_repos/sanjibac/matlab_learning_collision_checking
+	url = https://github.com/sanjibac/matlab_learning_collision_checking
+[submodule "code_repos/YuriWu/LIMO"]
+	path = code_repos/YuriWu/LIMO
+	url = https://github.com/YuriWu/LIMO
+[submodule "code_repos/mingyuanzhou/DeepLDA_TLASGR_MCMC"]
+	path = code_repos/mingyuanzhou/DeepLDA_TLASGR_MCMC
+	url = https://github.com/mingyuanzhou/DeepLDA_TLASGR_MCMC
+[submodule "code_repos/akxlr/tbp"]
+	path = code_repos/akxlr/tbp
+	url = https://github.com/akxlr/tbp
+[submodule "code_repos/albertometelli/crirl"]
+	path = code_repos/albertometelli/crirl
+	url = https://github.com/albertometelli/crirl
+[submodule "code_repos/rizalzaf/adversarial-ordinal"]
+	path = code_repos/rizalzaf/adversarial-ordinal
+	url = https://github.com/rizalzaf/adversarial-ordinal
+[submodule "code_repos/netw0rkf10w/adgm"]
+	path = code_repos/netw0rkf10w/adgm
+	url = https://github.com/netw0rkf10w/adgm
+[submodule "code_repos/fanny-yang/MABFDR"]
+	path = code_repos/fanny-yang/MABFDR
+	url = https://github.com/fanny-yang/MABFDR
+[submodule "code_repos/rahafaljundi/Encoder-Based-Lifelong-learning"]
+	path = code_repos/rahafaljundi/Encoder-Based-Lifelong-learning
+	url = https://github.com/rahafaljundi/Encoder-Based-Lifelong-learning
+[submodule "code_repos/daijifeng001/r-fcn"]
+	path = code_repos/daijifeng001/r-fcn
+	url = https://github.com/daijifeng001/r-fcn
+[submodule "code_repos/chuanli11/CNNMRF"]
+	path = code_repos/chuanli11/CNNMRF
+	url = https://github.com/chuanli11/CNNMRF
+[submodule "code_repos/ankush-me/SynthText"]
+	path = code_repos/ankush-me/SynthText
+	url = https://github.com/ankush-me/SynthText
+[submodule "code_repos/daijifeng001/MNC"]
+	path = code_repos/daijifeng001/MNC
+	url = https://github.com/daijifeng001/MNC
+[submodule "code_repos/HyeonseobNam/MDNet"]
+	path = code_repos/HyeonseobNam/MDNet
+	url = https://github.com/HyeonseobNam/MDNet
+[submodule "code_repos/feichtenhofer/twostreamfusion"]
+	path = code_repos/feichtenhofer/twostreamfusion
+	url = https://github.com/feichtenhofer/twostreamfusion
+[submodule "code_repos/rksltnl/Deep-Metric-Learning-CVPR16"]
+	path = code_repos/rksltnl/Deep-Metric-Learning-CVPR16
+	url = https://github.com/rksltnl/Deep-Metric-Learning-CVPR16
+[submodule "code_repos/reedscot/cvpr2016"]
+	path = code_repos/reedscot/cvpr2016
+	url = https://github.com/reedscot/cvpr2016
+[submodule "code_repos/CSAILVision/GazeCapture"]
+	path = code_repos/CSAILVision/GazeCapture
+	url = https://github.com/CSAILVision/GazeCapture
+[submodule "code_repos/Relja/netvlad"]
+	path = code_repos/Relja/netvlad
+	url = https://github.com/Relja/netvlad
+[submodule "code_repos/jwyang/JULE.torch"]
+	path = code_repos/jwyang/JULE.torch
+	url = https://github.com/jwyang/JULE.torch
+[submodule "code_repos/bertinetto/staple"]
+	path = code_repos/bertinetto/staple
+	url = https://github.com/bertinetto/staple
+[submodule "code_repos/zhengshou/scnn"]
+	path = code_repos/zhengshou/scnn
+	url = https://github.com/zhengshou/scnn
+[submodule "code_repos/gidariss/LocNet"]
+	path = code_repos/gidariss/LocNet
+	url = https://github.com/gidariss/LocNet
+[submodule "code_repos/imatge-upc/saliency-2016-cvpr"]
+	path = code_repos/imatge-upc/saliency-2016-cvpr
+	url = https://github.com/imatge-upc/saliency-2016-cvpr
+[submodule "code_repos/gy20073/compact_bilinear_pooling"]
+	path = code_repos/gy20073/compact_bilinear_pooling
+	url = https://github.com/gy20073/compact_bilinear_pooling
+[submodule "code_repos/kevinlin311tw/cvpr16-deepbit"]
+	path = code_repos/kevinlin311tw/cvpr16-deepbit
+	url = https://github.com/kevinlin311tw/cvpr16-deepbit
+[submodule "code_repos/shurans/DeepSlidingShape"]
+	path = code_repos/shurans/DeepSlidingShape
+	url = https://github.com/shurans/DeepSlidingShape
+[submodule "code_repos/hbilen/dynamic-image-nets"]
+	path = code_repos/hbilen/dynamic-image-nets
+	url = https://github.com/hbilen/dynamic-image-nets
+[submodule "code_repos/dlaptev/TI-pooling"]
+	path = code_repos/dlaptev/TI-pooling
+	url = https://github.com/dlaptev/TI-pooling
+[submodule "code_repos/ronghanghu/natural-language-object-retrieval"]
+	path = code_repos/ronghanghu/natural-language-object-retrieval
+	url = https://github.com/ronghanghu/natural-language-object-retrieval
+[submodule "code_repos/hbilen/WSDDN"]
+	path = code_repos/hbilen/WSDDN
+	url = https://github.com/hbilen/WSDDN
+[submodule "code_repos/HyeonwooNoh/DPPnet"]
+	path = code_repos/HyeonwooNoh/DPPnet
+	url = https://github.com/HyeonwooNoh/DPPnet
+[submodule "code_repos/phoenix104104/cvpr16_deblur_study"]
+	path = code_repos/phoenix104104/cvpr16_deblur_study
+	url = https://github.com/phoenix104104/cvpr16_deblur_study
+[submodule "code_repos/niallmcl/Recurrent-Convolutional-Video-ReID"]
+	path = code_repos/niallmcl/Recurrent-Convolutional-Video-ReID
+	url = https://github.com/niallmcl/Recurrent-Convolutional-Video-ReID
+[submodule "code_repos/jacobandreas/nmn2"]
+	path = code_repos/jacobandreas/nmn2
+	url = https://github.com/jacobandreas/nmn2
+[submodule "code_repos/zcyang/imageqa-san"]
+	path = code_repos/zcyang/imageqa-san
+	url = https://github.com/zcyang/imageqa-san
+[submodule "code_repos/alexlocher/hpmvs"]
+	path = code_repos/alexlocher/hpmvs
+	url = https://github.com/alexlocher/hpmvs
+[submodule "code_repos/mostafa-saad/deep-activity-rec"]
+	path = code_repos/mostafa-saad/deep-activity-rec
+	url = https://github.com/mostafa-saad/deep-activity-rec
+[submodule "code_repos/geliuhao/CVPR2016_HandPoseEstimation"]
+	path = code_repos/geliuhao/CVPR2016_HandPoseEstimation
+	url = https://github.com/geliuhao/CVPR2016_HandPoseEstimation
+[submodule "code_repos/abhijitbendale/OSDN"]
+	path = code_repos/abhijitbendale/OSDN
+	url = https://github.com/abhijitbendale/OSDN
+[submodule "code_repos/aayushbansal/MarrRevisited"]
+	path = code_repos/aayushbansal/MarrRevisited
+	url = https://github.com/aayushbansal/MarrRevisited
+[submodule "code_repos/LisaAnne/DCC"]
+	path = code_repos/LisaAnne/DCC
+	url = https://github.com/LisaAnne/DCC
+[submodule "code_repos/wasidennis/ObjectFlow"]
+	path = code_repos/wasidennis/ObjectFlow
+	url = https://github.com/wasidennis/ObjectFlow
+[submodule "code_repos/YANG-H/Panoramix"]
+	path = code_repos/YANG-H/Panoramix
+	url = https://github.com/YANG-H/Panoramix
+[submodule "code_repos/byangderek/CRAFT"]
+	path = code_repos/byangderek/CRAFT
+	url = https://github.com/byangderek/CRAFT
+[submodule "code_repos/amandajshao/Slicing-CNN"]
+	path = code_repos/amandajshao/Slicing-CNN
+	url = https://github.com/amandajshao/Slicing-CNN
+[submodule "code_repos/zkl20061823/DRML"]
+	path = code_repos/zkl20061823/DRML
+	url = https://github.com/zkl20061823/DRML
+[submodule "code_repos/seuliufeng/DeepSBIR"]
+	path = code_repos/seuliufeng/DeepSBIR
+	url = https://github.com/seuliufeng/DeepSBIR
+[submodule "code_repos/iqbalu/3D_Pose_Estimation_CVPR2016"]
+	path = code_repos/iqbalu/3D_Pose_Estimation_CVPR2016
+	url = https://github.com/iqbalu/3D_Pose_Estimation_CVPR2016
+[submodule "code_repos/davisvideochallenge/davis-matlab"]
+	path = code_repos/davisvideochallenge/davis-matlab
+	url = https://github.com/davisvideochallenge/davis-matlab
+[submodule "code_repos/gylee1103/SaliencyELD"]
+	path = code_repos/gylee1103/SaliencyELD
+	url = https://github.com/gylee1103/SaliencyELD
+[submodule "code_repos/danaberman/non-local-dehazing"]
+	path = code_repos/danaberman/non-local-dehazing
+	url = https://github.com/danaberman/non-local-dehazing
+[submodule "code_repos/vijaykbg/deep-patchmatch"]
+	path = code_repos/vijaykbg/deep-patchmatch
+	url = https://github.com/vijaykbg/deep-patchmatch
+[submodule "code_repos/chuxiaoselena/StructuredFeature"]
+	path = code_repos/chuxiaoselena/StructuredFeature
+	url = https://github.com/chuxiaoselena/StructuredFeature
+[submodule "code_repos/happyharrycn/unsupervised_edges"]
+	path = code_repos/happyharrycn/unsupervised_edges
+	url = https://github.com/happyharrycn/unsupervised_edges
+[submodule "code_repos/DediGadot/PatchBatch"]
+	path = code_repos/DediGadot/PatchBatch
+	url = https://github.com/DediGadot/PatchBatch
+[submodule "code_repos/wanglimin/Actionness-Estimation"]
+	path = code_repos/wanglimin/Actionness-Estimation
+	url = https://github.com/wanglimin/Actionness-Estimation
+[submodule "code_repos/suriyasingh/EgoConvNet"]
+	path = code_repos/suriyasingh/EgoConvNet
+	url = https://github.com/suriyasingh/EgoConvNet
+[submodule "code_repos/viibridges/gc-horizon-detector"]
+	path = code_repos/viibridges/gc-horizon-detector
+	url = https://github.com/viibridges/gc-horizon-detector
+[submodule "code_repos/bsham/ProposalFlow"]
+	path = code_repos/bsham/ProposalFlow
+	url = https://github.com/bsham/ProposalFlow
+[submodule "code_repos/shamangary/ASV"]
+	path = code_repos/shamangary/ASV
+	url = https://github.com/shamangary/ASV
+[submodule "code_repos/yuhuayc/align-hier"]
+	path = code_repos/yuhuayc/align-hier
+	url = https://github.com/yuhuayc/align-hier
+[submodule "code_repos/gberta/BNF_globalization"]
+	path = code_repos/gberta/BNF_globalization
+	url = https://github.com/gberta/BNF_globalization
+[submodule "code_repos/peiyunh/rg-mpii"]
+	path = code_repos/peiyunh/rg-mpii
+	url = https://github.com/peiyunh/rg-mpii
+[submodule "code_repos/KuldeepKulkarni/ReconNet"]
+	path = code_repos/KuldeepKulkarni/ReconNet
+	url = https://github.com/KuldeepKulkarni/ReconNet
+[submodule "code_repos/dapengchen123/SCSP"]
+	path = code_repos/dapengchen123/SCSP
+	url = https://github.com/dapengchen123/SCSP
+[submodule "code_repos/jjcharles/personalized_pose"]
+	path = code_repos/jjcharles/personalized_pose
+	url = https://github.com/jjcharles/personalized_pose
+[submodule "code_repos/jalayrac/instructionVideos"]
+	path = code_repos/jalayrac/instructionVideos
+	url = https://github.com/jalayrac/instructionVideos
+[submodule "code_repos/kevjshih/wtl_vqa"]
+	path = code_repos/kevjshih/wtl_vqa
+	url = https://github.com/kevjshih/wtl_vqa
+[submodule "code_repos/zzhang1987/HungarianBP"]
+	path = code_repos/zzhang1987/HungarianBP
+	url = https://github.com/zzhang1987/HungarianBP
+[submodule "code_repos/syncle/photo_consistency"]
+	path = code_repos/syncle/photo_consistency
+	url = https://github.com/syncle/photo_consistency
+[submodule "code_repos/cazhang/funcFaces"]
+	path = code_repos/cazhang/funcFaces
+	url = https://github.com/cazhang/funcFaces
+[submodule "code_repos/lzrobots/NullSpace_ReID"]
+	path = code_repos/lzrobots/NullSpace_ReID
+	url = https://github.com/lzrobots/NullSpace_ReID
+[submodule "code_repos/jongwon20000/SCT"]
+	path = code_repos/jongwon20000/SCT
+	url = https://github.com/jongwon20000/SCT
+[submodule "code_repos/yangwangx/NonActionShot"]
+	path = code_repos/yangwangx/NonActionShot
+	url = https://github.com/yangwangx/NonActionShot
+[submodule "code_repos/Kyungdon/mf_estimation"]
+	path = code_repos/Kyungdon/mf_estimation
+	url = https://github.com/Kyungdon/mf_estimation
+[submodule "code_repos/kongchen1992/compressible-sfm"]
+	path = code_repos/kongchen1992/compressible-sfm
+	url = https://github.com/kongchen1992/compressible-sfm
+[submodule "code_repos/jcjohnson/densecap"]
+	path = code_repos/jcjohnson/densecap
+	url = https://github.com/jcjohnson/densecap
+[submodule "code_repos/torrvision/crfasrnn"]
+	path = code_repos/torrvision/crfasrnn
+	url = https://github.com/torrvision/crfasrnn
+[submodule "code_repos/shelhamer/fcn.berkeleyvision.org"]
+	path = code_repos/shelhamer/fcn.berkeleyvision.org
+	url = https://github.com/shelhamer/fcn.berkeleyvision.org
+[submodule "code_repos/HyeonwooNoh/DeconvNet"]
+	path = code_repos/HyeonwooNoh/DeconvNet
+	url = https://github.com/HyeonwooNoh/DeconvNet
+[submodule "code_repos/szagoruyko/cvpr15deepcompare"]
+	path = code_repos/szagoruyko/cvpr15deepcompare
+	url = https://github.com/szagoruyko/cvpr15deepcompare
+[submodule "code_repos/yuxng/MDP_Tracking"]
+	path = code_repos/yuxng/MDP_Tracking
+	url = https://github.com/yuxng/MDP_Tracking
+[submodule "code_repos/jbhuang0604/SelfExSR"]
+	path = code_repos/jbhuang0604/SelfExSR
+	url = https://github.com/jbhuang0604/SelfExSR
+[submodule "code_repos/jbhuang0604/CF2"]
+	path = code_repos/jbhuang0604/CF2
+	url = https://github.com/jbhuang0604/CF2
+[submodule "code_repos/ShapeNet/RenderForCNN"]
+	path = code_repos/ShapeNet/RenderForCNN
+	url = https://github.com/ShapeNet/RenderForCNN
+[submodule "code_repos/JuanTarrio/rebvo"]
+	path = code_repos/JuanTarrio/rebvo
+	url = https://github.com/JuanTarrio/rebvo
+[submodule "code_repos/aravindhm/deep-goggle"]
+	path = code_repos/aravindhm/deep-goggle
+	url = https://github.com/aravindhm/deep-goggle
+[submodule "code_repos/aosokin/cnn_head_detection"]
+	path = code_repos/aosokin/cnn_head_detection
+	url = https://github.com/aosokin/cnn_head_detection
+[submodule "code_repos/zhusz/CVPR15-CFSS"]
+	path = code_repos/zhusz/CVPR15-CFSS
+	url = https://github.com/zhusz/CVPR15-CFSS
+[submodule "code_repos/jsupancic/deep_hand_pose"]
+	path = code_repos/jsupancic/deep_hand_pose
+	url = https://github.com/jsupancic/deep_hand_pose
+[submodule "code_repos/kysucix/gipuma"]
+	path = code_repos/kysucix/gipuma
+	url = https://github.com/kysucix/gipuma
+[submodule "code_repos/philkr/lpo"]
+	path = code_repos/philkr/lpo
+	url = https://github.com/philkr/lpo
+[submodule "code_repos/cdoersch/deepcontext"]
+	path = code_repos/cdoersch/deepcontext
+	url = https://github.com/cdoersch/deepcontext
+[submodule "code_repos/etrulls/deepdesc-release"]
+	path = code_repos/etrulls/deepdesc-release
+	url = https://github.com/etrulls/deepdesc-release
+[submodule "code_repos/Robert0812/deepsaldet"]
+	path = code_repos/Robert0812/deepsaldet
+	url = https://github.com/Robert0812/deepsaldet
+[submodule "code_repos/mcimpoi/deep-fbanks"]
+	path = code_repos/mcimpoi/deep-fbanks
+	url = https://github.com/mcimpoi/deep-fbanks
+[submodule "code_repos/gkioxari/ActionTubes"]
+	path = code_repos/gkioxari/ActionTubes
+	url = https://github.com/gkioxari/ActionTubes
+[submodule "code_repos/akar43/CategoryShapes"]
+	path = code_repos/akar43/CategoryShapes
+	url = https://github.com/akar43/CategoryShapes
+[submodule "code_repos/Cysu/noisy_label"]
+	path = code_repos/Cysu/noisy_label
+	url = https://github.com/Cysu/noisy_label
+[submodule "code_repos/gcheron/P-CNN"]
+	path = code_repos/gcheron/P-CNN
+	url = https://github.com/gcheron/P-CNN
+[submodule "code_repos/cvjena/part_constellation_models"]
+	path = code_repos/cvjena/part_constellation_models
+	url = https://github.com/cvjena/part_constellation_models
+[submodule "code_repos/yaoliUoA/MDPM"]
+	path = code_repos/yaoliUoA/MDPM
+	url = https://github.com/yaoliUoA/MDPM
+[submodule "code_repos/asheshjain399/ICCV2015_Brain4Cars"]
+	path = code_repos/asheshjain399/ICCV2015_Brain4Cars
+	url = https://github.com/asheshjain399/ICCV2015_Brain4Cars
+[submodule "code_repos/kmyid/TILDE"]
+	path = code_repos/kmyid/TILDE
+	url = https://github.com/kmyid/TILDE
+[submodule "code_repos/kentsommer/tensorflow-posenet"]
+	path = code_repos/kentsommer/tensorflow-posenet
+	url = https://github.com/kentsommer/tensorflow-posenet
+[submodule "code_repos/amandajshao/www_deep_crowd"]
+	path = code_repos/amandajshao/www_deep_crowd
+	url = https://github.com/amandajshao/www_deep_crowd
+[submodule "code_repos/xiaozhuchacha/Kinect2Toolbox"]
+	path = code_repos/xiaozhuchacha/Kinect2Toolbox
+	url = https://github.com/xiaozhuchacha/Kinect2Toolbox
+[submodule "code_repos/shubhtuls/ViewpointsAndKeypoints"]
+	path = code_repos/shubhtuls/ViewpointsAndKeypoints
+	url = https://github.com/shubhtuls/ViewpointsAndKeypoints
+[submodule "code_repos/yuxng/3DVP"]
+	path = code_repos/yuxng/3DVP
+	url = https://github.com/yuxng/3DVP
+[submodule "code_repos/s9xie/hed"]
+	path = code_repos/s9xie/hed
+	url = https://github.com/s9xie/hed
+[submodule "code_repos/jheinly/streaming_connected_component_discovery"]
+	path = code_repos/jheinly/streaming_connected_component_discovery
+	url = https://github.com/jheinly/streaming_connected_component_discovery
+[submodule "code_repos/mathieuaubry/features_analysis"]
+	path = code_repos/mathieuaubry/features_analysis
+	url = https://github.com/mathieuaubry/features_analysis
+[submodule "code_repos/aditya12agd5/iccv15_lscolorization"]
+	path = code_repos/aditya12agd5/iccv15_lscolorization
+	url = https://github.com/aditya12agd5/iccv15_lscolorization
+[submodule "code_repos/ywchao/hico_benchmark"]
+	path = code_repos/ywchao/hico_benchmark
+	url = https://github.com/ywchao/hico_benchmark
+[submodule "code_repos/dimtziwnas/InHandScanningICCV15_Reconstruction"]
+	path = code_repos/dimtziwnas/InHandScanningICCV15_Reconstruction
+	url = https://github.com/dimtziwnas/InHandScanningICCV15_Reconstruction
+[submodule "code_repos/eevignesh/videovector"]
+	path = code_repos/eevignesh/videovector
+	url = https://github.com/eevignesh/videovector
+[submodule "code_repos/pulkitag/learning-to-see-by-moving"]
+	path = code_repos/pulkitag/learning-to-see-by-moving
+	url = https://github.com/pulkitag/learning-to-see-by-moving
+[submodule "code_repos/samhallman/oef"]
+	path = code_repos/samhallman/oef
+	url = https://github.com/samhallman/oef
+[submodule "code_repos/sunghoonim/SfSM"]
+	path = code_repos/sunghoonim/SfSM
+	url = https://github.com/sunghoonim/SfSM
+[submodule "code_repos/bsham/SDFilter"]
+	path = code_repos/bsham/SDFilter
+	url = https://github.com/bsham/SDFilter
+[submodule "code_repos/byangderek/CCF"]
+	path = code_repos/byangderek/CCF
+	url = https://github.com/byangderek/CCF
+[submodule "code_repos/jponttuset/BOP"]
+	path = code_repos/jponttuset/BOP
+	url = https://github.com/jponttuset/BOP
+[submodule "code_repos/chaoweifang/PFE"]
+	path = code_repos/chaoweifang/PFE
+	url = https://github.com/chaoweifang/PFE
+[submodule "code_repos/ragavvenkatesan/np-mil"]
+	path = code_repos/ragavvenkatesan/np-mil
+	url = https://github.com/ragavvenkatesan/np-mil
+[submodule "code_repos/ohadf/distractors"]
+	path = code_repos/ohadf/distractors
+	url = https://github.com/ohadf/distractors
+[submodule "code_repos/abhijitbendale/OWR"]
+	path = code_repos/abhijitbendale/OWR
+	url = https://github.com/abhijitbendale/OWR
+[submodule "code_repos/CVLAB-Unibo/Keypoint-Learning"]
+	path = code_repos/CVLAB-Unibo/Keypoint-Learning
+	url = https://github.com/CVLAB-Unibo/Keypoint-Learning
+[submodule "code_repos/ywchao/semantic_affordance"]
+	path = code_repos/ywchao/semantic_affordance
+	url = https://github.com/ywchao/semantic_affordance
+[submodule "code_repos/hbristow/epic"]
+	path = code_repos/hbristow/epic
+	url = https://github.com/hbristow/epic
+[submodule "code_repos/t-taniai/SDC_CVPR2015"]
+	path = code_repos/t-taniai/SDC_CVPR2015
+	url = https://github.com/t-taniai/SDC_CVPR2015
+[submodule "code_repos/VLOGroup/surface-area-regularization"]
+	path = code_repos/VLOGroup/surface-area-regularization
+	url = https://github.com/VLOGroup/surface-area-regularization
+[submodule "code_repos/shubhtuls/poseInduction"]
+	path = code_repos/shubhtuls/poseInduction
+	url = https://github.com/shubhtuls/poseInduction
+[submodule "code_repos/xiangyongcao/PMoEP"]
+	path = code_repos/xiangyongcao/PMoEP
+	url = https://github.com/xiangyongcao/PMoEP
+[submodule "code_repos/Viresh-R/ml-CCA"]
+	path = code_repos/Viresh-R/ml-CCA
+	url = https://github.com/Viresh-R/ml-CCA
+[submodule "code_repos/lanha/SupResPALM"]
+	path = code_repos/lanha/SupResPALM
+	url = https://github.com/lanha/SupResPALM
+[submodule "code_repos/jimmie33/MBS"]
+	path = code_repos/jimmie33/MBS
+	url = https://github.com/jimmie33/MBS
+[submodule "code_repos/yuanyc06/rr"]
+	path = code_repos/yuanyc06/rr
+	url = https://github.com/yuanyc06/rr
+[submodule "code_repos/feihuzhang/SGF"]
+	path = code_repos/feihuzhang/SGF
+	url = https://github.com/feihuzhang/SGF
+[submodule "code_repos/lmb-freiburg/unsup-car-dataset"]
+	path = code_repos/lmb-freiburg/unsup-car-dataset
+	url = https://github.com/lmb-freiburg/unsup-car-dataset
