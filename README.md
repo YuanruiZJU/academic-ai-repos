@@ -5,7 +5,7 @@ Many AI researchers use GitHub repositories to share data, software code and oth
 We refer to such GitHub repositories as academic AI repositories. 
 In our paper, we collect 1,149 academic AI repositories that are published by AI researchers.
 We use number of stars as the proxy for measuring popularity of academic AI repositories.
-Our analysis shows that **highly cited papers are more likely to have AI academic repositories with more stars**.
+Our analysis shows that **highly cited papers are more likely to have academic AI repositories with more stars**.
 Hence, in our paper, we perform an empirical analysis of the collected academic AI repositories aiming to highlight *good software engineering practices* of popular academic AI repositories for AI researchers.
 
 
