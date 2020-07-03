@@ -1,0 +1,89 @@
+<h2>ICNet for Real-Time Semantic Segmentation on High-Resolution Images</h2>
+<p>by Hengshuang Zhao, Xiaojuan Qi, Xiaoyong Shen, Jianping Shi, Jiaya Jia, details are in <a href="https://hszhao.github.io/projects/icnet">project page</a>.</p>
+<h3>Introduction</h3>
+<p>Based on <a href="https://github.com/hszhao/PSPNet">PSPNet</a>, this repository is build for evaluation in ICNet. For installation, please follow the description in PSPNet repository (support CUDA 7.0/7.5 + cuDNN v4).</p>
+<h3>Usage</h3>
+<ol>
+<li><p>Clone the repository recursively:</p>
+<pre><code class="lang-shell">git clone --recursive https://github.com/hszhao/ICNet.git
+</code></pre>
+</li>
+<li><p>Build Caffe and matcaffe:</p>
+<pre><code class="lang-shell">cd $ICNET_ROOT/PSPNet
+cp Makefile.config.example Makefile.config
+vim Makefile.config
+make -j8 &amp;&amp; make matcaffe
+cd ..
+</code></pre>
+</li>
+<li><p>Evaluation mIoU:</p>
+<ul>
+<li>Evaluation code is in folder 'evaluation'.</li>
+<li><p>Download trained models and put them in folder 'evaluation/model':</p>
+<ul>
+<li><p>icnet_cityscapes_train_30k.caffemodel: <a href="https://drive.google.com/open?id=0BzaU285cX7TCRXpXMnVIbXdfaW8">GoogleDrive</a></p>
+<p>(31M, md5: c7038630c4b6c869afaaadd811bdb539; train on trainset for 30k)</p>
+</li>
+<li><p>icnet_cityscapes_trainval_90k.caffemodel: <a href="https://drive.google.com/open?id=0BzaU285cX7TCTFVpZWJINi1Iblk">GoogleDrive</a></p>
+<p>(31M, md5: 4f4dd9eecd465dd8de7e4cf88ba5d5d5; train on trainvalset for 90k)</p>
+</li>
+</ul>
+</li>
+<li>Modify the related paths in 'eval_all.m':<ul>
+<li>Mainly variables 'data_root' and 'eval_list', and your image list for evaluation should be similar to that in folder 'evaluation/samplelist' if you use this evaluation code structure. </li>
+</ul>
+</li>
+</ul>
+<pre><code class="lang-shell">cd evaluation
+vim eval_all.m
+</code></pre>
+<ul>
+<li>Run the evaluation scripts:</li>
+</ul>
+<pre><code>./run.sh
+</code></pre>
+</li>
+<li><p>Evaluation time:</p>
+<ul>
+<li><p>To get inference time as accurate as possible, it's suggested to make sure the GPU card with specified ID in script 'test_time.sh' is empty (without other processes executing)</p>
+</li>
+<li><p>Run the evaluation scripts:</p>
+</li>
+</ul>
+<pre><code>./test_time.sh
+</code></pre>
+</li>
+<li><p>Results:</p>
+<ul>
+<li>Prediction results will show in folder 'evaluation/mc_result' and the expected scores are:<ul>
+<li>ICNet train on trainset for 30K, evaluated on valset (mIoU/pAcc): 67.7/94.5</li>
+<li>ICNet train on trainvalset for 90K, evaluated on testset (mIoU): 69.5</li>
+</ul>
+</li>
+<li>Log information of inference time will be in file 'time.log', approximately 33~36ms on TitanX.</li>
+</ul>
+</li>
+<li><p>Demo video:</p>
+<ul>
+<li>Video processed by ICNet on cityscapes dataset:<ul>
+<li>Alpha blending with value as 0.5: <a href="https://youtu.be/qWl9idsCuLQ">Video</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<h2>Citation</h2>
+<p>If ICNet is useful for your research, please consider citing:</p>
+<pre><code>@article{zhao2017icnet,
+  author = {Hengshuang Zhao and
+            Xiaojuan Qi and
+            Xiaoyong Shen and
+            Jianping Shi and
+            Jiaya Jia},
+  title = {ICNet for Real-Time Semantic Segmentation on High-Resolution Images},
+  journal={arXiv preprint arXiv:1704.08545},
+  year = {2017}
+}
+</code></pre>
+<h3>Questions</h3>
+<p>Please contact 'hszhao@cse.cuhk.edu.hk'</p>

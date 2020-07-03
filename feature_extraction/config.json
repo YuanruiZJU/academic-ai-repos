@@ -1,0 +1,33 @@
+{
+  "root_path": "D://Study/ml_academic_code/",
+  "academic_statistics_path": "pwc",
+  "md_file": "README.md",
+  "csv_file": "src/pwc.csv",
+  "repo_path": "code_repos",
+  "mysql": {
+    "username": "root",
+    "password": "1234",
+    "database-name": "academic_code2"
+  },
+
+  "github": {
+    "username": ["2624639201@qq.com"],
+    "password": ["mengxiang0124"]
+  },
+
+  "analyze_date": "2018-12-21",
+  "conf_date": {
+    "2017": {
+      "ICML": "2017-08-06",
+      "NIPS": "2017-12-04",
+      "CVPR": "2017-07-21",
+      "ICCV": "2017-10-22"
+    },
+    "2018": {
+      "ICML": "2018-07-10",
+      "NIPS": "2018-12-03",
+      "CVPR": "2018-06-19",
+      "ECCV": "2018-09-08"
+    }
+  }
+}

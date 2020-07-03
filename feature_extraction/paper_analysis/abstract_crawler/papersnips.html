@@ -1,0 +1,249 @@
+
+<!DOCTYPE html>
+    <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+    <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+    <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+    <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>LightGBM: A Highly Efficient Gradient Boosting Decision Tree</title>
+        
+    <meta name="citation_title" content="LightGBM: A Highly Efficient Gradient Boosting Decision Tree">
+
+    
+    <meta name="citation_author" content="Guolin Ke">
+    
+    <meta name="citation_author" content="Qi Meng">
+    
+    <meta name="citation_author" content="Thomas Finley">
+    
+    <meta name="citation_author" content="Taifeng Wang">
+    
+    <meta name="citation_author" content="Wei Chen">
+    
+    <meta name="citation_author" content="Weidong Ma">
+    
+    <meta name="citation_author" content="Qiwei Ye">
+    
+    <meta name="citation_author" content="Tie-Yan Liu">
+    
+
+    <meta name="citation_publication_date" content="2017">
+    <meta name="citation_conference_title" content="Advances in Neural Information Processing Systems">
+
+    
+    <meta name="citation_firstpage" content="3146">
+    
+    
+    <meta name="citation_lastpage" content="3154">
+    
+
+    
+    <meta name="citation_pdf_url" content="http://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf">
+    
+
+    
+        <meta name="description" content="Electronic Proceedings of Neural Information Processing Systems">
+        <meta name="viewport" content="width=device-width">
+        
+
+
+        
+        <link rel="stylesheet" href="//media.nips.cc/nipsbooks/nipspapers/css/normalize.min.css">
+        <link rel="stylesheet" href="//media.nips.cc/nipsbooks/nipspapers/css/main.css">
+        
+
+        
+        <script src="//media.nips.cc/nipsbooks/nipspapers/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+        
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+        <![endif]-->
+
+        <div class="header-container">
+            <header class="wrapper clearfix">
+                
+                    <h1 class="sitename"><a href="/">NIPS Proceedings</a><sup>¦Â</sup></h1>
+                
+                
+                <form action="/search/" class="search">
+                    <input name="q" value="" class="search" placeholder="search" />
+                </form>
+                
+                <nav>
+                    <ul>
+                      
+    
+                        <li><a href="/">Books</a></li>
+                      
+    <li><a href="/book/advances-in-neural-information-processing-systems-30-2017">2017</a></li>
+
+                    </ul>
+                </nav>
+            </header>
+        </div>
+
+        <div class="main-container">
+            <div class="main wrapper clearfix">
+            
+<h2 class="subtitle">LightGBM: A Highly Efficient Gradient Boosting Decision Tree</h2>
+
+            
+    
+
+<p>Part of: <a href="/book/advances-in-neural-information-processing-systems-30-2017">Advances in Neural Information Processing Systems 30 (NIPS 2017)</a></p>
+
+
+
+
+    <a href="/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf">[PDF]</a>
+
+
+
+    <a href="/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree/bibtex">[BibTeX]</a>
+
+
+
+
+
+    <a href="/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree-supplemental.zip">[Supplemental]</a>
+
+
+
+    <a href="//media.nips.cc/nipsbooks/nipspapers/paper_files/nips30/reviews/1786.html">[Reviews]</a>
+
+
+<h3>Authors</h3>
+
+<ul class="authors">
+    
+    <li class="author"><a href="/author/guolin-ke-8968">Guolin Ke</a></li>
+    
+    <li class="author"><a href="/author/qi-meng-8967">Qi Meng</a></li>
+    
+    <li class="author"><a href="/author/thomas-finley-10465">Thomas Finley</a></li>
+    
+    <li class="author"><a href="/author/taifeng-wang-8969">Taifeng Wang</a></li>
+    
+    <li class="author"><a href="/author/wei-chen-4262">Wei Chen</a></li>
+    
+    <li class="author"><a href="/author/weidong-ma-9840">Weidong Ma</a></li>
+    
+    <li class="author"><a href="/author/qiwei-ye-8970">Qiwei Ye</a></li>
+    
+    <li class="author"><a href="/author/tie-yan-liu-6704">Tie-Yan Liu</a></li>
+    
+</ul>
+
+
+
+
+<h3>Conference Event Type: Poster</h3>
+
+
+<h3>Abstract</h3>
+<p class="abstract">Gradient Boosting Decision Tree (GBDT) is a popular machine learning algorithm, and has quite a few effective implementations such as XGBoost and pGBRT. Although many engineering optimizations have been adopted in these implementations, the efficiency and scalability are still unsatisfactory when the feature dimension is high and data size is large. A major reason is that for each feature, they need to scan all the data instances to estimate the information gain of all possible split points, which is very time consuming. To tackle this problem, we propose two novel techniques: \emph{Gradient-based One-Side Sampling} (GOSS) and \emph{Exclusive Feature Bundling} (EFB). With GOSS, we exclude a significant proportion of data instances with small gradients, and only use the rest to estimate the information gain. We prove that, since the data instances with larger gradients play a more important role in the computation of information gain, GOSS can obtain quite accurate estimation of the information gain with a much smaller data size. With EFB, we bundle mutually exclusive features (i.e., they rarely take nonzero values simultaneously), to reduce the number of features. We prove that finding the optimal bundling of exclusive features is NP-hard, but a greedy algorithm can achieve quite good approximation ratio (and thus can effectively reduce the number of features without hurting the accuracy of split point determination by much). We call our new GBDT implementation with GOSS and EFB \emph{LightGBM}. Our experiments on multiple public datasets show that, LightGBM speeds up the training process of conventional GBDT by up to over 20 times while achieving almost the same accuracy.</p>
+
+
+            
+                <aside>
+                    <h3>Neural Information Processing Systems (NIPS)</h3>
+                    <p>Papers published at the Neural Information Processing Systems Conference.</p>
+                </aside>
+            
+            </div> <!-- #main -->
+        </div> <!-- #main-container -->
+
+        <div class="footer-container">
+            <footer class="wrapper">
+            
+                <h3>&copy; 1987 ¨C 2019 Neural Information Processing Systems Foundation, Inc.</h3>
+            
+            </footer>
+        </div>
+
+        
+    
+        <script src="//media.nips.cc/nipsbooks/nipspapers/js/vendor/jquery-1.10.2.min.js"></script>
+        <script src="//media.nips.cc/nipsbooks/nipspapers/js/main.js"></script>
+        
+
+<script type="text/javascript">
+
+// using jQuery
+function getCookie(name) {
+    var cookieValue = null;
+    if (document.cookie && document.cookie != '') {
+        var cookies = document.cookie.split(';');
+        for (var i = 0; i < cookies.length; i++) {
+            var cookie = jQuery.trim(cookies[i]);
+            // Does this cookie string begin with the name we want?
+            if (cookie.substring(0, name.length + 1) == (name + '=')) {
+                cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                break;
+            }
+        }
+    }
+    return cookieValue;
+}
+var csrftoken = getCookie('csrftoken');
+function csrfSafeMethod(method) {
+    // these HTTP methods do not require CSRF protection
+    return (/^(GET|HEAD|OPTIONS|TRACE)$/.test(method));
+}
+function sameOrigin(url) {
+    // test that a given url is a same-origin URL
+    // url could be relative or scheme relative or absolute
+    var host = document.location.host; // host + port
+    var protocol = document.location.protocol;
+    var sr_origin = '//' + host;
+    var origin = protocol + sr_origin;
+    // Allow absolute or scheme relative URLs to same origin
+    return (url == origin || url.slice(0, origin.length + 1) == origin + '/') ||
+        (url == sr_origin || url.slice(0, sr_origin.length + 1) == sr_origin + '/') ||
+        // or any other URL that isn't scheme relative or absolute i.e relative.
+        !(/^(\/\/|http:|https:).*/.test(url));
+}
+$.ajaxSetup({
+    beforeSend: function(xhr, settings) {
+        if (!csrfSafeMethod(settings.type) && sameOrigin(settings.url)) {
+            // Send the token to same-origin, relative URLs only.
+            // Send the token only if the method warrants CSRF protection
+            // Using the CSRFToken value acquired earlier
+            xhr.setRequestHeader("X-CSRFToken", csrftoken);
+        }
+    }
+});
+
+
+</script>
+
+
+<script type="text/javascript" src="//media.nips.cc/nipsbooks/autocomplete_light/autocomplete.js"></script>
+<script type="text/javascript" src="//media.nips.cc/nipsbooks/autocomplete_light/widget.js"></script>
+<script type="text/javascript" src="//media.nips.cc/nipsbooks/autocomplete_light/addanother.js"></script>
+<script type="text/javascript" src="//media.nips.cc/nipsbooks/autocomplete_light/text_widget.js"></script>
+<script type="text/javascript" src="//media.nips.cc/nipsbooks/autocomplete_light/remote.js"></script>
+<link rel="stylesheet" type="text/css" href="//media.nips.cc/nipsbooks/autocomplete_light/style.css" />
+
+
+        <script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+          ga('create', 'UA-2097757-2', 'nips.cc');
+          ga('send', 'pageview');
+
+        </script>
+        
+        
+    <script type="text/javascript" src="//media.nips.cc/nipsbooks/nipspapers/js/MathJax/MathJax.js"></script>
+
+    </body>
+</html>
+<!-- Do not remove: This comment is monitored to verify that the site is working properly -->

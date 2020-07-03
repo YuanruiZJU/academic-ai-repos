@@ -1,0 +1,209 @@
+<h1>deep-photo-styletransfer</h1>
+<p>Code and data for paper "<a href="https://arxiv.org/abs/1703.07511">Deep Photo Style Transfer</a>"</p>
+<h2>Disclaimer</h2>
+<p><strong>This software is published for academic and non-commercial use only.</strong></p>
+<h2>Setup</h2>
+<p>This code is based on torch. It has been tested on Ubuntu 14.04 LTS.</p>
+<p>Dependencies:</p>
+<ul>
+<li><a href="https://github.com/torch/torch7">Torch</a> (with <a href="https://github.com/soumith/matio-ffi.torch">matio-ffi</a> and <a href="https://github.com/szagoruyko/loadcaffe">loadcaffe</a>)</li>
+<li><a href="https://www.mathworks.com/">Matlab</a> or <a href="https://www.gnu.org/software/octave/">Octave</a></li>
+</ul>
+<p>CUDA backend:</p>
+<ul>
+<li><a href="https://developer.nvidia.com/cuda-downloads">CUDA</a></li>
+<li><a href="https://developer.nvidia.com/cudnn">cudnn</a></li>
+</ul>
+<p>Download VGG-19:</p>
+<pre><code>sh models/download_models.sh
+</code></pre>
+<p>Compile <code>cuda_utils.cu</code> (Adjust <code>PREFIX</code> and <code>NVCC_PREFIX</code> in <code>makefile</code> for your machine):</p>
+<pre><code>make clean &amp;&amp; make
+</code></pre>
+<h2>Usage</h2>
+<h3>Quick start</h3>
+<p>To generate all results (in <code>examples/</code>) using the provided scripts, simply run</p>
+<pre><code>run('gen_laplacian/gen_laplacian.m')
+</code></pre>
+<p>in Matlab or Octave and then</p>
+<pre><code>python gen_all.py
+</code></pre>
+<p>in Python. The final output will be in <code>examples/final_results/</code>.</p>
+<h3>Basic usage</h3>
+<ol>
+<li>Given input and style images with semantic segmentation masks, put them in <code>examples/</code> respectively. They will have the following filename form: <code>examples/input/in<id>.png</code>, <code>examples/style/tar<id>.png</code> and <code>examples/segmentation/in<id>.png</code>, <code>examples/segmentation/tar<id>.png</code>;</li>
+<li>Compute the matting Laplacian matrix using <code>gen_laplacian/gen_laplacian.m</code> in Matlab. The output matrix will have the following filename form: <code>gen_laplacian/Input_Laplacian_3x3_1e-7_CSR<id>.mat</code>; </li>
+</ol>
+<p><strong>Note: Please make sure that the content image resolution is consistent for Matting Laplacian computation in Matlab and style transfer in Torch, otherwise the result won't be correct.</strong></p>
+<ol>
+<li>Run the following script to generate segmented intermediate result:<pre><code>th neuralstyle_seg.lua -content_image <input> -style_image <style> -content_seg <inputMask> -style_seg <styleMask> -index <id> -serial <intermediate_folder>
+</code></pre>
+</li>
+<li>Run the following script to generate final result:<pre><code>th deepmatting_seg.lua -content_image <input> -style_image <style> -content_seg <inputMask> -style_seg <styleMask> -index <id> -init_image <intermediate_folder/out<id>_t_1000.png> -serial <final_folder> -f_radius 15 -f_edge 0.01
+</code></pre>
+</li>
+</ol>
+<p>You can pass <code>-backend cudnn</code> and <code>-cudnn_autotune</code> to both Lua scripts (step 3.
+and 4.) to potentially improve speed and memory usage. <code>libcudnn.so</code> must be in
+your <code>LD_LIBRARY_PATH</code>. This requires <a href="https://github.com/soumith/cudnn.torch">cudnn.torch</a>.</p>
+<h3>Image segmentation</h3>
+<p>Note: In the main paper we generate all comparison results using automatic scene segmentation algorithm modified from <a href="https://arxiv.org/abs/1606.00915">DilatedNet</a>. Manual segmentation enables more diverse tasks hence we provide the masks in <code>examples/segmentation/</code>.</p>
+<p>The mask colors we used (you could add more colors in <code>ExtractMask</code> function in two <code>*.lua</code> files):</p>
+<table>
+<thead><tr>
+<th>Color variable</th>
+<th>RGB Value</th>
+<th>Hex Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>blue</code></td>
+<td><code>0 0 255</code></td>
+<td><code>0000ff</code></td>
+</tr>
+<tr>
+<td><code>green</code></td>
+<td><code>0 255 0</code></td>
+<td><code>00ff00</code></td>
+</tr>
+<tr>
+<td><code>black</code></td>
+<td><code>0 0 0</code></td>
+<td><code>000000</code></td>
+</tr>
+<tr>
+<td><code>white</code></td>
+<td><code>255 255 255</code></td>
+<td><code>ffffff</code></td>
+</tr>
+<tr>
+<td><code>red</code></td>
+<td><code>255 0 0</code></td>
+<td><code>ff0000</code></td>
+</tr>
+<tr>
+<td><code>yellow</code></td>
+<td><code>255 255 0</code></td>
+<td><code>ffff00</code></td>
+</tr>
+<tr>
+<td><code>grey</code></td>
+<td><code>128 128 128</code></td>
+<td><code>808080</code></td>
+</tr>
+<tr>
+<td><code>lightblue</code></td>
+<td><code>0 255 255</code></td>
+<td><code>00ffff</code></td>
+</tr>
+<tr>
+<td><code>purple</code></td>
+<td><code>255 0 255</code></td>
+<td><code>ff00ff</code></td>
+</tr>
+</tbody>
+</table>
+<p>Here are some automatic and manual tools for creating a segmentation mask for a photo image:</p>
+<h4>Automatic:</h4>
+<ul>
+<li><a href="http://sceneparsing.csail.mit.edu/">MIT Scene Parsing</a></li>
+<li><a href="http://www.cs.unc.edu/~jtighe/Papers/ECCV10/">SuperParsing</a></li>
+<li><a href="http://people.csail.mit.edu/celiu/LabelTransfer/">Nonparametric Scene Parsing</a></li>
+<li><a href="https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html">Berkeley Contour Detection and Image Segmentation Resources</a></li>
+<li><a href="https://github.com/torrvision/crfasrnn">CRF-RNN for Semantic Image Segmentation</a></li>
+<li><a href="https://github.com/belltailjp/selective_search_py">Selective Search</a></li>
+<li><a href="https://github.com/DrSleep/tensorflow-deeplab-lfov">DeepLab-TensorFlow</a></li>
+</ul>
+<h4>Manual:</h4>
+<ul>
+<li><a href="https://helpx.adobe.com/photoshop/using/making-quick-selections.html">Photoshop Quick Selection Tool</a></li>
+<li><a href="https://docs.gimp.org/en/gimp-tools-selection.html">GIMP Selection Tool</a></li>
+<li><a href="http://gmic.eu/gimp.shtml">GIMP G'MIC Interactive Foreground Extraction tool</a></li>
+</ul>
+<h2>Examples</h2>
+<p>Here are some results from our algorithm (from left to right are input, style and our output):</p>
+<p align='center'>
+  <img src='examples/input/in3.png' height='194' width='290'/>
+  <img src='examples/style/tar3.png' height='194' width='290'/>
+  <img src='examples/refine_posterization/refine_3.png' height='194' width='290'/>
+</p><p align='center'>
+  <img src='examples/input/in4.png' height='194' width='290'/>
+  <img src='examples/style/tar4.png' height='194' width='290'/>
+  <img src='examples/refine_posterization/refine_4.png' height='194' width='290'/>
+</p><p align='center'>
+  <img src='examples/input/in13.png' height='194' width='290'/>
+  <img src='examples/style/tar13.png' height='194' width='290'/>
+  <img src='examples/refine_posterization/refine_13.png' height='194' width='290'/>
+</p><p align='center'>
+  <img src='examples/input/in9.png' height='194' width='290'/>
+  <img src='examples/style/tar9.png' height='194' width='290'/>
+  <img src='examples/refine_posterization/refine_9.png' height='194' width='290'/>
+</p><p align='center'>
+  <img src='examples/input/in20.png' height='194' width='290'/>
+  <img src='examples/style/tar20.png' height='194' width='290'/>
+  <img src='examples/refine_posterization/refine_20.png' height='194' width='290'/>
+</p><p align='center'>
+  <img src='examples/input/in1.png' height='194' width='290'/>
+  <img src='examples/style/tar1.png' height='194' width='290'/>
+  <img src='examples/refine_posterization/refine_1.png' height='194' width='290'/>
+</p><p align='center'>
+  <img src='examples/input/in39.png' height='194' width='290'/>
+  <img src='examples/style/tar39.png' height='194' width='290'/>
+  <img src='examples/refine_posterization/refine_39.png' height='194' width='290'/>
+</p><p align='center'>
+  <img src='examples/input/in57.png' height='194' width='290'/>
+  <img src='examples/style/tar57.png' height='194' width='290'/>
+  <img src='examples/refine_posterization/refine_57.png' height='194' width='290'/>
+</p><p align='center'>
+  <img src='examples/input/in47.png' height='194' width='290'/>
+  <img src='examples/style/tar47.png' height='194' width='290'/>
+  <img src='examples/refine_posterization/refine_47.png' height='194' width='290'/>
+</p><p align='center'>
+  <img src='examples/input/in58.png' height='194' width='290'/>
+  <img src='examples/style/tar58.png' height='194' width='290'/>
+  <img src='examples/refine_posterization/refine_58.png' height='194' width='290'/>
+</p><p align='center'>
+  <img src='examples/input/in51.png' height='194' width='290'/>
+  <img src='examples/style/tar51.png' height='194' width='290'/>
+  <img src='examples/refine_posterization/refine_51.png' height='194' width='290'/>
+</p><p align='center'>
+  <img src='examples/input/in7.png' height='194' width='290'/>
+  <img src='examples/style/tar7.png' height='194' width='290'/>
+  <img src='examples/refine_posterization/refine_7.png' height='194' width='290'/>
+</p><p align='center'>
+  <img src='examples/input/in23.png' width='290'/>
+  <img src='examples/input/in23.png' width='290'/>
+  <img src='examples/final_results/best23_t_1000.png' width='290'/>
+</p><p align='center'>
+  <img src='examples/input/in16.png' height='194' width='290'/>
+  <img src='examples/style/tar16.png' height='194' width='290'/>
+  <img src='examples/refine_posterization/refine_16.png' height='194' width='290'/>
+</p><p align='center'>
+  <img src='examples/input/in30.png' height='194' width='290'/>
+  <img src='examples/style/tar30.png' height='194' width='290'/>
+  <img src='examples/refine_posterization/refine_30.png' height='194' width='290'/>
+</p><p align='center'>
+  <img src='examples/input/in2.png' height='194' width='290'/>
+  <img src='examples/style/tar2.png' height='194' width='290'/>
+  <img src='examples/final_results/best2_t_1000.png' height='194' width='290'/>
+</p><p align='center'>
+  <img src='examples/input/in11.png'  width='290'/>
+  <img src='examples/style/tar11.png' width='290'/>
+  <img src='examples/refine_posterization/refine_11.png'  width='290'/>
+</p><h2>Acknowledgement</h2>
+<ul>
+<li>Our torch implementation is based on Justin Johnson's <a href="https://github.com/jcjohnson/neural-style">code</a>;</li>
+<li>We use Anat Levin's Matlab <a href="http://www.wisdom.weizmann.ac.il/~levina/matting.tar.gz">code</a> to compute the matting Laplacian matrix.</li>
+</ul>
+<h2>Citation</h2>
+<p>If you find this work useful for your research, please cite:</p>
+<pre><code>@article{luan2017deep,
+  title={Deep Photo Style Transfer},
+  author={Luan, Fujun and Paris, Sylvain and Shechtman, Eli and Bala, Kavita},
+  journal={arXiv preprint arXiv:1703.07511},
+  year={2017}
+}
+</code></pre>
+<h2>Contact</h2>
+<p>Feel free to contact me if there is any question (Fujun Luan fl356@cornell.edu).</p>

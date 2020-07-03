@@ -1,0 +1,1479 @@
+11 {2018 arXiv} Video-to-Video Synthesis
+84 {2017 arXiv} Deep Image Prior
+136 {2017 arXiv} StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation
+11 {2018 arXiv} Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network
+17 {2018 arXiv} Learning to See in the Dark
+31 {2018 arXiv} Glow: Generative Flow with Invertible 1x1 Convolutions
+416 {2017 arXiv} Squeeze-and-Excitation Networks
+65 {2018 arXiv} Efficient Neural Architecture Search via Parameters Sharing
+49 {2018 arXiv} Multimodal Unsupervised Image-to-image Translation
+131 {2017 arXiv} Non-Local Neural Networks
+14 {2018 arXiv} Image Generation From Scene Graphs
+52 {2017 arXiv} Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?
+32 {2017 arXiv} Single-Shot Refinement Neural Network for Object Detection
+9 {2018 arXiv} GANimation: Anatomically-aware Facial Animation from a Single Image
+18 {2017 arXiv} Detect-and-Track: Efficient Pose Estimation in Videos
+32 {2017 arXiv} Relation Networks for Object Detection
+40 {2018 arXiv} PointCNN
+171 {2018 arXiv} Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples
+13 {2018 arXiv} Simple Baselines for Human Pose Estimation and Tracking
+26 {2018 arXiv} Taskonomy: Disentangling Task Transfer Learning
+33 {2018 ICML} Which Training Methods for GANs do actually Converge?
+23 {2017 arXiv} Cascaded Pyramid Network for Multi-Person Pose Estimation
+3 {2018 arXiv} Pelee: A Real-Time Object Detection System on Mobile Devices
+39 {2018 arXiv} Generative Image Inpainting With Contextual Attention
+31 {2017 arXiv} Neural 3D Mesh Renderer
+4 {2018 arXiv} Look at Boundary: A Boundary-Aware Face Alignment Algorithm
+13 {2018 arXiv} Zero-Shot Recognition via Semantic Embeddings and Knowledge Graphs
+24 {2017 arXiv} End-to-End Recovery of Human Shape and Pose
+22 {2017 arXiv} In-Place Activated BatchNorm for Memory-Optimized Training of DNNs
+51 {2017 arXiv} ICNet for Real-Time Semantic Segmentation on High-Resolution Images
+67 {2018 arXiv} The Unreasonable Effectiveness of Deep Features as a Perceptual Metric
+4 {2018 arXiv} Distractor-aware Siamese Networks for Visual Object Tracking
+60 {2017 arXiv} Frustum PointNets for 3D Object Detection From RGB-D Data
+10 {2018 arXiv} Efficient Interactive Annotation of Segmentation Datasets With Polygon-RNN++
+5 {2018 openaccess} Gibson Env: Real-World Perception for Embodied Agents
+10 {2018 arXiv}Transparency by Design: Closing the Gap Between Performance and Interpretability in Visual Reasoning
+3 {2018 arXiv} Soccer on Your Tabletop
+10 {2018 arXiv} Noise2Noise: Learning Image Restoration without Clean Data
+32 {2018 arXiv} GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose
+4 {2018 openaccess} GeoNet: Geometric Neural Network for Joint Depth and Surface Normal Estimation
+19 {2018 arXiv} Neural Baby Talk
+9 {2018 arXiv} Acquisition of Localization Confidence for Accurate Object Detection
+9 {2017 arXiv} The Lovász-Softmax Loss: A Tractable Surrogate for the Optimization of the Intersection-Over-Union Measure in Neural Networks
+48 {2017 arXiv} PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume
+3 {2018 arXiv} Fast End-to-End Trainable Guided Filter
+9 {2018} Adversarially Regularized Autoencoders
+0 {2018} License Plate Detection and Recognition in Unconstrained Scenarios
+10 {2018 openaccess} Supervision-by-Registration: An Unsupervised Approach to Improve the Precision of Facial Landmark Detectors
+2 {2017 arXiv} Supervising Unsupervised Learning
+17 {2018 arXiv} Pyramid Stereo Matching Network
+9 {2018 arXiv} Convolutional Neural Networks With Alternately Updated Clique
+5 {2018 CVPR} Deep Photo Enhancer: Unpaired Learning for Image Enhancement From Photographs With GANs
+15 {2018 arXiv}Neural Relational Inference for Interacting Systems
+19 {2018 arXiv} Learning to Adapt Structured Output Space for Semantic Segmentation
+13 {2018 arXiv} An intriguing failing of convolutional neural networks and the CoordConv solution
+31 {2017 arXiv} Learning to Segment Every Thing
+13 {2018 arXiv} LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation
+7 {2018 arXiv} End-to-End Learning of Motion Representation for Video Understanding
+9 {2018 arXiv} Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images
+10 {2018 arXiv} Bilinear Attention Networks
+12 {2018 arXiv} Iterative Visual Reasoning Beyond Convolutions
+4 {2018 arXiv} Semi-Parametric Image Synthesis
+2 {2018 arXiv} A Style-Aware Content Loss for Real-time HD Style Transfer
+11 {2018 arXiv} Style Aggregated Network for Facial Landmark Detection
+10 {2018 arXiv} Pose-Robust Face Recognition via Deep Residual Equivariant Mapping
+6 {2018 ICML} GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models
+5 {2018 arXiv} Referring Relationships
+68 {2017 arXiv} MoCoGAN: Decomposing Motion and Content for Video Generation
+20 {2017 arXiv} Compressed Video Action Recognition
+11 {2018 arXiv} LayoutNet: Reconstructing the 3D Room Layout From a Single RGB Image
+8 {2018 arXiv} ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation
+3 {2018 arXiv} Latent Alignment and Variational Attention
+12 {2017 arXiv} Multi-Content GAN for Few-Shot Font Style Transfer
+21 {2018 arXiv} SPLATNet: Sparse Lattice Networks for Point Cloud Processing
+14 {2017 arXiv} Attentive Generative Adversarial Network for Raindrop Removal From a Single Image
+7 {2018 arXiv} Single View Stereo Matching
+2 {2018 openaccess} Unsupervised Feature Learning via Non-Parametric Instance Discrimination
+5 {2018 openaccess} An End-to-End TextSpotter With Explicit Alignment and Attention
+22 {2018 arXiv} Social GAN: Socially Acceptable Trajectories With Generative Adversarial Networks
+11 {2018 arXiv} ST-GAN: Spatial Transformer Generative Adversarial Networks for Image Compositing
+7 {2018 arXiv} Evolved Policy Gradients
+5 {2018 arXiv} Optimizing Video Object Detection via a Scale-Time Lattice
+18 {2017 arXiv} Large-Scale Point Cloud Semantic Segmentation With Superpoint Graphs
+13 {2018 arXiv} Learning Category-Specific Mesh Reconstruction from Image Collections
+62 {2018 arXiv} Group Normalization
+35 {2017 arXiv} DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks
+10 {2018 arXiv} MegaDepth: Learning Single-View Depth Prediction From Internet Photos
+302 {2017 arXiv} ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices
+15 {2018 arXiv} Deep Clustering for Unsupervised Learning of Visual Features
+9 {2018 arXiv} BSN: Boundary Sensitive Network for Temporal Action Proposal Generation
+19 {2017 arXiv} Learning a Single Convolutional Super-Resolution Network for Multiple Degradations
+3 {2018 arXiv} Facelet-Bank for Fast Portrait Manipulation
+13 {2018 arXiv} Image Super-Resolution Using Very Deep Residual Channel Attention Networks
+9 {2018 arXiv} ECO: Efficient Convolutional Network for Online Video Understanding
+3 {2018 arXiv} PlaneNet: Piece-Wise Planar Reconstruction From a Single RGB Image
+8 {2018 arXiv} Self-Imitation Learning
+41 {2018 arXiv} Residual Dense Network for Image Super-Resolution
+37 {2017 arXiv} Embodied Question Answering
+3 {2018 arXiv} Unsupervised Cross-Dataset Person Re-Identification by Transfer Learning of Spatial-Temporal Patterns
+5 {2017 arXiv} Two-Stream Convolutional Networks for Dynamic Texture Synthesis
+28 {2018 arXiv} Densely Connected Pyramid Dehazing Network
+39 {2017 arXiv} Camera Style Adaptation for Person Re-Identification
+19 {2017 arXiv} Neural Motifs: Scene Graph Parsing With Global Context
+3 {2018 arXiv} Weakly and Semi Supervised Human Body Part Parsing via Pose-Guided Knowledge Transfer
+3 {2018 arXiv} Relational recurrent neural networks
+4 {2017 arXiv} LSTM Pose Machines
+23 {2018 arXiv} SO-Net: Self-Organizing Network for Point Cloud Analysis
+34 {2017 arXiv} Image-Image Domain Adaptation With Preserved Self-Similarity and Domain-Dissimilarity for Person Re-Identification
+1 {2017 arXiv} Context Embedding Networks
+7 {2018 arXiv} Fast and Accurate Online Video Object Segmentation via Tracking Parts
+8 {2018 arXiv} Cross-Domain Weakly-Supervised Object Detection Through Progressive Domain Adaptation
+53 {2017 arXiv} Learning to Compare: Relation Network for Few-Shot Learning
+5 {2018 arXiv} Recurrent Squeeze-and-Excitation Context Aggregation Net for Single Image Deraining
+4 {2018 openaccess} Structure Inference Net: Object Detection Using Scene-Level Context and Instance-Level Relationships
+0 {2018 arXiv} MVSNet: Depth Inference for Unstructured Multi-view Stereo
+9 {2018 arXiv} Weakly Supervised Instance Segmentation Using Class Peak Response
+1 {2018 NIPS} L4: Practical loss-based stepsize adaptation for deep learning
+43 {2017 arXiv} A Closer Look at Spatiotemporal Convolutions for Action Recognition
+16 {2018 arXiv} Unsupervised Learning of Monocular Depth Estimation and Visual Odometry With Deep Feature Reconstruction
+14 {2018 arXiv} Pix3D: Dataset and Methods for Single-Image 3D Shape Modeling
+3 {2018 arXiv} MultiPoseNet: Fast Multi-Person Pose Estimation using Pose Residual Network
+1 {2018 arXiv} Gated Path Planning Networks
+20 {2017 arXiv} PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning
+3 {2018 arXiv} Decoupled Networks
+12 {2018 arXiv} Video Based Reconstruction of 3D People Models
+35 {2018 arXiv} CosFace: Large Margin Cosine Loss for Deep Face Recognition
+5 {2018 arXiv} DeepMVS: Learning Multi-View Stereopsis
+12 {2018 arXiv} Hierarchical Imitation and Reinforcement Learning
+30 {2017 arXiv} Real-Time Seamless Single Shot 6D Object Pose Prediction
+4 {2018 arXiv} Adaptive Affinity Fields for Semantic Segmentation
+4 {2018 arXiv} Long-term Tracking in the Wild: a Benchmark
+23 {2018 arXiv} Realistic Evaluation of Deep Semi-Supervised Learning Algorithms
+90 {2017 arXiv} Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics
+32 {2018 arXiv} Deep Back-Projection Networks for Super-Resolution
+2 {2018 ECCV} 3D-CODED: 3D Correspondences by Deep Deformation
+13 {2018 arXiv} Recovering Realistic Texture in Image Super-Resolution by Deep Spatial Feature Transform
+4 {2018 arXiv} Scale-Recurrent Network for Deep Image Deblurring
+18 {2018 arXiv} PU-Net: Point Cloud Upsampling Network
+14 {2017 arXiv} Noisy Natural Gradient as Variational Inference
+24 {2018 arXiv} Domain Adaptive Faster R-CNN for Object Detection in the Wild
+5 {2018 arXiv} Rethinking Feature Distribution for Loss Functions in Image Classification
+16 {2018 openaccess} DenseASPP for Semantic Segmentation in Street Scenes
+4 {2018 arXiv} Quantized Densely Connected U-Nets for Efficient Landmark Localization
+8 {2018 arXiv} Graph R-CNN for Scene Graph Generation
+12 {2017 arXiv} Factoring Shape, Pose, and Layout From the 2D Image of a 3D Scene
+26 {2018 arXiv} Density-Aware Single Image De-Raining Using a Multi-Stream Dense Network
+13 {2018 arXiv} Deep Depth Completion of a Single RGB-D Image
+19 {2018 arXiv} MAttNet: Modular Attention Network for Referring Expression Comprehension
+22 {2018 arXiv} Style Tokens: Unsupervised Style Modeling, Control and Transfer in End-to-End Speech Synthesis
+2 {2018 arXiv} ELEGANT: Exchanging Latent Encodings with GAN for Transferring Multiple Face Attributes
+4 {2018 arXiv} Neural Arithmetic Logic Units
+3 {2018 arXiv} Perturbative Neural Networks
+3 {2018 arXiv} Knowledge Aided Consistency for Weakly Supervised Phrase Grounding
+17 {2017 arXiv} Repulsion Loss: Detecting Pedestrians in a Crowd
+5 {2017 arXiv} End-to-End Weakly-Supervised Semantic Alignment
+3 {2018 arXiv} Learning Blind Video Temporal Consistency
+6 {2018} PSANet: Point-wise Spatial Attention Network for Scene Parsing
+0 {2018} Piggyback: Adapting a Single Network to Multiple Tasks by Learning to Mask Weights
+9 {2018 arXiv} Nonlinear 3D Face Morphable Model
+46 {2017 arXiv} Deep Mutual Learning
+27 {2018 arXiv} Image Inpainting for Irregular Holes Using Partial Convolutions
+6 {2018 arXiv} BodyNet: Volumetric Inference of 3D Human Body Shapes
+15 {2017 arXiv} Integral Human Pose Regression
+13 {2017 arXiv} FSRNet: End-to-End Learning Face Super-Resolution With Facial Priors
+13 {2018 arXiv} Attention-based Deep Multiple Instance Learning
+5 {2018 openaccess} LiDAR-Video Driving Dataset: Learning Driving Policies Effectively
+17 {2018 arXiv} Multi-View Consistency as Supervisory Signal for Learning Shape and Pose Prediction
+4 {2018 arXiv} Macro-Micro Adversarial Network for Human Parsing
+1 {2018} Multi-view to Novel view: Synthesizing novel views with Self-Learned Confidence
+4 {2018 arXiv} LQ-Nets: Learned Quantization for Highly Accurate and Compact Deep Neural Networks
+7 {2018 arXiv} Neural Kinematic Networks for Unsupervised Motion Retargetting
+13 {2018 arXiv} Learning Spatial-Temporal Regularized Correlation Filters for Visual Tracking
+8 {2018 arXiv} Synthesizing Images of Humans in Unseen Poses
+0 {2018} A PID Controller Approach for Stochastic Optimization of Deep Networks
+18 {2018 arXiv} Tell Me Where to Look: Guided Attention Inference Network
+5 {2018 arXiv} Multi-Scale Location-Aware Kernel Representation for Object Detection
+3 {2018 NIPS} Recurrent Relational Networks
+17 {2017 arXiv} VITON: An Image-Based Virtual Try-On Network
+12 {2018 arXiv} VITAL: VIsual Tracking via Adversarial Learning
+5 {2017 arXiv} Future Frame Prediction for Anomaly Detection – A New Baseline
+9 {2017 arXiv} Recurrent Pixel Embedding for Instance Grouping
+4 {2018 arXiv} Learning Human-Object Interactions by Graph Parsing Neural Networks
+3 {2017 arXiv} Repeatability Is Not Enough: Learning Affine Regions via Discriminability
+12 {2017 arXiv} Visual Feature Attribution Using Wasserstein GANs
+10 {2018 openaccess} Avatar-Net: Multi-Scale Zero-Shot Style Transfer by Feature Decoration
+9 {2018} Learning SO(3) Equivariant Representations with Spherical CNNs
+8 {2018 arXiv} Factorizable Net: An Efficient Subgraph-based Framework for Scene Graph Generation
+10 {2017 arXiv} SGPN: Similarity Group Proposal Network for 3D Point Cloud Instance Segmentation
+21 {2017 arXiv} ScanComplete: Large-Scale Scene Completion and Semantic Segmentation for 3D Scans
+0 {2018 arXiv} One-Shot Unsupervised Cross Domain Translation
+0 {2018 ICCV} Pairwise Confusion for Fine-Grained Visual Classification
+3 {2017 arXiv} Multi-Shot Pedestrian Re-Identification via Sequential Decision Making
+6 {2018 ECCV} Generalizing A Person Retrieval Model Hetero- and Homogeneously
+25 {2017 arXiv} Learning Depth From Monocular Videos Using Direct Methods
+39 {2017 arXiv} Optimizing the Latent Space of Generative Networks
+15 {2018 arXiv} CSRNet: Dilated Convolutional Neural Networks for Understanding the Highly Congested Scenes
+19 {2017 arXiv} “Zero-Shot” Super-Resolution Using Deep Internal Learning
+11 {2018} Learning Attentions: Residual Attentional Siamese Network for High Performance Online Visual Tracking
+4 {2018 arXiv} PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition
+76 {2017 arXiv} Progressive Neural Architecture Search
+0 {2018 arXiv} Generative Neural Machine Translation
+12 {2018 arXiv} Learning to Reweight Examples for Robust Deep Learning
+3 {2018 arXiv} Object Level Visual Reasoning in Videos
+37 {2017 arXiv} Generate to Adapt: Aligning Domains Using Generative Adversarial Networks
+2 {2018} Improving Generalization via  Scalable Neighborhood Component Analysis
+6 {2018} Geometry-Aware Learning of Maps for Camera Localization
+9 {2018 arXiv} Path-Level Network Transformation for Efficient Architecture Search
+5 {2018 arXiv} Decorrelated Batch Normalization
+14 {2018 arXiv} Ordinal Depth Supervision for 3D Human Pose Estimation
+31 {2017 arXiv} Disentangled Person Image Generation
+3 {2018 arXiv} Regularizing RNNs for Caption Generation by Reconstructing the Past With the Present
+12 {2018 arXiv} Diverse Image-to-Image Translation via Disentangled Representations
+12 {2017 arXiv} Pointwise Convolutional Neural Networks
+1 {2018} Neural Program Synthesis from Diverse Demonstration Videos
+13 {2017 arXiv} Learning Less Is More - 6D Camera Localization via 3D Surface Regression
+2 {2018 ECCV} Unsupervised Domain Adaptation for 3D Keypoint Estimation via View Consistency
+7 {2017 arXiv} Learning Latent Super-Events to Detect Multiple Activities in Videos
+1 {2018 arXiv} Depth-aware CNN for RGB-D Segmentation
+3 {2018 arXiv} Crafting a Toolchain for Image Restoration by Deep Reinforcement Learning
+7 {2018 arXiv} Unsupervised Discovery of Object Landmarks as Structural Representations
+8 {2018 arXiv} Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval
+12 {2017 arXiv} Adversarial Feature Augmentation for Unsupervised Domain Adaptation
+13 {2018 arXiv} SparseMAP: Differentiable Sparse Structured Inference
+10 {2018 arXiv} Fast and Accurate Single Image Super-Resolution via Information Distillation Network
+4 {2018 openaccess} Neural Style Transfer via Meta Networks
+3 {2018 openaccesss} Deep Marching Cubes: Learning Explicit Surface Representations
+6 {2018 arXiv} Shift-Net: Image Inpainting via Deep Feature Rearrangement
+30 {2017 arXiv} Cascade R-CNN: Delving Into High Quality Object Detection
+6 {2018 arXiv} Fighting Fake News: Image Splice Detection via Learned Self-Consistency
+7 {2018} Weakly-Supervised Semantic Segmentation Network With Deep Seeded Region Growing
+13 {2018} Learning From Synthetic Data: Addressing Domain Shift for Semantic Segmentation
+10 {2018 arXiv} Leveraging Unlabeled Data for Crowd Counting by Learning to Rank
+5 {2018 arXiv} Hierarchical Long-term Video Prediction without Supervision
+23 {2017 arXiv} PDE-Net: Learning PDEs from Data
+4 {2018 arXiv} Discriminability Objective for Training Descriptive Captions
+0 {2018 arXiv} Efficient end-to-end learning for quantizable representations
+4 {2018 arXiv} DF-Net: Unsupervised Joint Learning of Depth and Flow using Cross-Task Consistency
+17 {2017 arXiv} Visual Question Generation as Dual Task of Visual Question Answering
+19 {2017 arXiv} BlockDrop: Dynamic Inference Paths in Residual Networks
+9 {2017 arXiv} Learning to Find Good Correspondences
+14 {2018 arXiv} Conditional Probability Models for Deep Image Compression
+8 {2017 arXiv} Pose-Normalized Image Generation for Person Re-identification
+7 {2017 arXiv} Wasserstein Introspective Neural Networks
+0 {2018 arXiv} Learning to Navigate for Fine-grained Classification
+8 {2018 arXiv} Jointly Optimize Data Augmentation and Network Training: Adversarial Data Augmentation in Human Pose Estimation
+15 {2018 arXiv} FOTS: Fast Oriented Text Spotting With a Unified Network
+5 {2018 arXiv} Measuring abstract reasoning in neural networks
+0 {2018 arXiv} Unsupervised Attention-guided Image-to-Image Translation
+2 {2018 arXiv} PlaneMatch: Patch Coplanarity Prediction for Robust RGB-D Reconstruction
+13 {2018 arXiv} Fast and Scalable Bayesian Deep Learning by Weight-Perturbation in Adam
+0 {2018 arXiv} Learning towards Minimum Hyperspherical Energy
+5 {2018 arXiv} Learning Pose Specific Representations by Predicting Different Views
+1 {2018 arXiv} Learning Rigidity in Dynamic Scenes with a Moving Camera for 3D Motion Field Estimation
+4 {2018 arXiv} Differentiable Compositional Kernel Learning for Gaussian Processes
+2 {2018 arXiv} Hierarchical Bilinear Pooling for Fine-Grained Visual Recognition
+16 {2018 arXiv} Real-World Anomaly Detection in Surveillance Videos
+15 {2018} Exploit the Unknown Gradually: One-Shot Video-Based Person Re-Identification by Stepwise Learning
+2 {2018} DeepVS: A Deep Learning Based Video Saliency Prediction Approach
+1 {2018} Semi-supervised Adversarial Learning to Generate Photorealistic Face Images of New Identities from 3D Morphable Model
+0 {2018 arXiv} Image Manipulation with Perceptual Discriminators
+3 {2018} RayNet: Learning Volumetric 3D Reconstruction With Ray Potentials
+8 {2018 arXiv} Rotation-Sensitive Regression for Oriented Scene Text Detection
+4 {2018 arXiv} Video Re-localization
+1 {2018} Learning Efficient Single-stage Pedestrian Detectors by Asymptotic Localization Fitting
+5 {2018 arXiv} Learning Intrinsic Image Decomposition From Watching the World
+0 {2018 arXiv} Coloring with Words: Guiding Image Colorization Through Text-based Palette Generation
+5 {2018 arXiv} Learning Pixel-Level Semantic Affinity With Image-Level Supervision for Weakly Supervised Semantic Segmentation
+1 {2018 arXiv} Deep k-Means: Re-Training and Parameter Sharing with Harder Cluster Assignments for Compressing Deep Convolutions
+1 {2018 arXiv} Superpixel Sampling Networks
+14 {2018 arXiv} CBAM: Convolutional Block Attention Module
+5 {2018 arXiv} Self-produced Guidance for Weakly-supervised Object Localization
+7 {2017 arXiv} Surface Networks
+2 {2018 arXiv} SketchyGAN: Towards Diverse and Realistic Sketch to Image Synthesis
+14 {2018 arXiv} Overcoming Catastrophic Forgetting with Hard Attention to the Task
+16 {2017 arXiv} Extracting Automata from Recurrent Neural Networks Using Queries and Counterexamples
+2 {2018 arXiv} PredRNN++: Towards A Resolution of the Deep-in-Time Dilemma in Spatiotemporal Predictive Learning
+11 {2018 arXiv} Neural Autoregressive Flows
+3 {2018 arXiv} Robust Classification With Convolutional Prototype Learning
+0 {2018} Pose Partition Networks for Multi-Person Pose Estimation
+0 {2018} Mutual Learning to Adapt for Joint Human Parsing and Pose Estimation
+9 {2018 arXiv} Frame-Recurrent Video Super-Resolution
+0 {2018 arXiv} Multi-View Silhouette and Depth Decomposition for High Resolution 3D Object Representation
+4 {2018 arXiv} Partial Adversarial Domain Adaptation
+7 {2018 arXiv} Part-Aligned Bilinear Representations for Person Re-Identification
+3 {2018 arXiv} Generalisation in humans and deep neural networks
+9 {2017 arXiv} Generative Adversarial Perturbations
+10 {2018 arXiv} Human Semantic Parsing for Person Re-Identification
+5 {2018 arXiv} 3DMV: Joint 3D-Multi-View Prediction for 3D Semantic Scene Segmentation
+1 {2018 arXiv} Towards Binary-Valued Gates for Robust LSTM Training
+6 {2018 arXiv} Hyperbolic Entailment Cones for Learning Hierarchical Embeddings
+1 {2018 arXiv} Holistic 3D Scene Parsing and Reconstruction from a Single RGB Image
+3 {2018 arXiv} Learning-based Video Motion Magnification
+22 {2017 arXiv} Few-Shot Image Recognition by Predicting Parameters From Activations
+7 {2018 arXiv} NetGAN: Generating Graphs via Random Walks
+4 {2018 arXiv} Actor and Observer: Joint Modeling of First and Third-Person Videos
+14 {2017 arXiv} Visualizing and Understanding Atari Agents
+4 {2018 arXiv} Learning Visual Question Answering by Bootstrapping Hard Attention
+0 {2018 arXiv} Choose Your Neuron: Incorporating Domain Knowledge through Neuron-Importance
+12 {2018 arXiv} Mean Field Multi-Agent Reinforcement Learning
+20 {2018 arXiv} Black-box Adversarial Attacks with Limited Queries and Information
+9 {2018 arXiv} Zero-Shot Object Detection
+7 {2018 arXiv} Stacked Cross Attention for Image-Text Matching
+21 {2018 arXiv} Gated Fusion Network for Single Image Dehazing
+16 {2017 arXiv} On the Robustness of Semantic Segmentation Models to Adversarial Attacks
+0 {2018} Graphical Generative Adversarial Networks
+9 {2017 arXiv} SeGAN: Segmenting and Generating the Invisible
+30 {2018 arXiv} Isolating Sources of Disentanglement in Variational Autoencoders
+3 {2018} Learning Semantic Representations for Unsupervised Domain Adaptation
+7 {2017 arXiv} CleanNet: Transfer Learning for Scalable Image Classifier Training With Label Noise
+4 {2018 arXiv} Deep Model-Based 6D Pose Refinement in RGB
+11 {2018} Human-Centric Indoor Scene Synthesis Using Stochastic Grammar
+2 {2018} Video Rain Streak Removal by Multiscale Convolutional Sparse Coding
+15 {2018 arXiv} Deflecting Adversarial Attacks With Pixel Deflection
+28 {2018 arXiv} Adversarial Logit Pairing
+15 {2018 arXiv} The Sound of Pixels
+0 {2018 arXiv} Learning Warped Guidance for Blind Face Restoration
+15 {2017 arXiv} Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation
+0 {2018 arXiv} TOM-Net: Learning Transparent Object Matting From a Single Image
+7 {2018} Real-Time Monocular Depth Estimation Using Synthetic Data With Domain Adaptation via Image Style Transfer
+1 {2018 arXiv} Neural Guided Constraint Logic Programming for Program Synthesis
+13 {2018} Mask-Guided Contrastive Attention Model for Person Re-Identification
+1 {2018} Quaternion Convolutional Neural Networks
+11 {2017 arXiv} Recurrent Scene Parsing With Perspective Understanding in the Loop
+294 {2017 arXiv} Interpretable Convolutional Neural Networks
+3 {2018 arXiv} Learning Dynamic Memory Networks for Object Tracking
+40 {2018 arXiv} Disentangling by Factorising
+7 {2018 arXiv} Adversarially Learned One-Class Classifier for Novelty Detection
+3 {2018 arXiv} Learning to Evaluate Image Captioning
+2 {2018 arXiv} SketchyScene: Richly-Annotated Scene Sketches
+8 {2018} Tangent Convolutions for Dense Prediction in 3D
+5 {2018 arXiv} Layer-structured 3D Scene Inference via View Synthesis
+0 {2018} Bidirectional Feature Pyramid Network with Recurrent Attention Residual Modules for Shadow Detection
+9 {2018 arXiv} Structured Attention Guided Convolutional Neural Fields for Monocular Depth Estimation
+13 {2018 arXiv} Revisiting Video Saliency: A Large-Scale Benchmark and a New Model
+5 {2018 arXiv} Deep Texture Manifold for Ground Terrain Recognition
+41 {2017 arXiv} Multi-Agent Diverse Generative Adversarial Networks
+1 {2018} Deep Regression Tracking with Shrinkage Loss
+6 {2018} Controllable Video Generation With Sparse Trajectories
+0 {2018 arXiv} First Order Generative Adversarial Networks
+27 {2017 arXiv} IQA: Visual Question Answering in Interactive Environments
+1 {2018 arXiv} Interpretable Intuitive Physics Model
+9 {2018 arXiv} Blazingly Fast Video Object Segmentation With Pixel-Wise Metric Learning
+5 {2017 arXiv} Graph-Cut RANSAC
+2 {2018 arXiv} A Trilateral Weighted Sparse Coding Scheme for Real-World Image Denoising
+2 {2018 arXiv} Improving Shape Deformation in Unsupervised Image-to-Image Translation
+5 {2018 arXiv} Conditional Image-to-Image Translation
+11 {2017 arXiv} Between-Class Learning for Image Classification
+5 {2018 arXiv} LF-Net: Learning Local Features from Images
+2 {2018 arXiv} CBMV: A Coalesced Bidirectional Matching Volume for Disparity Estimation
+9 {2018 arXiv} Exploring Disentangled Feature Representation Beyond Face Identification
+0 {2018} Learning to Promote Saliency Detectors
+51 {2017 arXiv} Visualizing the Loss Landscape of Neural Nets
+1 {2018} Real-time 'Actor-Critic' Tracking
+41 {2017 arXiv} CondenseNet: An Efficient DenseNet Using Learned Group Convolutions
+9 {2018 arXiv} Improved Fusion of Visual and Language Representations by Dense Symmetric Co-Attention for Visual Question Answering
+8 {2017 arXiv} Eye In-Painting With Exemplar Generative Adversarial Networks
+3 {2018 arXiv} EC-Net: an Edge-aware Point set Consolidation Network
+3 {2018 arXiv} SimplE Embedding for Link Prediction in Knowledge Graphs
+30 {2017 arXiv} Learning Convolutional Networks for Content-Weighted Image Compression
+10 {2017 arXiv} CSGNet: Neural Shape Parser for Constructive Solid Geometry
+6 {2018} SYQ: Learning Symmetric Quantization for Efficient Deep Neural Networks
+134 {2018 arXiv} Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation
+10 {2017 arXiv} Partial Transfer Learning With Selective Adversarial Networks
+0 {2018} Learning to Blend Photos
+2 {2018} Learning Single-View 3D Reconstruction with Limited Pose Supervision
+18 {2017 arXiv} A Generative Adversarial Approach for Zero-Shot Learning From Noisy Texts
+6 {2018 arXiv} Self-Consistent Trajectory Autoencoder: Hierarchical Reinforcement Learning with Trajectory Embeddings
+1 {2018 arXiv} Speaker-Follower Models for Vision-and-Language Navigation
+3 {2018 arXiv} Explicit Inductive Bias for Transfer Learning with Convolutional Networks
+2 {2018 arXiv} Exploiting the Potential of Standard Convolutional Autoencoders for Image Restoration by Evolutionary Search
+11 {2018 arXiv} Cross-Modal Deep Variational Hand Pose Estimation
+1 {2018 arXiv} Hyperbolic Neural Networks
+3 {2018 arXiv} Flow-Grounded Spatial-Temporal Video Prediction from Still Images
+1 {2018 arXiv} Single Shot Scene Text Retrieval
+3 {2018 arXiv} Hallucinated-IQA: No-Reference Image Quality Assessment via Adversarial Learning
+3 {2018 arXiv} Audio-Visual Event Localization in Unconstrained Videos
+9 {2018 arXiv} LEGO: Learning Edge With Geometry All at Once by Watching Videos
+2 {2018 arXiv} Deep Reinforcement Learning of Marked Temporal Point Processes
+1 {2018 arXiv} Learning to Multitask
+1 {2018 arXiv} Deep Randomized Ensembles for Metric Learning
+12 {2018 arXiv} Neural Architecture Search with Bayesian Optimisation and Optimal Transport
+0 {2018 arXiv} Neural Code Comprehension: A Learnable Representation of Code Semantics
+2 {2018 arXiv} Who Let the Dogs Out? Modeling Dog Behavior From Visual Data
+1 {2018} GraphBit: Bitwise Interaction Mining via Deep Reinforcement Learning
+7 {2017 arXiv} Im2Flow: Motion Hallucination From Static Images for Action Recognition
+0 {2018} Deep High Dynamic Range Imaging with Large Foreground Motions
+1 {2018} Fully Motion-Aware Network for Video Object Detection
+1 {2018 arXiv} DVAE#: Discrete Variational Autoencoders with Relaxed Boltzmann Priors
+16 {2018 arXiv} Diversity Regularized Spatiotemporal Attention for Video-Based Person Re-Identification
+1 {2018} Multi-scale Residual Network for Image Super-Resolution
+0 {2018 arXiv} GeoDesc: Learning Local Descriptors by Integrating Geometry Constraints
+4 {2018 arXiv} Link Prediction Based on Graph Neural Networks
+0 {2018 arXiv} PieAPP: Perceptual Image-Error Assessment Through Pairwise Preference
+2 {2017 arXiv} PiCANet: Learning Pixel-Wise Contextual Attention for Saliency Detection
+6 {2018 arXiv} Dimensionality-Driven Learning with Noisy Labels
+12 {2017 arXiv} FeaStNet: Feature-Steered Graph Convolutions for 3D Shape Analysis
+3 {2018 arXiv} Visual Question Reasoning on General Dependency Tree
+5 {2018 arXiv} Explainable Neural Computation via Stack Neural Module Networks
+1 {2018} Learning Generative ConvNets via Multi-Grid Modeling and Sampling
+0 {2018} CryptoKnight: Generating and Modelling Compiled Cryptographic Primitives
+4 {2018 arXiv} 3D Steerable CNNs: Learning Rotationally Equivariant Features in Volumetric Data
+1 {2018} Triplet Loss in Siamese Network for Object Tracking
+6 {2018} Crowd Counting With Deep Negative Correlation Learning
+5 {2017 arXiv} Towards Faster Training of Global Covariance Pooling Networks by Iterative Matrix Square Root Normalization
+1 {2018 arXiv} Disentangling Factors of Variation with Cycle-Consistent Variational Auto-Encoders
+10 {2018 arXiv} Coded Sparse Matrix Multiplication
+1 {2017 arXiv} Action Sets: Weakly Supervised Action Segmentation Without Ordering Constraints
+2 {2018 arXiv} Weakly-Supervised Action Segmentation With Iterative Soft Boundary Assignment
+0 {2018 arXiv} Functional Gradient Boosting based on Residual Network Perception
+19 {2017 arXiv} Zero-Shot Visual Recognition Using Semantics-Preserving Adversarial Embedding Networks
+1 {2018} Deep One-Class Classification
+2 {2017 arXiv} Conditional Image-Text Embedding Networks
+4 {2018 arXiv} EPINET: A Fully-Convolutional Neural Network Using Epipolar Geometry for Depth From Light Field Images
+4 {2018 arXiv} Learning Descriptor Networks for 3D Shape Synthesis and Analysis
+3 {2018 arXiv} Toward Characteristic-Preserving Image-based Virtual Try-On Network
+7 {2018 arXiv} Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning
+3 {2018 arXiv} Weakly- and Semi-Supervised Panoptic Segmentation
+2 {2018 arXiv} A Spectral Approach to Gradient Estimation for Implicit Distributions
+4 {2017 arXiv} ISTA-Net: Interpretable Optimization-Inspired Deep Network for Image Compressive Sensing
+11 {2017 arXiv} Grounding Referring Expressions in Images by Variational Context
+1 {2018 arXiv} Bayesian Optimization of Combinatorial Structures
+7 {2017 arXiv} Revisiting Deep Intrinsic Image Decompositions
+7 {2018 arXiv} Unsupervised Geometry-Aware Representation for 3D Human Pose Estimation
+7 {2017 arXiv} Stacked Conditional Generative Adversarial Networks for Jointly Learning Shadow Detection and Shadow Removal
+8 {2018 arXiv} Predicting Gaze in Egocentric Video by Learning Task-dependent Attention Transition
+5 {2018 arXiv} Convolutional Sequence to Sequence Model for Human Dynamics
+2 {2018 arXiv} Towards Human-Machine Cooperation: Self-Supervised Sample Mining for Object Detection
+2 {2018} Multi-Scale Weighted Nuclear Norm Image Restoration
+0 {2018} Hierarchical Relational Networks for Group Activity Recognition and Retrieval
+13 {2018 arXiv} Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies
+7 {2017 arXiv} NAG: Network for Adversary Generation
+7 {2018} Collaborative and Adversarial Network for Unsupervised Domain Adaptation
+7 {2018 arXiv} Adversarial Attack on Graph Structured Data
+2 {2018 arXiv} 3DFeat-Net: Weakly Supervised Local 3D Features for Point Cloud Registration
+6 {2018} Fast Video Object Segmentation by Reference-Guided Mask Propagation
+6 {2018 arXiv} To Trust Or Not To Trust A Classifier
+17 {2018 arXiv} Efficient Neural Audio Synthesis
+4 {2018} Learning 3D Shape Completion From Laser Scan Data With Weak Supervision
+1 {2018 arXiv} Visual Coreference Resolution in Visual Dialog using Neural Module Networks
+4 {2018 arXiv} Decouple Learning for Parameterized Image Operators
+9 {2018} Learning and Using the Arrow of Time
+17 {2018 arXiv} Adversarial Complementary Learning for Weakly Supervised Object Localization
+2 {2018 arXiv} Arbitrary Style Transfer With Deep Feature Reshuffle
+3 {2018} Gesture Recognition: Focus on the Hands
+3 {2018 arXiv} Local Spectral Graph Convolution for Point Set Feature Learning
+8 {2017 arXiv} Low-Shot Learning With Large-Scale Diffusion
+24 {2017 arXiv} Objects that Sound
+8 {2018 arXiv} CTAP: Complementary Temporal Action Proposal Generation
+21 {2018 arXiv} Image Transformer
+13 {2018 arXiv} Glimpse Clouds: Human Activity Recognition From Unstructured Feature Points
+7 {2018} Gradient-Based Meta-Learning with Learned Layerwise Metric and Subspace
+11 {2018 arXiv} Joint Optimization Framework for Learning With Noisy Labels
+7 {2018 arXiv} Learning to Forecast and Refine Residual Motion for Image-to-Video Generation
+1 {2018 arXiv} Hierarchical Novelty Detection for Visual Object Recognition
+0 {2018 arXiv} Learning Conditioned Graph Structures for Interpretable Visual Question Answering
+9 {2018 arXiv} Learning Rich Features for Image Manipulation Detection
+3 {2017 arXiv} Future Person Localization in First-Person Videos
+1 {2018} Neural Sign Language Translation
+3 {2017 arXiv} Sliced Wasserstein Distance for Learning Gaussian Mixture Models
+16 {2017 arXiv} Convolutional Image Captioning
+3 {2018} Face Aging With Identity-Preserved Conditional Generative Adversarial Networks
+7 {2017 arXiv} Deep Expander Networks: Efficient Deep Networks from Graph Theory
+0 {2018} HashGAN: Deep Learning to Hash With Pair Conditional Wasserstein GAN
+7 {2018 arXiv} Dynamic Multimodal Instance Segmentation Guided by Natural Language Queries
+0 {2018} Min-Entropy Latent Model for Weakly Supervised Object Detection
+250 {2017 arXiv} Learning Transferable Architectures for Scalable Image Recognition
+2 {2018} Hierarchical Multi-Label Classification Networks
+3 {2018 arXiv} Open Set Domain Adaptation by Backpropagation
+6 {2018} Joint Pose and Expression Modeling for Facial Expression Recognition
+1 {2018}  Pose Proposal Networks
+6 {2017 arXiv} Learning by Asking Questions
+0 {2018 arXiv} Densely Connected Attention Propagation for Reading Comprehension
+2 {2018 arXiv} Adversarial Time-to-Event Modeling
+3 {2018 arXiv} Fully-Convolutional Point Networks for Large-Scale Point Clouds
+19 {2018 arXiv} Multimodal Explanations: Justifying Decisions and Pointing to the Evidence
+2 {2018 arXiv} Generalized Earley Parser: Bridging Symbolic Grammars and Sequence Data for Future Prediction
+2 {2018 arXiv} Accelerating Natural Gradient with Higher-Order Invariance
+5 {2018 arXiv} Anonymous Walk Embeddings
+13 {2018 arXiv} Lipschitz-Margin Training: Scalable Certification of Perturbation Invariance for Deep Neural Networks
+2 {2018 arXiv} Learning Type-Aware Embeddings for Fashion Compatibility
+1 {2018 arXiv} Finding Influential Training Samples for Gradient Boosted Decision Trees
+6 {2018 arXiv} Mix and Match Networks: Encoder-Decoder Alignment for Zero-Pair Image Translation
+1 {2018} Meta-Learning by Adjusting Priors Based on Extended PAC-Bayes Theory
+0 {2018} Learning to Understand Image Blur
+4 {2018} AON: Towards Arbitrarily-Oriented Text Recognition
+0 {2018} Attention in Convolutional LSTM for Gesture Recognition
+1 {2018 arXiv} Rethinking the Form of Latent States in Image Captioning
+0 {2018 arXiv} Adaptive Skip Intervals: Temporal Abstraction for Recurrent Dynamical Models
+0 {2018} Deep Diffeomorphic Transformer Networks
+1 {2018} Learning Superpixels With Segmentation-Aware Affinity Loss
+132 {2017 arXiv} Synthesizing Robust Adversarial Examples
+15 {2018 arXiv} Learning a Discriminative Feature Network for Semantic Segmentation
+0 {2018 arXiv} Learning Dynamics of Linear Denoising Autoencoders
+6 {2018 arXiv} AMNet: Memorability Estimation With Attention
+4 {2017 arXiv} Hashing as Tie-Aware Learning to Rank
+5 {2017 arXiv} Variational Autoencoders for Deforming 3D Mesh Models
+1 {2018} Recovering 3D Planes from a Single Image via Convolutional Neural Networks
+5 {2018 arXiv} Boosting Domain Adaptation by Discovering Latent Domains
+3 {2017 arXiv} Fast Information-theoretic Bayesian Optimisation
+5 {2018} Salient Object Detection Driven by Fixation Prediction
+4 {2018 arXiv} Deep Variational Reinforcement Learning for POMDPs
+5 {2018 arXiv} Cross-View Image Synthesis Using Conditional GANs
+2 {2017 arXiv} Excitation Backprop for RNNs
+1 {2018 arXiv} A Unified Feature Disentangler for Multi-Domain Image Translation and Manipulation
+11 {2018 arXiv} Analyzing Uncertainty in Neural Machine Translation
+69 {2018} Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering
+1 {2018}Learning a Discriminative Filter Bank Within a CNN for Fine-Grained Recognition
+12 {2017 arXiv} PacGAN: The power of two samples in generative adversarial networks
+1 {2018 arXiv} Decoupled Parallel Backpropagation with Convergence Guarantee
+0 {2018 arXiv} Generative Probabilistic Novelty Detection with Adversarial Autoencoders
+0 {2018 arXiv} Fine-Grained Visual Categorization using Meta-Learning Optimization with Sample Selection of Auxiliary Data
+13 {2017 arXiv} Cross-Domain Self-Supervised Multi-Task Feature Learning Using Synthetic Imagery
+2 {2018 arXiv} Five-Point Fundamental Matrix Estimation for Uncalibrated Cameras
+15 {2016 arXiv} Semantic Video Segmentation by Gated Recurrent Flow Propagation
+5 {2018 arXiv}  Detecting and Correcting for Label Shift with Black Box Predictors
+2 {2018} A Two-Step Disentanglement Method
+16 {2018 arXiv} Learning to Explain: An Information-Theoretic Perspective on Model Interpretation
+0 {2018 arXiv}  Conditional Prior Networks for Optical Flow
+0 {2018} oi-VAE: Output Interpretable VAEs for Nonlinear Group Factor Analysis
+0 {2018} A Memory Network Approach for Story-Based Temporal Summarization of 360° Videos
+1 {2018 arXiv} Clipped Action Policy Gradient
+3 {2018} Generative Adversarial Learning Towards Fast Weakly Supervised Detection
+2 {2018 arXiv} Generalizing to Unseen Domains via Adversarial Data Augmentation
+3 {2018 arXiv} On GANs and GMMs
+8 {2018 arXiv} SpiderCNN: Deep Learning on Point Sets with Parameterized Convolutional Filters
+1 {2018 arXiv} Deep Learning Under Privileged Information Using Heteroscedastic Dropout
+4 {2018 arXiv} Stochastic Downsampling for Cost-Adjustable Inference and Improved Regularization in Convolutional Networks
+6 {2018 arXiv} Banach Wasserstein GAN
+5 {2018} Low-Shot Learning With Imprinted Weights
+45 {2017 arXiv} AttnGAN: Fine-Grained Text to Image Generation With Attentional Generative Adversarial Networks
+8 {2018 arXiv} Towards Open-Set Identity Preserving Face Synthesis
+0 {2018 arXiv} ShapeStacks: Learning Vision-Based Physical Intuition for Generalised Object Stacking
+0 {2018 arXiv} Adversarial Learning with Local Coordinate Coding
+5 {2018} Geometry-Aware Scene Text Detection With Instance Transformation Network
+6 {2018} Progressive Attention Guided Recurrent Network for Salient Object Detection
+5 {2018} AutoLoc: Weakly-supervised Temporal Action Localization in Untrimmed Videos
+1 {2018} Learning Facial Action Units From Web Images With Scalable Weakly Supervised Clustering
+2 {2018 arXiv} Specular-to-Diffuse Translation for Multi-View Reconstruction
+0 {2018} Dynamic Conditional Networks for Few-Shot Learning
+1 {2018} The Description Length of Deep Learning models
+11 {2018 arXiv} The Mirage of Action-Dependent Baselines in Reinforcement Learning
+5 {2018 arXiv} Multimodal Generative Models for Scalable Weakly-Supervised Learning
+4 {2018 arXiv} Blind Justice: Fairness with Encrypted Sensitive Attributes
+0 {2018 arXiv} Inner Space Preserving Generative Pose Machine
+22 {2017 arXiv} Don’t Just Assume  Look and Answer: Overcoming Priors for Visual Question Answering
+14 {2017 arXiv} Attention Clusters: Purely Attention Based Local Feature Integration for Video Classification
+8 {2018 arXiv} Bilevel Programming for Hyperparameter Optimization and Meta-Learning
+2 {2018} Transfer Learning via Learning to Transfer
+1 {2018 arXiv} Ultra Large-Scale Feature Selection using Count-Sketches
+13 {2018 arXiv} Learning to Separate Object Sounds by Watching Unlabeled Video
+2 {2018 arXiv} HiDDeN: Hiding Data with Deep Networks
+0 {2018 arXiv} Orthogonally Decoupled Variational Gaussian Processes
+1 {2018} Constraint-Aware Deep Neural Network Compression
+5 {2018 arXiv} Assessing Generative Models via Precision and Recall
+5 {2018 arXiv} Learning K-way D-dimensional Discrete Codes for Compact Embedding Representations
+0 {2018} Weakly-supervised Video Summarization using Variational Encoder-Decoder and Web Prior
+3 {2018 arXiv} Pixels, Voxels, and Views: A Study of Shape Representations for Single View 3D Object Shape Prediction
+1 {2017 arXiv} Unsupervised holistic image generation from key local patches
+0 {2018} Learning Steady-States of Iterative Algorithms over Graphs
+2 {2018 arXiv} Modeling Sparse Deviations for Compressed Sensing using Generative Models
+2 {2018} Inter and Intra Topic Structure Learning with Word Embeddings
+3 {2017 arXiv} Gradually Updated Neural Networks for Large-Scale Image Recognition
+12 {2018 arXiv} Neural Architecture Optimization
+4 {2018 arXiv} High-Quality Prediction Intervals for Deep Learning: A Distribution-Free, Ensembled Approach
+13 {2018 arXiv} Dynamic-Structured Semantic Propagation Network
+1 {2018} Human Pose Estimation With Parsing Induced Learner
+5 {2017 arXiv} Learning Face Age Progression: A Pyramid Architecture of GANs
+16 {2018 arXiv} Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation
+1 {2018 arXiv} Joint Representation and Truncated Inference Learning for Correlation Filter based Tracking
+3 {2017 arXiv} Logo Synthesis and Manipulation With Clustered Generative Adversarial Networks
+2 {2018 arXiv} Zoom and Learn: Generalizing Deep Stereo Matching to Novel Domains
+0 {2018} Light Structure from Pin Motion: Simple and Accurate Point Light Calibration for Physics-based Modeling
+18 {2018} Robust Physical-World Attacks on Deep Learning Visual Classification
+4 {2018} End-to-End Incremental Learning
+3 {2018 arXiv} Statistically-motivated Second-order Pooling
+3 {2018 arXiv} Classification from Pairwise Similarity and Unlabeled Data
+4 {2018 arXiv} DVQA: Understanding Data Visualizations via Question Answering
+0 {2018} Towards Realistic Predictors
+4 {2017 arXiv} Connecting Pixels to Privacy and Utility: Automatic Redaction of Private Information in Images
+0 {2018 arXiv} Breaking the Activation Function Bottleneck through Adaptive Parameterization
+0 {2018 arXiv} Quadrature-based features for kernel approximation
+0 {2018} Transferable Adversarial Perturbations
+1 {2018 arXiv} BourGAN: Generative Networks with Metric Embeddings
+0 {2018} Geolocation Estimation of Photos using a Hierarchical Model and Scene Classification
+1 {2018} Estimating the Success of Unsupervised Image to Image Translation
+2 {2018 arXiv} Tracking Emerges by Colorizing Videos
+1 {2017 arXiv} Differentially Private Database Release via Kernel Mean Embeddings
+19 {2018 arXiv} Inference Suboptimality in Variational Autoencoders
+27 {2018 arXiv} Mutual Information Neural Estimation
+5 {2017 arXiv} Convergent Tree Backup and Retrace with Function Approximation
+5 {2018 arXiv} Not to Cry Wolf: Distantly Supervised Multitask Learning in Critical Care
+2 {2018} Saliency Detection in 360° Videos
+5 {2018 arXiv} Learning to Branch
+0 {2018} Gaze Prediction in Dynamic 360° Immersive Videos
+1 {2017 arXiv} Feedback-Prop: Convolutional Neural Network Inference Under Partial Evidence
+1 {2018 arXiv} A Joint Sequence Fusion Model for Video Question Answering and Retrieval
+0 {2018 arXiv} Sidekick Policy Learning for Active Visual Exploration
+0 {2018} CLEAR: Cumulative LEARning for One-Shot One-Class Image Recognition
+0 {2017 arXiv} Spatially-Adaptive Filter Units for Deep Neural Networks
+2 {2018 arXiv} Learning Answer Embeddings for Visual Question Answering
+8 {2017 arXiv} Deep Burst Denoising
+164 {2017 arXiv} High-Resolution Image Synthesis and Semantic Manipulation With Conditional GANs
+8 {2018 arXiv} Image Super-Resolution via Dual-State Recurrent Networks
+3 {2018 arXiv} Deepcode: Feedback Codes via Deep Learning
+1 {2018} Parallel Bayesian Network Structure Learning
+2 {2018 arXiv} SegStereo: Exploiting Semantic Information for Disparity Estimation
+2 {2017 arXiv} Disentangling Factors of Variation by Mixing Them
+1 {2018 arXiv} Diverse and Coherent Paragraph Generation from Images
+1 {2018 arXiv} Statistical Recurrent Models on Manifold valued Data
+8 {2018 arXiv} Ring Loss: Convex Feature Normalization for Face Recognition
+0 {2018 arXiv} Stereo Vision-based Semantic 3D Object and Ego-motion Tracking for Autonomous Driving
+3 {2018 arXiv} Stabilizing Gradients for Deep Neural Networks via Efficient SVD Parameterization
+58 {2017 arXiv} Bridging the Gap Between Value and Policy Based Reinforcement Learning
+50 {2017 arXiv} REBAR: Low-variance, unbiased gradient estimates for discrete latent variable models
+477 {2017} Focal Loss for Dense Object Detection
+114 {2017 arXiv} Deep Photo Style Transfer
+1244 {2017 arXiv} Mask R-CNN
+126 {2017} LightGBM: A Highly Efficient Gradient Boosting Decision Tree
+92 {2017 arXiv} Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation
+997 {2017 arXiv} Attention is All you Need
+59 {2017 arXiv} Large Pose 3D Face Reconstruction From a Single Image via Direct Volumetric CNN Regression
+2417 {2016 arXiv} Densely Connected Convolutional Networks
+96 {2017 arXiv} A Unified Approach to Interpreting Model Predictions
+262 {2017 arXiv} Deformable Convolutional Networks
+29 {2017 arXiv} ELF: An Extensive, Lightweight and Flexible Research Platform for Real-time Strategy Games
+184 {2016 arXiv} Fully Convolutional Instance-Aware Semantic Segmentation
+213 {2017} PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
+856 {2017 arXiv} Improved Training of Wasserstein GANs
+643 {2016 arXiv} Aggregated Residual Transformations for Deep Neural Networks
+170 {2017 arXiv} Photographic Image Synthesis With Cascaded Refinement Networks
+309 {2017 arXiv} Unsupervised Image-to-Image Translation Networks
+1150 {2016 arXiv} Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
+132 {2016 arXiv} High-Resolution Image Inpainting Using Multi-Scale Neural Patch Synthesis
+175 {2017 arXiv} SphereFace: Deep Hypersphere Embedding for Face Recognition
+29 {2017 arXiv} Bayesian GAN
+67 {2016 arXiv} Deep Feature Flow for Video Recognition
+704 {2016 arXiv} Pyramid Scene Parsing Network
+8 {2017 arXiv} Efficient Modeling of Latent Information in Supervised Learning using Gaussian Processes
+159 {2016 arXiv} Finding Tiny Faces
+329 {2017 arXiv} Learning to Discover Cross-Domain Relations with Generative Adversarial Networks
+1436 {2017 arXiv} YOLO9000: Better, Faster, Stronger
+88 {2017 arXiv} Toward Multimodal Image-to-Image Translation
+369 {2016 arXiv} FlowNet 2.0: Evolution of Optical Flow Estimation With Deep Networks
+271 {2017 arXiv} PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space
+330 {2017 arXiv} Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
+102 {2017 arXiv} Inferring and Executing Programs for Visual Reasoning
+135 {2017 arXiv} Channel Pruning for Accelerating Very Deep Neural Networks
+150 {2017 arXiv} Dilated Residual Networks
+70 {2016 arXiv} Accelerating Eulerian Fluid Simulation With Convolutional Networks
+69 {2017 arXiv} DSOD: Learning Deeply Supervised Object Detectors From Scratch
+136 {2017 arXiv} Arbitrary Style Transfer in Real-Time With Adaptive Instance Normalization
+63 {2017 arXiv} Learning Disentangled Representations with Semi-Supervised Deep Generative Models
+85 {2017 arXiv} How Far Are We From Solving the 2D & 3D Face Alignment Problem? (And a Dataset of 230,000 3D Facial Landmarks)
+56 {2016 arXiv} Regressing Robust and Discriminative 3D Morphable Models With a Very Deep Neural Network
+419 {2016 arXiv} Learning From Simulated and Unsupervised Images Through Adversarial Training
+190 {2016 arXiv} Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space
+59 {2017 arXiv} SSH: Single Stage Headless Face Detector
+49 {2017} GMS: Grid-based Motion Statistics for Fast, Ultra-Robust Feature Correspondence
+113 {2017 arXiv} Dual Path Networks
+202 {2017 arXiv} Inductive Representation Learning on Large Graphs
+48 {2017 arXiv} Video Frame Interpolation via Adaptive Convolution
+56 {2017 arXiv} Video Frame Interpolation via Adaptive Separable Convolution
+115 {2016 arXiv} Joint Detection and Identification Feature Learning for Person Search
+53 {2017 arXiv} Flow-Guided Feature Aggregation for Video Object Detection
+176 {2016 arXiv} Recurrent Highway Networks
+45 {2017 arXiv} Deep Image Matting
+42 {2017 arXiv} Detect to Track and Track to Detect
+55 {2017 arXiv} Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results
+33 {2017 arXiv} Annotating Object Instances With a Polygon-RNN
+326 {2016 arXiv} RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation
+10 {2017 arXiv} Deep Lattice Networks and Partial Monotonic Functions
+62 {2017 arXiv} RON: Reverse Connection With Objectness Prior Networks for Object Detection
+78 {2017 arXiv} Detecting Oriented Text in Natural Images by Linking Segments
+54 {2017 arXiv} Universal Style Transfer via Feature Transforms
+66 {2017 arXiv} Accurate Single Stage Detector Using Recurrent Rolling Convolution
+153 {2016 arXiv} One-Shot Video Object Segmentation
+53 {2016 arXiv} Efficient softmax approximation for GPUs
+215 {2017 arXiv} Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution
+76 {2017 arXiv} Pixel Recursive Super Resolution
+251 {2017 arXiv} Residual Attention Network for Image Classification
+26 {2017 arXiv} Dilated Recurrent Neural Networks
+178 {2016 arXiv} OctNet: Learning Deep 3D Representations at High Resolutions
+702 {2016 arXiv} Feature Pyramid Networks for Object Detection
+55 {2016 arXiv} The Predictron:  End-To-End Learning and Planning
+84 {2016 arXiv} DeepBach: a Steerable Model for Bach Chorales Generation
+190 {2016 arXiv} Self-Critical Sequence Training for Image Captioning
+79 {2017 arXiv} Age Progression/Regression by Conditional Adversarial Autoencoder
+81 {2017 arXiv} Style Transfer from Non-Parallel Text by Cross-Alignment
+85 {2017 arXiv} Lifting From the Deep: Convolutional 3D Pose Estimation From a Single Image
+73 {2016 arXiv} Richer Convolutional Features for Edge Detection
+48 {2017 arXiv} OptNet: Differentiable Optimization as a Layer in Neural Networks
+114 {2017 arXiv} Deep Voice: Real-time Neural Text-to-Speech
+441 {2017 arXiv} Convolutional Sequence to Sequence Learning
+103 {2017 arXiv} Reinforcement Learning with Deep Energy-Based Policies
+177 {2016 arXiv} Knowing When to Look: Adaptive Attention via a Visual Sentinel for Image Captioning
+143 {2016 arXiv} Stacked Generative Adversarial Networks
+60 {2016 arXiv} RMPE: Regional Multi-Person Pose Estimation
+16 {2017 arXiv} BlitzNet: A Real-Time Deep Network for Scene Understanding
+218 {2016 arXiv} Language Modeling with Gated Convolutional Networks
+152 {2016 arXiv} A Point Set Generation Network for 3D Object Reconstruction From a Single Image
+57 {2016 arXiv} Spatially Adaptive Computation Time for Residual Networks
+220 {2017 arXiv} Prototypical Networks for Few-shot Learning
+234 {2017 arXiv} Unlabeled Samples Generated by GAN Improve the Person Re-Identification Baseline in Vitro
+32 {2017 arXiv} The Reversible Residual Network: Backpropagation Without Storing Activations
+80 {2017 arXiv} Generative Face Completion
+132 {2016 arXiv} Deeply Supervised Salient Object Detection With Short Connections
+23 {2017 arXiv} Recurrent Scale Approximation for Object Detection in CNN
+132 {2016 arXiv} Visual Dialog
+9 {2016 arXiv} FastMask: Segment Multi-Scale Object Candidates in One Shot
+151 {2017 arXiv} Learning Deep CNN Denoiser Prior for Image Restoration
+24 {2017 arXiv} VPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition
+107 {2017 arXiv} Interpretable Explanations of Black Boxes by Meaningful Perturbation
+165 {2016 arXiv} Semantic Scene Completion From a Single Depth Image
+34 {2016 arXiv} Inverse Compositional Spatial Transformer Networks
+100 {2017 arXiv} Learning From Synthetic Humans
+57 {2017 arXiv} Learning Feature Pyramids for Human Pose Estimation
+30 {2017 arXiv} Be Your Own Prada: Fashion Synthesis With Structural Coherence
+5 {2017} OnACID: Online Analysis of Calcium Imaging Data in Real Time
+107 {2017 arXiv} Learning to Reason: End-To-End Module Networks for Visual Question Answering
+83 {2016 arXiv} 3D Bounding Box Estimation Using Deep Learning and Geometry
+31 {2017 arXiv} Binarized Convolutional Landmark Localizers for Human Pose Estimation and Face Alignment With Limited Resources
+161 {2016 arXiv} Multi-View 3D Object Detection Network for Autonomous Driving
+97 {2017 arXiv} Learning Efficient Convolutional Networks Through Network Slimming
+117 {2017 arXiv} Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis
+127 {2017 arXiv} GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium
+39 {2017 arXiv} Fast Image Processing With Fully-Convolutional Networks
+79 {2017 arXiv} Scene Graph Generation by Iterative Message Passing
+42 {2017 arXiv} Single Shot Text Detector With Regional Attention
+150 {2017} Image Super-Resolution via Deep Recursive Residual Network
+29 {2016 arXiv} Input Convex Neural Networks
+43 {2017 arXiv} Oriented Response Networks
+10 {2015 arXiv} Learning Multiple Tasks with Multilinear Relationship Networks
+56 {2017} Learning Cross-Modal Embeddings for Cooking Recipes and Food Images
+52 {2017 arXiv} On Human Motion Prediction Using Recurrent Neural Networks
+6 {2017} Language Modeling with Recurrent Highway Hypernetworks
+23 {2017 arXiv} Soft Proposal Networks for Weakly Supervised Object Localization
+126 {2017 arXiv} Axiomatic Attribution for Deep Networks
+77 {2016 arXiv} Low-Shot Visual Recognition by Shrinking and Hallucinating Features
+60 {2016 arXiv} Simple Does It: Weakly Supervised Instance and Semantic Segmentation
+43 {2016 arXiv} Deep Feature Interpolation for Image Content Changes
+34 {2017 arXiv} Interpolated Policy Gradient: Merging On-Policy and Off-Policy Gradient Estimation for Deep Reinforcement Learning
+153 {2017 arXiv} Adversarial Variational Bayes: Unifying Variational Autoencoders and Generative Adversarial Networks
+11 {2017 arXiv} Attend to You: Personalized Image Captioning With Context Sequence Memory Networks
+56 {2017 arXiv} Triple Generative Adversarial Nets
+22 {2016 arXiv} Conditional Similarity Networks
+30 {2017 arXiv} One-Sided Unsupervised Domain Mapping
+28 {2017 arXiv} Attentive Recurrent Comparators
+57 {2017 arXiv} Detecting Visual Relationships With Deep Relational Networks
+50 {2017 arXiv} Gradient Episodic Memory for Continual Learning
+84 {2016 arXiv} Controlling Perceptual Factors in Neural Style Transfer
+84 {2017 arXiv} CREST: Convolutional Residual Learning for Visual Tracking
+101 {2017 arXiv} Multi-Context Attention for Human Pose Estimation
+56 {2017 arXiv} SegFlow: Joint Learning for Video Object Segmentation and Optical Flow
+59 {2017 arXiv} Towards 3D Human Pose Estimation in the Wild: A Weakly-Supervised Approach
+53 {2016 arXiv} DSAC - Differentiable RANSAC for Camera Localization
+41 {2017 arXiv} Learning a Multi-View Stereo Machine
+13 {2017 arXiv} Deep Learning for Precipitation Nowcasting: A Benchmark and A New Model
+19 {2017 arXiv} Segmentation-Aware Convolutional Networks Using Local Attention Masks
+71 {2017 arXiv} Bayesian Compression for Deep Learning
+49 {2017 arXiv} Value Prediction Network
+9 {2017 arXiv} Hierarchical Attentive Recurrent Tracking
+121 {2016 arXiv} Discriminative Correlation Filter With Channel and Spatial Reliability
+25 {2017 arXiv} Learning by Association -- A Versatile Semi-Supervised Training Method for Neural Networks
+40 {2017 arXiv} Associative Domain Adaptation
+55 {2017 arXiv} Concrete Dropout
+127 {2017 arXiv} SVDNet for Pedestrian Retrieval
+22 {2017 arXiv} Semantic Image Synthesis via Adversarial Learning
+88 {2017} Spatiotemporal Multiplier Networks for Video Action Recognition
+92 {2016 arXiv} Deep Pyramidal Residual Networks
+73 {2017 arXiv} Good Semi-supervised Learning That Requires a Bad GAN
+67 {2016 arXiv} Deep Watershed Transform for Instance Segmentation
+37 {2016 arXiv} PoseTrack: Joint Multi-Person Pose Estimation and Tracking
+25 {2017 arXiv} Show, Adapt and Tell: Adversarial Training of Cross-Domain Image Captioner
+69 {2017 arXiv} TernGrad: Ternary Gradients to Reduce Communication in Distributed Deep Learning
+69 {2017 arXiv} Split-Brain Autoencoders: Unsupervised Learning by Cross-Channel Prediction
+28 {2017 arXiv} Bayesian Optimization with Gradients
+32 {2017 arXiv} Detail-Revealing Deep Video Super-Resolution
+76 {2017 arXiv} MemNet: A Persistent Memory Network for Image Restoration
+61 {2017 arXiv} Compressed Sensing using Generative Models
+40 {2017 arXiv} Unrestricted Facial Geometry Reconstruction Using Image-To-Image Translation
+20 {2017 arXiv} Deep Hyperspherical Learning
+110 {2017 arXiv} FeUdal Networks for Hierarchical Reinforcement Learning
+63 {2017 arXiv} Switching Convolutional Neural Network for Crowd Counting
+61 {2017} WILDCAT: Weakly Supervised Learning of Deep ConvNets for Image Classification, Pointwise Localization and Segmentation
+29 {2017 arXiv} Working hard to know your neighbor's margins: Local descriptor learning loss
+98 {2017 arXiv} Video Frame Synthesis Using Deep Voxel Flow
+98 {2017 arXiv} Train longer, generalize better: closing the generalization gap in large batch training of neural networks
+320 {2017 arXiv} Adversarial Discriminative Domain Adaptation
+120 {2017 arXiv} ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression
+105 {2017 arXiv} Multi-View Supervision for Single-View Reconstruction via Differentiable Ray Consistency
+33 {2017} Interleaved Group Convolutions
+9 {2017 arXiv} Task-based End-to-end Model Learning in Stochastic Optimization
+20 {2017 arXiv} Learning to Compose Domain-Specific Transformations for Data Augmentation
+63 {2016 arXiv} Decoupled Neural Interfaces using Synthetic Gradients
+8 {2017 arXiv} AMC: Attention guided Multi-modal Correlation Learning for Image Search
+71 {2016 arXiv} Learning a Deep Embedding Model for Zero-Shot Learning
+145 {2017 arXiv} Genetic CNN
+35 {2017 arXiv} Unite the People: Closing the Loop Between 3D and 2D Human Representations
+97 {2017 arXiv} Semantic Autoencoder for Zero-Shot Learning
+17 {2017} Learning Combinatorial Optimization Algorithms over Graphs
+61 {2017} HashNet: Deep Learning to Hash by Continuation
+230 {2016 arXiv} ECO: Efficient Convolution Operators for Tracking
+20 {2017 arXiv} Best of Both Worlds: Transferring Knowledge from Discriminative Learning to a Generative Visual Dialog Model
+120 {2016 arXiv} SCA-CNN: Spatial and Channel-Wise Attention in Convolutional Networks for Image Captioning
+18 {2017 arXiv} Fast-Slow Recurrent Neural Networks
+24 {2017 arXiv} GANs for Biological Image Synthesis
+26 {2017 arXiv} Optical Flow in Mostly Rigid Scenes
+29 {2017 arXiv} Representation Learning by Learning to Count
+92 {2017 arXiv} Octree Generating Networks: Efficient Convolutional Architectures for High-Resolution 3D Outputs
+23 {2017 arXiv} Practical Bayesian Optimization for Model Fitting with Bayesian Adaptive Direct Search
+50 {2017 arXiv} Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data
+112 {2017 arXiv} Deeply-Learned Part-Aligned Representations for Person Re-Identification
+50 {2016 arXiv} Deep Video Deblurring for Hand-Held Cameras
+30 {2017 arXiv} Causal Effect Inference with Deep Latent-Variable Models
+68 {2017 arXiv} Multi-Scale Continuous CRFs as Sequential Deep Networks for Monocular Depth Estimation
+35 {2017 arXiv} Multiple Instance Detection Network With Online Instance Classifier Refinement
+93 {2017 arXiv} MMD GAN: Towards Deeper Understanding of Moment Matching Network
+16 {2017 arXiv} A-NICE-MC: Adversarial Training for MCMC
+107 {2016 arXiv} Coarse-To-Fine Volumetric Prediction for Single-Image 3D Human Pose
+32 {2017 arXiv} DeLiGAN : Generative Adversarial Networks for Diverse and Limited Data
+49 {2017} Unsupervised Video Summarization With Adversarial LSTM Networks
+48 {2016 arXiv} Local Binary Convolutional Neural Networks
+34 {2014 arXiv} Hard-Aware Deeply Cascaded Embedding
+19 {2017 arXiv} Query-Guided Regression Network With Context Policy for Phrase Grounding
+78 {2016 arXiv} End-To-End Instance Segmentation With Recurrent Attention
+39 {2016 arXiv} Improved Stereo Matching With Constant Highway Networks and Reflective Confidence Learning
+37 {2016 arXiv} Learning Shape Abstractions by Assembling Volumetric Primitives
+55 {2017 arXiv} Constrained Policy Optimization
+43 {2017 arXiv} Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks
+17 {2017 arXiv} Positive-Unlabeled Learning with Non-Negative Risk Estimator
+31 {2016 arXiv} Top-Down Visual Saliency Guided by Captions
+24 {2017 arXiv} Deep Image Harmonization
+75 {2016 arXiv} Shape Completion Using 3D-Encoder-Predictor CNNs and Shape Synthesis
+25 {2017 arXiv} What Actions Are Needed for Understanding Human Actions in Videos?
+30 {2016 arXiv} Feedback Networks
+55 {2016 arXiv} Video Propagation Networks
+17 {2017 arXiv} Self-Supervised Learning of Visual Features Through Embedding Images Into Text Topic Spaces
+89 {2017} Action-Decision Networks for Visual Tracking With Deep Reinforcement Learning
+28 {2017 arXiv} SurfaceNet: An End-To-End 3D Neural Network for Multiview Stereopsis
+7 {2017} Raster-To-Vector: Revisiting Floorplan Transformation
+109 {2016 arXiv} Optical Flow Estimation Using a Spatial Pyramid Network
+52 {2017 arXiv} TURN TAP: Temporal Unit Regression Network for Temporal Action Proposals
+45 {2017 arXiv} Not All Pixels Are Equal: Difficulty-Aware Semantic Segmentation via Deep Layer Cascade
+5 {2017 arXiv} Training Deep Networks without Learning Rates Through Coin Betting
+34 {2017 arXiv} Borrowing Treasures From the Wealthy: Deep Transfer Learning Through Selective Joint Fine-Tuning
+45 {2017 arXiv} Jointly Attentive Spatial-Temporal Pooling Networks for Video-Based Person Re-Identification
+41 {2017 arXiv} ALICE: Towards Understanding Adversarial Learning for Joint Distribution Matching
+96 {2016 arXiv} Full Resolution Image Compression With Recurrent Neural Networks
+55 {2017 arXiv} Playing for Benchmarks
+54 {2016 arXiv} Physically-Based Rendering for Indoor Scene Understanding Using Convolutional Neural Networks
+53 {2017 arXiv} Quality Aware Network for Set to Set Recognition
+105 {2016 arXiv} Person Re-Identification in the Wild
+92 {2017 arXiv} Toward Controlled Generation of Text
+68 {2017 arXiv} AdaGAN: Boosting Generative Models
+37 {2017 arXiv} Doubly Stochastic Variational Inference for Deep Gaussian Processes
+5 {2017 arXiv} Dance Dance Convolution
+14 {2017 arXiv} Convolutional Gaussian Processes
+1590 {2016 arXiv} Image-To-Image Translation With Conditional Adversarial Networks
+543 {2016 arXiv} Xception: Deep Learning With Depthwise Separable Convolutions
+98 {2017 arXiv} Escape From Cells: Deep Kd-Networks for the Recognition of 3D Point Cloud Models
+50 {2016 arXiv} Modeling Relationships in Referential Expressions With Compositional Modular Networks
+20 {2017 arXiv} Multi-Channel Weighted Nuclear Norm Minimization for Real Color Image Denoising
+26 {2017 arXiv} Deep Subspace Clustering Networks
+100 {2017 arXiv} A Distributional Perspective on Reinforcement Learning
+14 {2016 arXiv} Factorized Bilinear Models for Image Recognition
+42 {2017 arXiv} Online and Linear-Time Attention by Enforcing Monotonic Alignments
+38 {2017 arXiv} End-To-End 3D Face Reconstruction With Deep Neural Networks
+41 {2017 arXiv} Unsupervised Learning by Predicting Noise
+28 {2017} A Deep Regression Architecture With Two-Stage Re-Initialization for High Performance Facial Landmark Detection
+34 {2017} Synthesizing 3D Shapes via Modeling Multi-View Depth Maps and Silhouettes With Deep Generative Networks
+27 {2017 arXiv} CoupleNet: Coupling Global Structure With Local Parts for Object Detection
+21 {2017 arXiv} On-the-fly Operation Batching in Dynamic Computation Graphs
+52 {2017 arXiv} Curriculum Domain Adaptation for Semantic Segmentation of Urban Scenes
+64 {2017 arXiv} Dense-Captioning Events in Videos
+13 {2016 arXiv} Net-Trim: Convex Pruning of Deep Neural Networks with Performance Guarantee
+169 {2017 arXiv} Curiosity-driven Exploration by Self-supervised Prediction
+13 {2017} Deep IV: A Flexible Approach for Counterfactual Prediction
+57 {2017} SST: Single-Stream Temporal Action Proposals
+28 {2017 arXiv} Learning Discrete Representations via Information Maximizing Self-Augmented Training
+38 {2017 arXiv} Person Search With Natural Language Description
+28 {2017 arXiv} Triangle Generative Adversarial Networks
+33 {2016 arXiv} The Neural Hawkes Process: A Neurally Self-Modulating Multivariate Point Process
+22 {2017 arXiv} Differentiable Learning of Logical Rules for Knowledge Base Reasoning
+75 {2017 arXiv} Towards Diverse and Natural Image Descriptions via a Conditional GAN
+59 {2017 arXiv} Predicting Deeper Into the Future of Semantic Segmentation
+39 {2017} L2-Net: Deep Learning of Discriminative Patch Descriptor in Euclidean Space
+88 {2017 arXiv} CDC: Convolutional-De-Convolutional Networks for Precise Temporal Action Localization in Untrimmed Videos
+16 {2017 arXiv} Neural Expectation Maximization
+23 {2017 arXiv} Semantic Video CNNs Through Representation Warping
+14 {2017 arXiv} Learning Blind Motion Deblurring
+102 {2017 arXiv} EAST: An Efficient and Accurate Scene Text Detector
+44 {2016 arXiv} Efficient Diffusion on Region Manifolds: Recovering Small Objects With Compact CNN Representations
+31 {2017 arXiv}  Localizing Moments in Video With Natural Language
+73 {2017 arXiv} Grammar Variational Autoencoder
+42 {2017 arXiv} Hybrid Reward Architecture for Reinforcement Learning
+26 {2017 arXiv} Predicting Organic Reaction Outcomes with Weisfeiler-Lehman Network
+41 {2017 arXiv} Modulating early visual processing by language
+100 {2017 arXiv} Visual Translation Embedding Network for Visual Relation Detection
+33 {2017 arXiv} Structured Bayesian Pruning via Log-Normal Multiplicative Noise
+26 {2017 arXiv} A Disentangled Recognition and Nonlinear Dynamics Model for Unsupervised Learning
+115 {2016 arXiv} Video Pixel Networks
+142 {2017 arXiv} Adversarial Examples for Semantic Segmentation and Object Detection
+18 {2017 arXiv} Learned D-AMP: Principled Neural Network based Compressive Image Recovery
+45 {2016 arXiv} Learning Residual Images for Face Attribute Manipulation
+40 {2017 arXiv} Accurate Optical Flow via Direct Cost Volume Processing
+78 {2016 arXiv} Semantic Compositional Networks for Visual Captioning
+31 {2017 arXiv} Deriving Neural Architectures from Sequence and Graph Kernels
+16 {2017 arXiv} Generalized Orderless Pooling Performs Implicit Salient Matching
+39 {2017} Comparative Evaluation of Hand-Crafted and Learned Local Features
+23 {2017} Neural Scene De-Rendering
+60 {2017 arXiv} Stabilizing Training of Generative Adversarial Networks through Regularization
+14 {2017 arXiv} A Linear-Time Kernel Goodness-of-Fit Test
+14 {2017} Unsupervised Adaptation for Deep Stereo
+11 {2016 arXiv} On-Demand Learning for Deep Image Restoration
+18 {2017} Wavelet-SRNet: A Wavelet-Based CNN for Multi-Scale Face Super Resolution
+62 {2017 arXiv} SchNet: A continuous-filter convolutional neural network for modeling quantum interactions
+354 {2016 arXiv} Least Squares Generative Adversarial Networks
+51 {2017 arXiv} Multiplicative Normalizing Flows for Variational Bayesian Neural Networks
+39 {2017 arXiv} Diversified Texture Synthesis With Feed-Forward Networks
+47 {2017 arXiv} Masked Autoregressive Flow for Density Estimation
+24 {2017 arXiv} A Generic Deep Architecture for Single Image Reflection Removal and Image Smoothing
+23 {2017 arXiv} TALL: Temporal Activity Localization via Language Query
+55 {2017} Multiple People Tracking by Lifted Multicut and Person Re-Identification
+63 {2017 arXiv} Neural Episodic Control
+22 {2016 arXiv} Fast Fourier Color Constancy
+13 {2017} Face Normals "In-The-Wild" Using Fully Convolutional Networks
+4 {2017 arXiv} What's in a Question: Using Visual Questions as a Form of Supervision
+17 {2017} Deep Spectral Clustering Learning
+18 {2017} FC4: Fully Convolutional Color Constancy With Confidence-Weighted Pooling
+8 {2017 arXiv} Structured Embedding Models for Grouped Data
+52 {2016 arXiv} Temporal Generative Adversarial Nets With Singular Value Clipping
+14 {2016 arXiv} Template Matching With Deformable Diversity Similarity
+141 {2016 arXiv} Deep Transfer Learning with Joint Adaptation Networks
+71 {2017 arXiv} Learning to Generate Long-term Future via Hierarchical Prediction
+42 {2017 arXiv} Real Time Image Saliency for Black Box Classifiers
+35 {2017} Using Ranking-CNN for Age Estimation
+73 {2017} EnhanceNet: Single Image Super-Resolution Through Automated Texture Synthesis
+17 {2017 arXiv} Structured Attentions for Visual Question Answering
+140 {2016 arXiv} Semantic Image Inpainting With Deep Generative Models
+425 {2016 arXiv} Conditional Image Synthesis with Auxiliary Classifier GANs
+43 {2017 arXiv} Safe Model-based Reinforcement Learning with Stability Guarantees
+35 {2017 arXiv} Unified Deep Supervised Domain Adaptation and Generalization
+6 {2017 arXiv} Learning Detection With Diverse Proposals
+33 {2017 arXiv} Dynamic Word Embeddings
+15 {2017 arXiv} Learning Active Learning from Data
+26 {2017 arXiv} QMDP-Net: Deep Learning for Planning under Partial Observability
+23 {2017 arXiv} 3D-PRNN: Generating Shape Primitives With Recurrent Neural Networks
+85 {2017 arXiv} Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes
+5 {2017} SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization
+10 {2017 arXiv} The Statistical Recurrent Unit
+33 {2017 arXiv} Speaking the Same Language: Matching Machine to Human Captions by Adversarial Training
+92 {2017 arXiv} Geometric Loss Functions for Camera Pose Regression With Deep Learning
+36 {2017 arXiv} VidLoc: A Deep Spatio-Temporal Model for 6-DoF Video-Clip Relocalization
+38 {2017} StyleNet: Generating Attractive Visual Captions With Styles
+59 {2017 arXiv} Transformation-Grounded Image Generation Network for Novel 3D View Synthesis
+86 {2017 arXiv} Unsupervised Learning of Disentangled Representations from Video
+3 {2017 arXiv} GP CaKe: Effective brain connectivity with causal kernels
+22 {2017} 3D Point Cloud Registration for Localization Using a Deep Neural Network Auto-Encoder
+59 {2017 arXiv} Continual Learning Through Synaptic Intelligence
+32 {2017 arXiv} No Fuss Distance Metric Learning Using Proxies
+64 {2016 arXiv} Deep Learning on Lie Groups for Skeleton-Based Action Recognition
+6 {2017 arXiv} A Unified Approach of Multi-Scale Deep and Hand-Crafted Features for Defocus Estimation
+32 {2016 arXiv} LCNN: Lookup-Based Convolutional Neural Network
+22 {2017 arXiv} Harvesting Multiple Views for Marker-Less 3D Human Pose Annotations
+54 {2016 arXiv} Hierarchical Boundary-Aware Neural Encoder for Video Captioning
+9 {2017 arXiv} Deep 360 Pilot: Learning a Deep Agent for Piloting Through 360deg Sports Videos
+696 {2016 arXiv} Realtime Multi-Person 2D Pose Estimation Using Part Affinity Fields
+41 {2017} Learning to Detect Salient Objects With Image-Level Supervision
+9 {2017} DeepCD: Learning Deep Complementary Descriptors for Patch Representations
+28 {2017 arXiv} Learning to Prune Deep Neural Networks via Layer-wise Optimal Brain Surgeon
+4 {2017} State-Frequency Memory Recurrent Neural Networks
+10 {2017} Deep Co-Occurrence Feature Learning for Visual Object Recognition
+60 {2017 arXiv} Deep Variation-Structured Reinforcement Learning for Visual Relationship and Attribute Detection
+219 {2017 arXiv} Neural Message Passing for Quantum Chemistry
+11 {2016 arXiv} Stochastic Optimization with Variance Reduction for Infinite Datasets with Finite Sum Structure
+454 {2016 arXiv} Speed/Accuracy Trade-Offs for Modern Convolutional Object Detectors
+24 {2017 arXiv} Joint distribution optimal transportation for domain adaptation
+11 {2017 arXiv} Learning Spread-Out Local Feature Descriptors
+24 {2017} Real-Time Neural Style Transfer for Videos
+62 {2017 arXiv} Improved Variational Autoencoders for Text Modeling using Dilated Convolutions
+276 {2017 arXiv} Universal Adversarial Perturbations
+15 {2017 arXiv} Reducing Reparameterization Gradient Variance
+6 {2017 arXiv} Shading Annotations in the Wild
+5 {2017} YASS: Yet Another Spike Sorter
+36 {2017 arXiv} Temporal Context Network for Activity Localization in Videos
+12 {2017 arXiv} Learning High Dynamic Range From Outdoor Panoramas
+17 {2017 arXiv} Contrastive Learning for Image Captioning
+23 {2016 arXiv} Multimodal Transfer: A Hierarchical Deep Convolutional Neural Network for Fast Artistic Style Transfer
+8 {2017 arXiv} A Dirichlet Mixture Model of Hawkes Processes for Event Sequence Clustering
+43 {2016 arXiv} Phrase Localization and Visual Relationship Detection With Comprehensive Image-Language Cues
+4 {2017 arXiv} Zero-Order Reverse Filtering
+8 {2017 arXiv} Interspecies Knowledge Transfer for Facial Keypoint Detection
+12 {2017 arXiv} Domain-Adaptive Deep Network Compression
+2 {2017 arXiv} Variational Walkback: Learning a Transition Operator as a Stochastic Recurrent Net
+40 {2017 arXiv} Exploiting Saliency for Object Segmentation From Image Level Labels
+5 {2017 arXiv} Hash Embeddings for Efficient Word Representations
+6 {2016 arXiv} Straight to Shapes: Real-Time Detection of Encoded Shapes
+16 {2016 arXiv} Learning Continuous Semantic Representations of Symbolic Expressions
+90 {2017 arXiv} Towards Accurate Multi-Person Pose Estimation in the Wild
+25 {2017 arXiv} Weakly-Supervised Learning of Visual Relations
+73 {2017 arXiv} The Numerics of GANs
+49 {2017 arXiv} Asymmetric Tri-training for Unsupervised Domain Adaptation
+7 {2016 arXiv} Dense Captioning With Joint Inference and Visual Context
+16 {2017} STD2P: RGBD Semantic Segmentation Using Spatio-Temporal Data-Driven Pooling
+9 {2017 arXiv} Deep Mean-Shift Priors for Image Restoration
+25 {2017 arXiv} Incremental Learning of Object Detectors Without Catastrophic Forgetting
+10 {2017 arXiv} When Unsupervised Domain Adaptation Meets Tensor Representations
+16 {2017} Event-Based Visual Inertial Odometry
+2 {2017} Deep Growing Learning
+53 {2017 arXiv} Adversarial Feature Matching for Text Generation
+10 {2017} DropoutNet: Addressing Cold Start in Recommender Systems
+45 {2016 arXiv} Learning to Pivot with Adversarial Networks
+35 {2017} Open Set Domain Adaptation
+13 {2017 arXiv} Long Short-Term Memory Kalman Filters: Recurrent Neural Estimators for Pose Regularization
+33 {2017 arXiv} Dual Discriminator Generative Adversarial Nets
+19 {2017} Combined Group and Exclusive Sparsity for Deep Neural Networks
+11 {2017 arXiv} Stochastic Generative Hashing
+11 {2017 arXiv} Learning to Detect Sepsis with a Multitask Gaussian Process RNN Classifier
+4 {2017} Context Selection for Embedding Models
+63 {2017} Image Super-Resolution Using Dense Skip Connections
+39 {2017} Learning Dynamic Siamese Network for Visual Object Tracking
+13 {2017 arXiv} Structured Generative Adversarial Networks
+5 {2017} Joint Gap Detection and Inpainting of Line Drawings
+16 {2017 arXiv} Skeleton Key: Image Captioning by Skeleton-Attribute Decomposition
+10 {2017} DualNet: Learn Complementary Features for Image Recognition
+12 {2017 arXiv} A Bayesian Data Augmentation Approach for Learning Deep Models
+48 {2016 arXiv} Deep Metric Learning via Facility Location
+16 {2017 arXiv} Learning Compact Geometric Features
+9 {2017 arXiv} Scene Parsing With Global Context Embedding
+17 {2017 arXiv} Predictive-Corrective Networks for Action Detection
+9 {2017 arXiv} Attentive Semantic Video Generation Using Captions
+17 {2017 arXiv} Estimating Mutual Information for Discrete-Continuous Mixtures
+8 {2017 arXiv} Neural system identification for large populations separating “what” and “where”
+13 {2017} Deep Future Gaze: Gaze Anticipation on Egocentric Videos Using Adversarial Networks
+8 {2017} Learning to Push the Limits of Efficient FFT-Based Image Deconvolution
+5 {2017 arXiv} Accuracy First: Selecting a Differential Privacy Level for Accuracy Constrained ERM
+41 {2017 arXiv} MDNet: A Semantically and Visually Interpretable Medical Image Diagnosis Network
+19 {2017 arXiv} FALKON: An Optimal Large Scale Kernel Method
+33 {2017 arXiv} InfoGAIL: Interpretable Imitation Learning from Visual Demonstrations
+3 {2017} Zero-Inflated Exponential Family Embeddings
+8 {2017 arXiv} Deep Unsupervised Similarity Learning Using Partially Ordered Sets
+17 {2016 arXiv} POSEidon: Face-From-Depth for Driver Pose Estimation
+1205 {2017 arXiv} Unpaired Image-To-Image Translation Using Cycle-Consistent Adversarial Networks
+12 {2017} BIER - Boosting Independent Embeddings Robustly
+41 {2017 arXiv} Deep Multitask Architecture for Integrated 2D and 3D Human Sensing
+8 {2017 arXiv} Label Distribution Learning Forests
+39 {2017 arXiv} Chained Multi-Stream Networks Exploiting Pose, Motion, and Appearance for Action Classification and Detection
+24 {2017 arXiv} Learning Spherical Convolution for Fast Features from 360° Imagery
+22 {2017 arXiv} Deep Learning with Topological Signatures
+5 {2017 arXiv} Shallow Updates for Deep Reinforcement Learning
+8 {2017} Automatic Discovery of the Statistical Types of Variables in a Dataset
+20 {2017 arXiv} RoomNet: End-To-End Room Layout Estimation
+39 {2017 arXiv} Few-Shot Learning Through an Information Retrieval  Lens
+22 {2017 arXiv} Structure-Measure: A New Way to Evaluate Foreground Maps
+34 {2017 arXiv} Learning Proximal Operators: Using Denoising Networks for Regularizing Inverse Imaging Problems
+15 {2017 arXiv} Automatic Spatially-Aware Fashion Concept Discovery
+21 {2017 arXiv} Streaming Weak Submodularity: Interpreting Neural Networks on the Fly
+30 {2017 arXiv} Federated Multi-Task Learning
+73 {2017 arXiv} StyleBank: An Explicit Representation for Neural Image Style Transfer
+46 {2016 arXiv} Fully-Adaptive Feature Sharing in Multi-Task Networks With Applications in Person Attribute Classification
+20 {2016 arXiv} Off-policy evaluation for slate recommendation
+8 {2017 arXiv} Spatially-Varying Blur Detection Based on Multiscale Fused and Sorted Transform Coefficients of Gradient Magnitudes
+392 {2017} Wasserstein Generative Adversarial Networks
+12 {2017} Spherical convolutions and their application in molecular modelling
+84 {2017 arXiv} Variational Dropout Sparsifies Deep Neural Networks
+6 {2017 arXiv} ExtremeWeather: A large-scale climate dataset for semi-supervised detection, localization, and understanding of extreme weather events
+27 {2016 arXiv} Multi-Information Source Optimization
+32 {2016 arXiv} Captioning Images With Diverse Objects
+7 {2017} Weakly Supervised Affordance Detection
+24 {2017 arXiv} Recurrent 3D Pose Sequence Machines
+13 {2017 arXiv} VQS: Linking Segmentations to Questions and Answers for Supervised Attention in VQA and Question-Focused Semantic Segmentation
+6 {2017 arXiv} Estimating Accuracy from Unlabeled Data: A Probabilistic Logic Approach
+14 {2017 arXiv} Coordinated Multi-Agent Imitation Learning
+8 {2017 arXiv} Streaming Sparse Gaussian Process Approximations
+32 {2016 arXiv} Convexified Convolutional Neural Networks
+16 {2017} Realistic Dynamic Facial Textures From a Single Image Using GANs
+12 {2017} Hunt For The Unique, Stable, Sparse And Fast Feature Learning On Graphs
+65 {2017 arXiv} Neural Face Editing With Intrinsic Image Disentangling
+52 {2017 arXiv} Convolutional Neural Network Architecture for Geometric Matching
+95 {2016 arXiv} Deep Cross-Modal Hashing
+0 {2017} Unrolled Memory Inner-Products: An Abstract GPU Operator for Efficient Vision-Related Computations
+8 {2016 arXiv} Awesome Typography: Statistics-Based Text Effects Transfer
+4 {2016 arXiv} Multigrid Neural Architectures
+17 {2017 arXiv} Attributes2Classname: A Discriminative Model for Attribute-Based Unsupervised Zero-Shot Learning
+33 {2017 arXiv} Deep Supervised Discrete Hashing
+7 {2017} Consensus Convolutional Sparse Coding
+15 {2017} Maximizing Subset Accuracy with Recurrent Neural Networks in Multi-label Classification
+8 {2016 arXiv} Generalized Deep Image to Image Regression
+31 {2016 arXiv} Asynchronous Stochastic Gradient Descent with Delay Compensation
+28 {2016 arXiv} From Motion Blur to Motion Flow: A Deep Learning Solution for Removing Heterogeneous Motion Blur
+31 {2016 arXiv} IM2CAD
+12 {2017 arXiv} Predictive State Recurrent Neural Networks
+27 {2017 arXiv} Learning Diverse Image Colorization
+26 {2017} Deep Spatial-Semantic Attention for Fine-Grained Sketch-Based Image Retrieval
+19 {2016 arXiv} Differential Angular Imaging for Material Recognition
+40 {2017 arXiv} On Fairness and Calibration
+17 {2017} Light Field Blind Motion Deblurring
+10 {2017} Joint Learning of Object and Action Detectors
+7 {2017} VegFru: A Domain-Specific Dataset for Fine-Grained Visual Categorization
+37 {2017} Non-Local Deep Features for Salient Object Detection
+22 {2017 arXiv} Adversarial Image Perturbation for Privacy Protection -- A Game Theory Perspective
+53 {2017 arXiv} DESIRE: Distant Future Prediction in Dynamic Scenes With Interacting Agents
+22 {2017} Learned Contextual Feature Reweighting for Image Geo-Localization
+11 {2017 arXiv} Scalable Log Determinants for Gaussian Process Kernel Learning
+7 {2017 arXiv} Attend and Predict: Understanding Gene Regulation by Selective Attention on Chromatin
+5 {2017 arXiv} f-GANs in an Information Geometric Nutshell
+27 {2017 arXiv} Learning Cross-Modal Deep Representations for Robust Pedestrian Detection
+16 {2017 arXiv} High-Order Attention Models for Visual Question Answering
+45 {2017 arXiv} CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training
+63 {2017} Removing Rain From Single Images via a Deep Detail Network
+12 {2017 arXiv} Breaking the Nonsmooth Barrier: A Scalable Parallel Method for Composite Optimization
+1 {2017 arXiv} Practical Data-Dependent Metric Compression with Provable Guarantees
+66 {2017} Attentional Correlation Filter Network for Adaptive Visual Tracking
+8 {2017 arXiv} Surface Normals in the Wild
+27 {2017 arXiv} Fisher GAN
+3 {2017 arXiv} Do Deep Neural Networks Suffer from Crowding?
+6 {2017 arXiv} Confident Multiple Choice Learning
+20 {2017} Higher-Order Integration of Hierarchical Convolutional Activations for Fine-Grained Visual Categorization
+46 {2017 arXiv} Gradient descent GAN optimization is locally stable
+12 {2017 arXiv} Predicting Human Activities Using Stochastic Grammar
+55 {2016 arXiv} Learning Motion Patterns in Videos
+27 {2017 arXiv} Max-value Entropy Search for Efficient Bayesian Optimization
+135 {2017} Disentangled Representation Learning GAN for Pose-Invariant Face Recognition
+8 {2017 arXiv} Curriculum Dropout
+38 {2017} A Hierarchical Approach for Generating Descriptive Image Paragraphs
+67 {2017 arXiv} Formal Guarantees on the Robustness of a Classifier against Adversarial Manipulation
+6 {2017} Cost efficient gradient boosting
+16 {2017 arXiv} DeepNav: Learning to Navigate Large Cities
+13 {2017} Introspective Neural Networks for Generative Modeling
+20 {2017 arXiv} Benchmarking Denoising Algorithms With Real Photographs
+5 {2017} Affinity Clustering: Hierarchical Clustering at Scale
+94 {2016 arXiv} Neural Aggregation Network for Video Face Recognition
+11 {2017} A Non-Convex Variational Approach to Photometric Stereo Under Inaccurate Lighting
+2 {2017 arXiv} Plan, Attend, Generate: Planning for Sequence-to-Sequence Models
+8 {2016 arXiv} Input Switched Affine Networks: An RNN Architecture Designed for Interpretability
+5 {2017 arXiv} Online multiclass boosting
+4 {2017 arXiv} A Multilayer-Based Framework for Online Background Subtraction With Freely Moving Cameras
+22 {2016 arXiv} Gaze Embeddings for Zero-Shot Image Classification
+15 {2017 arXiv} Revisiting IM2GPS in the Deep Learning Era
+16 {2017 arXiv} DeepPermNet: Visual Permutation Learning
+10 {2017 arXiv} Towards a Visual Privacy Advisor: Understanding and Predicting Privacy Risks in Images
+42 {2017 arXiv} Attention-Aware Face Hallucination via Deep Reinforcement Learning
+18 {2017} RPAN: An End-To-End Recurrent Pose-Attention Network for Action Recognition in Videos
+6 {2017 arXiv} Model-Powered Conditional Independence Test
+22 {2017} Optimized Pre-Processing for Discrimination Prevention
+4 {2017} Diverse Image Annotation
+5 {2017 arXiv} Lost Relatives of the Gumbel Trick
+10 {2016 arXiv} Reflectance Adaptive Filtering Improves Intrinsic Image Estimation
+11 {2017} Weakly Supervised Learning of Deep Metrics for Stereo Reconstruction
+4 {2017} Centered Weight Normalization in Accelerating Training of Deep Neural Networks
+93 {2017 arXiv} End-To-End Learning of Geometry and Context for Deep Stereo Regression
+248 {2016 arXiv} Unsupervised Pixel-Level Domain Adaptation With Generative Adversarial Networks
+0 {2017} Tensor Biclustering
+17 {2016 arXiv}  Improving Training of Deep Neural Networks via Singular Value Bounding
+2 {2017 arXiv} Bayesian inference on random simple graphs with power law degree distributions
+3 {2017 arXiv} Building a Regular Decision Boundary With Deep Networks
+3 {2017 arXiv} Practical Hash Functions for Similarity Estimation and Dimensionality Reduction
+27 {2017 arXiv} Multi-Label Image Recognition by Recurrently Discovering Attentional Regions
+6 {2017 arXiv} Scalable Planning with Tensorflow for Hybrid Nonlinear Domains
+9 {2017} Deep Crisp Boundaries
+10 {2017 arXiv} Riemannian approach to batch normalization
+9 {2017} Following Gaze in Video
+13 {2017 arXiv} Analyzing Hidden Representations in End-to-End Automatic Speech Recognition Systems
+3 {2017 arXiv} Reasoning About Fine-Grained Attribute Phrases Using Reference Games
+4 {2017} Personalized Image Aesthetics
+9 {2016 arXiv} The World of Fast Moving Objects
+56 {2017 arXiv} Robust Adversarial Reinforcement Learning
+23 {2017 arXiv} Learning Algorithms for Active Learning
+12 {2017 arXiv} Viraliency: Pooling Local Virality
+6 {2017 arXiv} Click Here: Human-Localized Keypoints as Guidance for Viewpoint Estimation
+25 {2017} Deep TextSpotter: An End-To-End Trainable Scene Text Localization and Recognition Framework
+271 {2016 arXiv} Unsupervised Monocular Depth Estimation With Left-Right Consistency
+112 {2017 arXiv} Cognitive Mapping and Planning for Visual Navigation
+24 {2016 arXiv} Recursive Sampling for the Nystrom Method
+10 {2017 arXiv} Learning From Video and Text via Large-Scale Discriminative Clustering
+9 {2017 arXiv} Learning Koopman Invariant Subspaces for Dynamic Mode Decomposition
+6 {2016 arXiv} K-Medoids For K-Means Seeding
+19 {2017 arXiv} Sticking the Landing: Simple, Lower-Variance Gradient Estimators for Variational Inference
+3 {2017 arXiv} NeuralFDR: Learning Discovery Thresholds from Hypothesis Features
+17 {2017 arXiv} Diving into the shallows: a computational perspective on large-scale shallow learning
+0 {2017} Sparse convolutional coding for neuronal assembly detection
+4 {2017 arXiv} Testing and Learning on Distributions with Symmetric Noise Invariance
+58 {2017} Point to Set Similarity Based Deep Feature Learning for Person Re-Identification
+9 {2017} Self-Organized Text Detection With Minimal Post-Processing via Border Learning
+28 {2016 arXiv} Rotation Equivariant Vector Field Networks
+2 {2017} Regret Minimization in MDPs with Options without Prior Knowledge
+19 {2017} SubUNets: End-To-End Hand Shape and Continuous Sign Language Recognition
+12 {2017} Cross-Modality Binary Code Learning via Fusion Similarity Hashing
+14 {2017 arXiv} Joint Discovery of Object States and Manipulation Actions
+28 {2017 arXiv} Zero-Shot Recognition Using Dual Visual-Semantic Mapping Paths
+2 {2017 arXiv} Active Decision Boundary Annotation With Deep Generative Models
+7 {2017} Object Co-Skeletonization With Co-Segmentation
+5 {2017 arXiv} Conic Scan-and-Cover algorithms for nonparametric topic modeling
+14 {2017 arXiv} Decoupling "when to update" from "how to update"
+2 {2016 arXiv} ROAM: A Rich Object Appearance Model With Application to Rotoscoping
+219 {2017 arXiv} Understanding Black-box Predictions via Influence Functions
+25 {2017 arXiv} Guarantees for Greedy Maximization of Non-submodular Functions with Applications
+22 {2017 arXiv} Forecasting Human Dynamics From Static Images
+7 {2017 arXiv} From Bayesian Sparsity to Gated Recurrent Nets
+6 {2017 arXiv} Discover and Learn New Objects From Documentaries
+8 {2017 arXiv} Global optimization of Lipschitz functions
+10 {2016 arXiv} Bottleneck Conditional Density Estimation
+310 {2016 arXiv} Grad-CAM: Visual Explanations From Deep Networks via Gradient-Based Localization
+24 {2017} From Red Wine to Red Tomato: Composition With Context
+12 {2017} Predicting Salient Face in Multiple-Face Videos
+93 {2017 arXiv} Learning Cooperative Visual Dialog Agents With Deep Reinforcement Learning
+14 {2017} Deep Recurrent Neural Network-Based Identification of Precursor microRNAs
+9 {2017 arXiv} Pose-Aware Person Recognition
+6 {2017 arXiv} Differentially private Bayesian learning on distributed data
+9 {2017 arXiv} Question Asking as Program Generation
+1 {2017 arXiv} Multi-way Interacting Regression via Factorization Machines
+16 {2017 arXiv} Loss Max-Pooling for Semantic Image Segmentation
+89 {2017 arXiv} Large Margin Object Tracking With Circulant Feature Maps
+31 {2016 arXiv} Counting Everyday Objects in Everyday Scenes
+2 {2017} Aesthetic Critiques Generation for Photos
+47 {2017 arXiv} Making Deep Neural Networks Robust to Label Noise: A Loss Correction Approach
+6 {2017} Rolling-Shutter-Aware Differential SfM and Image Rectification
+8 {2017 arXiv} Non-monotone Continuous DR-submodular  Maximization: Structure and Algorithms
+16 {2017 arXiv} Unsupervised Learning of Object Landmarks by Factorized Spatial Embeddings
+11 {2017 arXiv} Unifying PAC and Regret: Uniform PAC Bounds for Episodic Reinforcement Learning
+126 {2016 arXiv} Lip Reading Sentences in the Wild
+12 {2017 arXiv} On Structured Prediction Theory with Calibrated Convex Surrogate Losses
+2 {2017} Expectation Propagation with Stochastic Kinetic Model in Complex Interaction Systems
+5 {2017 arXiv} Toward Goal-Driven Neural Network Models for the Rodent Whisker-Trigeminal System
+7 {2017 arXiv} Near-Optimal Edge Evaluation in Explicit Generalized Binomial Graphs
+15 {2016 arXiv} A Unified View of Multi-Label Performance Measures
+12 {2017 arXiv} Deep Latent Dirichlet Allocation with Topic-Layer-Adaptive Stochastic Gradient Riemannian MCMC
+1 {2017} Tensor Belief Propagation
+0 {2017} Compatible Reward Inverse Reinforcement Learning
+9 {2017} Adversarial Surrogate Losses for Ordinal Regression
+4 {2016 arXiv} Alternating Direction Graph Matching
+14 {2017 arXiv} A framework for Multi-A(rmed)/B(andit) Testing with Online FDR Control
+20 {2017 arXiv} Encoder Based Lifelong Learning
+906 {2016 arXiv} R-FCN: Object Detection via Region-based Fully Convolutional Networks
+693 {2016} Image Style Transfer Using Convolutional Neural Networks
+16326 {2015 arXiv} Deep Residual Learning for Image Recognition
+609 {2016 arXiv} Convolutional Pose Machines
+189 {2016 arXiv} Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis
+235 {2015 arXiv} Synthetic Data for Text Localisation in Natural Images
+386 {2015 arXiv} Instance-Aware Semantic Segmentation via Multi-Task Network Cascades
+643 {2015 arXiv} Learning Multi-Domain Convolutional Neural Networks for Visual Tracking
+749 {2015 arXiv} Learning Deep Features for Discriminative Localization
+593 {2016 arXiv} Convolutional Two-Stream Network Fusion for Video Action Recognition
+270 {2015 arXiv} Deep Metric Learning via Lifted Structured Feature Embedding
+169 {2016 arXiv} Learning Deep Representations of Fine-Grained Visual Descriptions
+143 {2016 arXiv} Eye Tracking for Everyone
+373 {2015 arXiv} NetVLAD: CNN Architecture for Weakly Supervised Place Recognition
+103 {2016 arXiv} Joint Unsupervised Learning of Deep Representations and Image Clusters
+387 {2015 arXiv} Staple: Complementary Learners for Real-Time Tracking
+907 {2015 arXiv} Accurate Image Super-Resolution Using Very Deep Convolutional Networks
+178 {2016 arXiv} Temporal Action Localization in Untrimmed Videos via Multi-Stage CNNs
+65 {2016} LocNet: Improving Localization Accuracy for Object Detection
+169 {2016 arXiv} Shallow and Deep Convolutional Networks for Saliency Prediction
+192 {2015 arXiv} Compact Bilinear Pooling
+89 {2016} Learning Compact Binary Descriptors With Unsupervised Deep Neural Networks
+2751 {2015 arXiv} Rethinking the Inception Architecture for Computer Vision
+192 {2015 arXiv} Deep Sliding Shapes for Amodal 3D Object Detection in RGB-D Images
+209 {2016} Dynamic Image Networks for Action Recognition
+704 {2016 arXiv} Context Encoders: Feature Learning by Inpainting
+68 {2016 arXiv} TI-Pooling: Transformation-Invariant Pooling for Feature Learning in Convolutional Neural Networks
+160 {2015 arXiv} Natural Language Object Retrieval
+156 {2015 arXiv} Weakly Supervised Deep Detection Networks
+372 {2015 arXiv} Deeply-Recursive Convolutional Network for Image Super-Resolution
+150 {2015 arXiv} Image Question Answering Using Convolutional Neural Network With Dynamic Parameter Prediction
+60 {2016} A Comparative Study for Single Image Blind Deblurring
+156 {2016} Recurrent Convolutional Network for Video-Based Person Re-Identification
+294 {2015 arXiv} Neural Module Networks
+477 {2015 arXiv} Stacked Attention Networks for Image Question Answering
+492 {2016 arXiv} Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network
+8 {2016} Progressive Prioritized Multi-View Stereo
+102 {2016 arXiv} A Hierarchical Deep Temporal Model for Group Activity Recognition
+96 {2016 arXiv} Robust 3D Hand Pose Estimation in Single Depth Images: From Single-View CNN to Multi-View CNNs
+101 {2015 arXiv} Towards Open Set Deep Networks
+103 {2016 arXiv} Marr Revisited: 2D-3D Alignment via Surface Normal Prediction
+91 {2016} Bilateral Space Video Segmentation
+101 {2015 arXiv} Deep Compositional Captioning: Describing Novel Object Categories Without Paired Training Data
+107 {2016} Video Segmentation via Object Flow
+27 {2016} Efficient 3D Room Shape Recovery From a Single Panorama
+49 {2016 arXiv} CRAFT Objects From Images
+36 {2016} Slicing Convolutional Neural Network for Crowd Video Understanding
+67 {2016} Deep Region and Multi-Label Learning for Facial Action Unit Detection
+198 {2016} Deep Supervised Hashing for Fast Image Retrieval
+90 {2016} Sketch Me That Shoe
+84 {2015 arXiv} A Dual-Source Approach for 3D Pose Estimation From a Single Image
+232 {2016} A Benchmark Dataset and Evaluation Methodology for Video Object Segmentation
+359 {2016 arXiv} Image Captioning With Semantic Attention
+119 {2016 arXiv} Deep Saliency With Encoded Low Level Distance Map and High Level Features
+176 {2016} Non-Local Image Dehazing
+94 {2015 arXiv} Learning Local Image Descriptors With Deep Siamese and Triplet Convolutional Networks by Minimising Global Loss Functions
+100 {2016 arXiv} Structured Feature Learning for Pose Estimation
+100 {2016} Ordinal Regression With Multiple Output CNN for Age Estimation
+42 {2015 arXiv} Unsupervised Learning of Edges
+44 {2015 arXiv} PatchBatch: A Batch Augmented Loss for Optical Flow
+50 {2016 arXiv} Recurrent Attention Models for Depth-Based Person Identification
+39 {2016 arXiv} Actionness Estimation Using Hybrid Fully Convolutional Networks
+2920 {2015 arXiv} You Only Look Once: Unified, Real-Time Object Detection
+52 {2016 arXiv} Fast Training of Triplet-Based Deep Binary Embedding Networks
+66 {2016} First Person Action Recognition Using Deep Learned Descriptors
+88 {2015 arXiv} Dense Human Body Correspondences Using Convolutional Networks
+21 {2016 arXiv} Detecting Vanishing Points Using Global Image Context in a Non-Manhattan World
+45 {2015 arXiv} Proposal Flow
+10 {2016} Accumulated Stability Voting: A Robust Descriptor From Descriptors of Multiple Scales
+13 {2016} Scale-Aware Alignment of Hierarchical Image Segmentation
+55 {2016} Semantic Segmentation With Boundary Neural Fields
+38 {2015 arXiv} Bottom-Up and Top-Down Reasoning With Hierarchical Rectified Gaussians
+15 {2016} Structure From Motion With Objects
+181 {2016} Single-Image Crowd Counting via Multi-Column Convolutional Neural Network
+204 {2015 arXiv} Quantized Convolutional Neural Networks for Mobile Devices
+22 {2016} Interactive Segmentation on RGBD Images via Cue Selection
+111 {2016 arXiv}  ReconNet: Non-Iterative Reconstruction of Images From Compressively Sensed Measurements
+21 {2016} Semantic Filtering
+213 {2016} Similarity Learning With Spatial Constraints for Person Re-Identification
+37 {2015 arXiv} Personalizing Human Video Pose Estimation
+83 {2015 arXiv} Visually Indicated Sounds
+26 {2015 arXiv} Automatic Content-Aware Color and Tone Stylization
+114 {2016} Online Detection and Classification of Dynamic Hand Gestures With Recurrent 3D Convolutional Neural Network
+61 {2016} Unsupervised Learning From Narrated Instruction Videos
+13 {2016} Region Ranking SVM for Image Classification
+165 {2015 arXiv} Where to Look: Focus Regions for Visual Question Answering
+21 {2016} Pairwise Matching Through Max-Weight Bipartite Belief Propagation
+2 {2016} Detecting Migrating Birds at Night
+46 {2016} Deep Hand: How to Train a CNN on 1 Million Hand Images When Your Data Is Continuous and Weakly Labelled
+97 {2015 arXiv} Patch-Based Convolutional Neural Network for Whole Slide Tissue Image Classification
+92 {2016 arXiv} Recurrent Attentional Networks for Saliency Detection
+19 {2016} Efficient and Robust Color Consistency for Community Photo Collections
+109 {2016 arXiv} Object Contour Detection With a Fully Convolutional Encoder-Decoder Network
+16 {2016} 3D Shape Attributes
+5 {2016} Functional Faces: Groupwise Dense Correspondence Using Functional Maps
+82 {2016 arXiv} Beyond Local Search: Tracking Objects Everywhere With Instance-Specific Proposals
+321 {2016 arXiv} Learning a Discriminative Null Space for Person Re-Identification
+65 {2016} Visual Tracking Using Attention-Modulated Disintegration and Integration
+184 {2016} Efficient Deep Learning for Stereo Matching
+22 {2016 arXiv} Improving Human Action Recognition by Non-Action Classification
+8 {2016} Globally Optimal Manhattan Frame Estimation in Real-Time
+14 {2016} Prior-Less Compressible Structure From Motion
+128 {16 arXiv} Cross-Stitch Networks for Multi-Task Learning
+16 {2016} Context-Aware Gaussian Fields for Non-Rigid Point Set Registration
+14 {2016} Force From Motion: Decoding Physical Sensation in a First Person Video
+386 {2015 arXiv} DenseCap: Fully Convolutional Localization Networks for Dense Captioning
+5822 {2015 arXiv} Faster R-CNN: Towards Real-Time Object Detectionwith Region Proposal Networks
+4124 {2015 arXiv} Fast R-CNN
+1230 {2015 arXiv} Conditional Random Fields as Recurrent Neural Networks
+7049 {2014 arXiv} Fully Convolutional Networks for Semantic Segmentation
+1317 {2015 arXiv} Learning Deconvolution Network for Semantic Segmentation
+497 {2015 arXiv} Learning to Compare Image Patches via Convolutional Neural Networks
+197 {2015} Learning to Track: Online Multi-Object Tracking by Decision Making
+418 {2015}  Single Image Super-Resolution From Transformed Self-Exemplars
+469 {2015 arXiv} Sequence to Sequence - Video to Text
+142 {2015} Deep Neural Decision Forests
+600 {2015} Hierarchical Convolutional Features for Visual Tracking
+137 {2015} Deep Colorization
+294 {2015 arXiv} Render for CNN: Viewpoint Estimation in Images Using CNNs Trained With Rendered 3D Model Views
+27 {2015} Realtime Edge-Based Visual Odometry for a Monocular Camera
+599 {2014 arXiv} Understanding Deep Image Representations by Inverting Them
+47 {2015 arXiv} Context-Aware CNNs for Person Head Detection
+242 {2015} Face Alignment by Coarse-to-Fine Shape Searching
+2114 {2014 arXiv} Show and Tell: A Neural Image Caption Generator
+602 {2015} An Improved Deep Learning Architecture for Person Re-Identification
+102 {2015 arXiv} Depth-Based Hand Pose Estimation: Data, Methods, and Challenges
+2311 {2015 arXiv} FaceNet: A Unified Embedding for Face Recognition and Clustering
+56 {2015} Massively Parallel Multiview Stereopsis by Surface Normal Diffusion
+67 {2015} Learning to Propose Objects
+330 {2015} DynamicFusion: Reconstruction and Tracking of Non-Rigid Scenes in Real-Time
+491 {2015} A Convolutional Neural Network Cascade for Face Detection
+509 {2015} Learning Spatially Regularized Correlation Filters for Visual Tracking
+289 {2015} Unsupervised Visual Representation Learning by Context Prediction
+259 {2015} Discriminative Learning of Deep Convolutional Feature Point Descriptors
+369 {2015} Saliency Detection by Multi-Context Deep Learning
+932 {2014 arXiv} Deep Neural Networks Are Easily Fooled: High Confidence Predictions for Unrecognizable Images
+350 {2015} Deep Filter Banks for Texture Recognition and Segmentation
+297 {2014 arXiv} Finding Action Tubes
+130 {2014 arXiv} Category-Specific Object Reconstruction From a Single Image
+51 {2015} Multi-Objective Convolutional Learning for Face Labeling
+157 {2015} Learning From Massive Noisy Labeled Data for Image Classification
+234 {2015} P-CNN: Pose-Based CNN Features for Action Recognition
+25 {2015 arXiv} Image Specificity
+57 {2015 arXiv} Convolutional Color Constancy
+6 {2015} Face Flow
+775 {2014 arXiv} Predicting Depth, Surface Normals and Semantic Labels With a Common Multi-Scale Convolutional Architecture
+165 {2015} Neural Activation Constellations: Unsupervised Part Model Discovery With Convolutional Networks
+903 {2015} VQA: Visual Question Answering
+75 {2014 arXiv} Mid-Level Deep Pattern Mining
+73 {2015 arXiv} Car That Knows Before You Do: Anticipating Maneuvers via Learning Temporal Driving Models
+65 {2014 arXiv} TILDE: A Temporally Invariant Learned DEtector
+347 {2015 arXiv} PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization
+10 {2015} Parsimonious Labeling
+65 {2015} Fast Bilateral-Space Stereo for Synthetic Defocus
+121 {2015} Deeply Learned Attributes for Crowded Scene Understanding
+346 {2015} Recurrent Convolutional Neural Network for Object Recognition
+184 {2015} In Defense of Color-Based Model-Free Tracking
+63 {2015} Understanding Tools: Task-Oriented Object Modeling, Learning and Recognition
+162 {2014 arXiv} Viewpoints and Keypoints
+51 {2015} Unconstrained 3D Face Reconstruction
+119 {2015} Data-Driven 3D Voxel Patterns for Object Category Recognition
+58 {2015} Phase-Based Frame Interpolation for Video
+10824 {2014 arXiv} Going Deeper With Convolutions
+693 {2015} Holistically-Nested Edge Detection
+113 {2015} Reconstructing the World* in Six Days *(As Captured by the Yahoo 100 Million Image Dataset)
+43 {2015} L0TV: A New Method for Image Restoration in the Presence of Impulse Noise
+76 {2015 arXiv} Beyond Frontal Faces: Improving Person Recognition Using Multiple Cues
+63 {2015} Understanding Deep Features With Computer-Generated Imagery
+61 {2015} Learning Large-Scale Automatic Image Colorization
+64 {2015} HICO: A Benchmark for Recognizing Human-Object Interactions in Images
+1 {2015} Semantic Component Analysis
+323 {2015 arXiv} Simultaneous Feature Learning and Hash Coding With Deep Neural Networks
+22 {2015} 3D Object Reconstruction From Hand-Object Interactions
+3 {2015} Structured Feature Selection
+41 {2015 arXiv} Learning Temporal Embeddings for Complex Video Analysis
+216 {2015 arXiv} Learning to See by Moving
+51 {2014 arXiv} Oriented Edge Forests for Boundary Detection
+62 {2015} Reflection Removal Using Ghosting Cues
+243 {2015} A Large-Scale Car Dataset for Fine-Grained Categorization and Verification
+158 {2015} Where to Buy It: Matching Street Clothing Photos in Online Shops
+15 {2015} High Quality Structure From Small Motion for Rolling Shutter Cameras
+191 {2015} Appearance-Based Gaze Estimation in the Wild
+61 {2015} Robust Image Filtering Using Joint Static and Dynamic Guidance
+65 {2015} Partial Person Re-Identification
+357 {2015} Unsupervised Learning of Visual Representations Using Videos
+168 {2015} Convolutional Channel Features
+27 {2015} Boosting Object Proposals: From Pascal to COCO
+17 {2015} Live Repetition Counting
+439 {2015} Supervised Discrete Hashing
+21 {2015} Piecewise Flat Embedding for Image Segmentation
+9 {2015} Simpler Non-Parametric Methods Provide as Good or Better Results to Multiple-Instance Learning
+10 {2015} Finding Distractors In Images
+111 {2015} Pooled Motion Features for First-Person Videos
+86 {2015} Towards Open World Recognition
+13 {2015} Learning a Descriptor-Specific 3D Keypoint Detector
+41 {2015} What Makes an Object Memorable?
+37 {2015} Mining Semantic Affordances of Visual Object Categories
+412 {2015} Long-Term Correlation Tracking
+25 {2015 arXiv} Dense Semantic Correspondence Where Every Pixel is a Classifier
+11 {2015} Superdifferential Cuts for Binary Energies
+27 {2015} Efficient Minimal-Surface Regularization of Perspective Depth Maps in Variational Stereo
+20 {2015 arXiv} Pose Induction for Novel Object Categories
+25 {2015} Low-Rank Matrix Factorization Under General Mixture Noise Distributions
+537 {2015} Multi-View Convolutional Neural Networks for 3D Shape Recognition
+337 {2015} Simultaneous Deep Transfer Across Domains and Tasks
+21 {2015} Oriented Object Proposals
+39 {2015} Fast Randomized Singular Value Thresholding for Nuclear Norm Minimization
+76 {2015} Multi-Label Cross-Modal Retrieval
+36 {2015} Simultaneous Video Defogging and Stereo Reconstruction
+74 {2015} Hyperspectral Super-Resolution by Coupled Spectral Unmixing
+193 {2015} Minimum Barrier Salient Object Detection at 80 FPS
+112 {2015} Robust Saliency Detection via Regularized Random Walks Ranking
+24 {2015} Segment Graph Based Image Filtering: Fast Structure-Preserving Smoothing
+8 {2015} kNN Hashing With Factorized Neighborhood Representation
+13 {2015} Unsupervised Generation of a Viewpoint Annotated Car Dataset From Videos
+7018 {2013 arXiv} Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation
+131 {2014} Locally Optimized Product Quantization for Approximate Nearest Neighbor Search
+87 {2014} Clothing Co-Parsing by Joint Image Segmentation and Labeling
+762 {2014} Multiscale Combinatorial Grouping
+567 {2014} Face Alignment at 3000 FPS via Regressing Local Binary Features
+97 {2014} Cross-Scale Cost Aggregation for Stereo Matching
+1006 {2014} Deep Learning Face Representation from Predicting 10,000 Classes
+854 {2014} BING: Binarized Normed Gradients for Objectness Estimation at 300fps
+46 {2014} 3D Reconstruction from Accidental Motion
+60 {2014} Predicting Matchability
+175 {2014} Transfer Joint Matching for Unsupervised Domain Adaptation
+911 {2014} One Millisecond Face Alignment with an Ensemble of Regression Trees
+147 {2014} Scene-Independent Group Profiling in Crowd
+64 {2014} Dense Semantic Image Segmentation with Objects and Attributes
+185 {2014} Shrinkage Fields for Effective Image Restoration
+748 {2014} Adaptive Color Attributes for Real-Time Visual Tracking
+432 {2014} Learning Mid-level Filters for Person Re-identification
+37 {2014} Minimal Scene Descriptions from Structure from Motion Models
+128 {2014} Fast Edge-Preserving PatchMatch for Large Displacement Optical Flow
+262 {2014} Seeing 3D Chairs: Exemplar Part-based 2D-3D Alignment using a Large Dataset of CAD Models
+23 {2014} Product Sparse Coding
+132 {2014} Parallax-tolerant Image Stitching
+295 {2014} Convolutional Neural Networks for No-Reference Image Quality Assessment
+27 {2014} StoryGraphs: Visualizing Character Interactions as a Timeline
+93 {2014} Nonparametric Part Transfer for Fine-grained Recognition
+41 {2014} Scalable Multitask Representation Learning for Scene Classification
+74 {2014} Collaborative Hashing
+71 {2014} Reconstructing PASCAL VOC
+211 {2014} Investigating Haze-relevant Features in A Learning Framework for Image Dehazing
+74 {2014} Tell Me What You See and I will Show You Where It Is
+191 {2014 CVPR} Salient Region Detection via High-Dimensional Color Transform
