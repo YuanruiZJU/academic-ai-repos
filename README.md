@@ -1,4 +1,4 @@
-# What makes a popular academic AI repository?
+# What Makes a Popular Academic AI Repository?
 This repository is the accompanying repository for our paper "What Makes a popular Academic AI Repository"
 
 [[arxiv]](https://arxiv.org/abs/2010.02472)
