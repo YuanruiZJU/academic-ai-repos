@@ -2,6 +2,7 @@
 This repository is the accompanying repository for our paper "What Makes a popular Academic AI Repository"
 
 [[arxiv]](https://arxiv.org/abs/2010.02472)
+[[published version]](https://link.springer.com/article/10.1007/s10664-020-09916-6)
 
 Many AI researchers use GitHub repositories to share data, software code and other resources that accompany their publications. 
 We refer to such GitHub repositories as academic AI repositories. 
