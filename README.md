@@ -1,5 +1,7 @@
 # What Makes a Popular Academic AI Repository?
 This repository is the accompanying repository for our paper "What Makes a popular Academic AI Repository"
+This paper has been published in Springer's Empirical Software Engineering.
+
 
 [[arxiv]](https://arxiv.org/abs/2010.02472)
 [[published version]](https://link.springer.com/article/10.1007/s10664-020-09916-6)
